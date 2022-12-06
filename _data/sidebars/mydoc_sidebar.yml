@@ -28,8 +28,16 @@ entries:
       output: web
       type: homepage
 
-    - title: pembukaan
-      url: /pembukaan.html
+    - title: About us
+      url: /about_us.html
+      output: web
+
+    - title: Disclaimer
+      url: /disclaimer.html
+      output: web
+
+    - title: Privacy policy
+      url: /privacy_policy.html
       output: web
 
   - title: Clash openwrt
