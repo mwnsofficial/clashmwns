@@ -1,6 +1,6 @@
 ---
 title: cara mengatur tun redir host
-keywords: documentation, technical writers, help authoring tools, hat replacements
+keywords: redirhost, tun, tunmix
 last_updated: Desember 06, 2020
 tags: [redir_host]
 summary: "Sebelum anda melakukan pengaturan, pastikan anda sudah memiliki sebuah konfigurasi."
