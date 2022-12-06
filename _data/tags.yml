@@ -10,7 +10,8 @@ allowed-tags:
   - single_sourcing
   - special_layouts
   - collaboration
-  - news
+  - openwrt
+  - install
   - troubleshooting
   - mobile
 
