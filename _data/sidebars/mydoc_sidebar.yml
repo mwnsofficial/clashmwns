@@ -70,7 +70,7 @@ entries:
           output: web
 
         - title: pengaturan control panel
-          url: /tag_dns.html
+          url: /tag_control_panel.html
           output: web
 
         - title: pengaturan rules setting
