@@ -1,7 +1,7 @@
 ---
 title: "disclaimer"
 keywords: disclaimer
-tags: [getting_started]
+tags: [overview]
 sidebar: mydoc_sidebar
 permalink: disclaimer.html
 summary: Disclaimer dari clashmwns.
