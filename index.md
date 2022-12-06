@@ -37,9 +37,11 @@ Untuk install clash ada beberapa type yang bisa anda dapatkan pada materi clashm
 
 Untuk install paket repository ini seperti yang di rangkum oleh situs vernesong.
 
-```
-Silahkan anda untuk mengetuk menu tabel cara install clash
-```
+<pre>
+---
+Silahkan anda masuk ke bagian tabel menu cara install clash
+---
+</pre>
 
 Atau anda bisa melalui situs resmi dari vernesong [Vernesong](https://github.com/vernesong/OpenClash) dan semua artikel ini sudah saya rangkum dari sumber terpercaya dan ahli pakar.
 
@@ -79,5 +81,26 @@ Disana ada beberapa materi mulai dari:
 
 Itu semua sangat membantu kemudian hari jika anda merasa kebingungan untuk lakukan sesuatu.
 
+### 6. Pengaturan Rule
+
+Pada bagian ini adalah pavorite saya selain pengaturan script yang sering anda lihat pada channel youtube saya di <a alt='mwnsofficial' href='https://www.youtube.com/@mwnsofficial'>Master Wifi Network Solution</a>
+
+Untuk pengaturan rule terbilang sangat mudah sekali namun ada juga yang sangat rumit sekali.
+
+Semua tergantung anda untuk mencapai nya pada materi ini.
+
+<pre>
+---
+Silahkan anda masuk ke tabel menu pengatura rule
+---
+</pre>
+
+### 7. Pengaturan Script
+
+Pada kategori ini di khususkan untuk yang sudah berlevel hard atau expert.
+
+Namun bagi anda yang masih pemula tidak ada salah nya untuk mencoba juga mempelajari nya pada materi ini.
+
+Dan saya akan support anda sepenuhnya dengan berbagai materi yang sudah saya siapkan jauh hari sebelumnya.
 
 {% include links.html %}
