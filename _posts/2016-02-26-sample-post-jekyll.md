@@ -1,9 +1,9 @@
 ---
-title:  "Sample post"
+title:  "cara install ttyd"
 published: true
-permalink: samplepost.html
-summary: "This is some summary frontmatter for my sample post."
-tags: [news, getting_started]
+permalink: install-ttyd.html
+summary: "Saya akan bantu anda untuk install dan setting ttyd di openwrt."
+tags: [ttyd, openwrt]
 ---
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries
