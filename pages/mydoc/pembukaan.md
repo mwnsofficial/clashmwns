@@ -28,7 +28,7 @@ Saya saat ini mendalami pekerjaan pada bidang di bawah ini:
 
 * Penulis [clashmwns](https://www.clashmwns.com)
 * Developer Script di [Github](http://github.com/mwnsofficial)
-* Youtube [Master Wifi Network Solution]
+* Youtube [Master Wifi Network Solution](https://www.youtube.com/@mwnsofficial)
 * Creator [Tiktok](https://tiktok.com/@mwns92)
 * Jasa remote [OpenWRT](https://wa.me/6287764241047)
 * Jasa remote [Mikrotik](https://wa.me/6287764241047)
