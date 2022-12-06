@@ -3,7 +3,7 @@
 
 entries:
 - title: Sidebar
-  product: Product Clash
+  product: Product clash openwrt
   version:
   folders:
 
@@ -24,24 +24,24 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Clash openwrt
-      url: /produk_clash_openwrt.html
+    - title: final
+      url: /oc_final.html
       output: web
 
-    - title: Clash android
-      url: /produk_clash_android.html
+    - title: bronze
+      url: /oc_bronze.html
       output: web
 
-    - title: Clash magisk
-      url: /produk_clash_magisk.html
+    - title: silver
+      url: /oc_silver.html
       output: web
 
-    - title: Clash termux
-      url: /produk_clash_openwrt.html
+    - title: gold
+      url: /oc_gold.html
       output: web
 
-    - title: Clash windows
-      url: /produk_clash_windows.html
+    - title: platinum
+      url: /oc_platinum.html
       output: web
 
 # Copyright 2021 Google LLC
