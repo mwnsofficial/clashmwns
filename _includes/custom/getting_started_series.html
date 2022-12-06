@@ -4,7 +4,7 @@
         <ol class="dropdown-menu">
             {% assign pages = site.pages | sort:"weight"  %}
             {% for p in pages %}
-            {% if p.series == "Getting Started" %}
+            {% if p.series == "Daftar Isi" %}
             {% if p.url == page.url %}
             <li class="active"> → {{p.title}}</li>
             {% else %}
