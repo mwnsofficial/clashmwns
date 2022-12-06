@@ -1,7 +1,7 @@
 ---
 title: "Privacy Policy"
 keywords: privacy_policy
-tags: [getting_started]
+tags: [overview]
 sidebar: mydoc_sidebar
 permalink: privacy-policy.html
 summary: Privacy Policy dari clashmwns.
