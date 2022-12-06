@@ -1,8 +1,8 @@
 ---
-title: "daftar isi"
-tagName: daftar_isi
+title: "Getting started pages"
+tagName: getting_started
 search: exclude
-permalink: tag_daftar_isi.html
+permalink: tag_getting_started.html
 sidebar: mydoc_sidebar
 folder: tags
 ---
