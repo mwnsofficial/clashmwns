@@ -1,6 +1,6 @@
 ---
 title:  "cara install adguardhome"
-categories: install
+categories: openwrt
 permalink: install-adguardhome.html
 tags: [install]
 ---
