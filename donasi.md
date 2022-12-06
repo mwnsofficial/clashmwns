@@ -29,8 +29,9 @@ summary: Donasi untuk clashmwns.
 <p><strong>Daftar donasi tujuan yang bisa anda kirimkan:</strong></p>
 
 <ol>
-	<li><strong><a href="https://www.sociabuzz.com">Sociabuzz</a></strong></li>
-	<li><strong><a href="https://www.saweria.com">Saweria</a></strong></li>
+	<li><strong><a href="https://sociabuzz.com/master_wifi_network_solution/tribe">Sociabuzz</a></strong></li>
+	<li><strong><a href="https://saweria.co/masterwifi99">Saweria</a></strong></li>
+	<li><strong><a href="https://ko-fi.com/masterwifinetworksolution">Ko-Fi</a></strong></li>
 	<li><strong>Dana 087714241047</strong></li>
 	<li><strong>Shopeepay 081346537907</strong></li>
 	<li><strong>BRI, MUHAMMAD YUSUF,&nbsp;453401017095532</strong></li>
@@ -39,7 +40,7 @@ summary: Donasi untuk clashmwns.
 <p><strong>Berikut daftar nama yang sudah donasikan ke clashmwns:</strong></p>
 
 <ol>
-	<li><strong>Agus</strong></li>
+	<li><strong>Doni</strong></li>
 	<li><strong>Setyawan</strong></li>
 	<li><strong>Ragil</strong></li>
 </ol>
