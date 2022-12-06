@@ -1,5 +1,5 @@
 ---
-title: "daftar_isi"
+title: "daftar isi"
 tagName: daftar_isi
 search: exclude
 permalink: tag_daftar_isi.html
