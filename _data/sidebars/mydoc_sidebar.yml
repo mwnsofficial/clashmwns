@@ -45,31 +45,31 @@ entries:
     folderitems:
 
     - title: pengaturan redir host
-      url: /mydoc_about.html
+      url: /pengaturan_redir_host.html
       output: web, pdf
 
     - title: pengaturan fake ip
-      url: /mydoc_release_notes_50.html
+      url: /pengaturan_fake_ip.html
       output: web, pdf
 
     - title: pengaturan Tun
-      url: /mydoc_release_notes_50.html
+      url: /pengaturan_tun.html
       output: web, pdf
 
     - title: pengaturan mode global
-      url: /mydoc_release_notes_50.html
+      url: /pengaturan_mode_global.html
       output: web, pdf
 
     - title: pengaturan mode rule
-      url: /mydoc_release_notes_50.html
+      url: /pengaturan_mode_rule.html
       output: web, pdf
 
     - title: pengaturan mode direct
-      url: /mydoc_release_notes_50.html
+      url: /pengaturan_mode_direct.html
       output: web, pdf
 
     - title: pengaturan mode script
-      url: /mydoc_release_notes_50.html
+      url: /pengaturan_mode_script.html
       output: web, pdf
 
   - title: Global Settings - DNS
