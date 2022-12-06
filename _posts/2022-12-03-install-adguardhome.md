@@ -1,8 +1,8 @@
 ---
 title:  "cara install adguardhome"
-categories: adguardhome, openwrt
+categories: install
 permalink: install-adguardhome.html
-tags: [adguardhome, openwrt]
+tags: [install]
 ---
 
 Saya akan bantu anda untuk memudahkan install adguardhome hingga setting.
