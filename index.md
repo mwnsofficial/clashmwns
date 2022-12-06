@@ -7,9 +7,9 @@ permalink: index.html
 summary: Belajar clash dari awal hingga anda bisa mandiri.
 ---
 
-{% include note.html content="If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called <a alt='technical writing blog' href='http://idratherbewriting.com'>I'd Rather Be Writing</a>. If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation, consider <a href='https://tinyletter.com/tomjoht'>subscribing</a>. I also have a site on <a href='http://idratherbewriting.com/learnapidoc'>writing API documentation</a>." %}
+{% include note.html content="Sebelum memulai pada materi yang clashmwms berikan. Alangkah baiknya untuk membaca <a alt='disclaimer clashmwns' href='https://www.clashmwns.com/disclaimer'>Disclaimer</a> dan juga <a alt='disclaimer clashmwns' href='https://www.clashmwns.com/privacy-policy'>Privacy Policy</a>. Dukung clashmwns untuk ke depan nya selalu berikan informasi paling terupdate <a href='https://youtube.com/@mwnsofficial'>Subscribe</a>. Ikuti grup telegram clashmwms <a href='https://t.me/+MV1v5tLmOSI2ODU1'>Disini</a>." %}
 
-## Build the Clash
+## Pendahuluan
 
 Follow these instructions to build the clash.
 
