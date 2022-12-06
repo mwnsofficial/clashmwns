@@ -2,8 +2,8 @@
 
 entries:
 - title: sidebar
-  product: Jekyll Doc Theme
-  version: 6.0
+  product: wellcome clashmwns
+  version: 1.1
   folders:
 
   - title:
@@ -23,28 +23,28 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Get started
+    - title: mulai dari awal
       url: /index.html
       output: web, pdf
       type: homepage
 
-    - title: Introduction
+    - title: pembukaan
       url: /mydoc_introduction.html
       output: web, pdf
 
-    - title: Supported features
+    - title: pengenalan clash
       url: /mydoc_supported_features.html
       output: web, pdf
 
-    - title: About the theme author
+    - title: cara install clash
       url: /mydoc_about.html
       output: web, pdf
 
-    - title: Support
+    - title: cara mengatur global
       url: /mydoc_support.html
       output: web, pdf
 
-  - title: Release Notes
+  - title: cara optimasi clash
     output: web, pdf
     folderitems:
 
