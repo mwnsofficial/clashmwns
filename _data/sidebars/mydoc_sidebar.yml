@@ -25,84 +25,91 @@ entries:
 
     - title: mulai dari awal
       url: /index.html
-      output: web, pdf
+      output: web
       type: homepage
 
     - title: pembukaan
       url: /pembukaan.html
-      output: web, pdf
+      output: web
+
+  - title: Clash OpenWRT
+    output: web
+    folderitems:
 
     - title: pengenalan clash
       url: /pengenalan_clash.html
-      output: web, pdf
+      output: web
 
     - title: cara install clash
       url: /install_clash.html
-      output: web, pdf
+      output: web
 
-  - title: Global Settings - Overview
-    output: web, pdf
-    folderitems:
+      subfolders:
+      - title: Global Settings - Overview
+        output: web
+        subfolderitems:
 
-    - title: pengaturan redir host
-      url: /pengaturan_redir_host.html
-      output: web, pdf
+      - title: pengaturan redir host
+        url: /pengaturan_redir_host.html
+        output: web
 
-    - title: pengaturan fake ip
-      url: /pengaturan_fake_ip.html
-      output: web, pdf
+      - title: pengaturan fake ip
+        url: /pengaturan_fake_ip.html
+        output: web
 
-    - title: pengaturan Tun
-      url: /pengaturan_tun.html
-      output: web, pdf
+      - title: pengaturan Tun
+        url: /pengaturan_tun.html
+        output: web
 
-    - title: pengaturan mode global
-      url: /pengaturan_mode_global.html
-      output: web, pdf
+      - title: pengaturan mode global
+        url: /pengaturan_mode_global.html
+        output: web
 
-    - title: pengaturan mode rule
-      url: /pengaturan_mode_rule.html
-      output: web, pdf
+      - title: pengaturan mode rule
+        url: /pengaturan_mode_rule.html
+        output: web
 
-    - title: pengaturan mode direct
-      url: /pengaturan_mode_direct.html
-      output: web, pdf
+      - title: pengaturan mode direct
+        url: /pengaturan_mode_direct.html
+        output: web
 
-    - title: pengaturan mode script
-      url: /pengaturan_mode_script.html
-      output: web, pdf
+      - title: pengaturan mode script
+        url: /pengaturan_mode_script.html
+        output: web
 
-  - title: Global Settings - DNS
-    output: web, pdf
-    folderitems:
+      subfolders:
+      - title: Global Settings - DNS
+        output: web
+        subfolderitems:
 
-    - title: pengaturan dns google
-      url: /mydoc_release_notes_50.html
-      output: web, pdf
+      - title: pengaturan dns google
+        url: /pengaturan_dns_google.html
+        output: web
 
-    - title: pengaturan dns cloudflare
-      url: /mydoc_release_notes_50.html
-      output: web, pdf
+      - title: pengaturan dns cloudflare
+        url: /pengaturan_dns_cloudflare.html
+        output: web
 
-    - title: pengaturan dns adguardhome
-      url: /mydoc_release_notes_50.html
-      output: web, pdf
+      - title: pengaturan dns adguardhome
+        url: /pengaturan_dns_adguardhome.html
+        output: web
 
-  - title: Global Settings - Advance
-    output: web, pdf
-    folderitems:
+      subfolders:
+      - title: Global Settings - Advanced
+        output: web
+        subfolderitems:
 
-    - title: pengaturan dellay start
-      url: /mydoc_release_notes_50.html
-      output: web, pdf
+      - title: pengaturan dellay start
+        url: /pengaturan_dellay_start.html
+        output: web
 
-    - title: pengaturan log level
-      url: /mydoc_release_notes_50.html
-      output: web, pdf
+      - title: pengaturan log level
+        url: /pengaturan_log_level.html
+        output: web
 
-    - title: pengaturan port
-      url: /mydoc_release_notes_50.html
-      output: web, pdf
+      - title: pengaturan port
+        url: /pengaturan_port.html
+        output: web
 
   - title: Navigation
     output: web, pdf
