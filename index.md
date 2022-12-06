@@ -7,7 +7,7 @@ permalink: index.html
 summary: Belajar clash dari awal hingga anda bisa mandiri.
 ---
 
-{% include note.html content="Sebelum memulai pada materi yang clashmwms berikan. Alangkah baiknya untuk membaca <a alt='disclaimer clashmwns' href='https://www.clashmwns.com/disclaimer'>Disclaimer</a> dan juga <a alt='disclaimer clashmwns' href='https://www.clashmwns.com/privacy-policy'>Privacy Policy</a>. Dukung clashmwns untuk ke depan nya selalu berikan informasi paling terupdate <a href='https://youtube.com/@mwnsofficial'>Subscribe</a>. Ikuti grup telegram clashmwms <a href='https://t.me/+MV1v5tLmOSI2ODU1'>Disini</a> dan bagi anda yang ingin kopi ke clashmwns bisa melalui <a href='donate.html'>Donasi</a>. %}
+{% include note.html content="Sebelum memulai pada materi yang clashmwms berikan. Alangkah baiknya untuk membaca <a alt='disclaimer clashmwns' href='https://www.clashmwns.com/disclaimer'>Disclaimer</a> dan juga <a alt='disclaimer clashmwns' href='https://www.clashmwns.com/privacy-policy'>Privacy Policy</a>. Dukung clashmwns untuk ke depan nya selalu berikan informasi paling terupdate <a href='https://youtube.com/@mwnsofficial'>Subscribe</a>. Ikuti grup telegram clashmwms <a href='https://t.me/+MV1v5tLmOSI2ODU1'>Disini</a> dan bagi anda yang ingin kopi ke clashmwns bisa melalui <a href='https://www.clashmwns.com/donate.html'>Donasi</a>. %}
 
 ## Pendahuluan
 
