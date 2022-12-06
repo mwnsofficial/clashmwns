@@ -1,10 +1,10 @@
 ---
-title: Sample 1 Topic (Product 1)
-keywords: sample
-summary: "This is just a sample topic..."
-sidebar: product1_sidebar
-permalink: p1_sample1.html
-folder: product1
+title: Final Konfigurasi
+keywords: final
+summary: "Terima kasih sudah download file clashmaster"
+sidebar: product_clash_openwrt
+permalink: oc_final.html
+folder: produk_clash
 ---
 
 ## Sample Content
