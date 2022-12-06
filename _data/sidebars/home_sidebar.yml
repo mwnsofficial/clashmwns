@@ -5,20 +5,20 @@ entries:
   levels: one
   folders:
 
-  - title: Products clashmwns
+  - title: Daftar Isi
     output: web
     folderitems:
-    - title: simaster
-      url: /simaster.html
+    - title: OpenWRT
+      url: /tag_openwrt.html
       output: web
-    - title: simaster v1
-      url: /simaster_v1.html
+    - title: Install
+      url: /tag_install.html
       output: web
-    - title: simaster v1.1
-      url: /simaster_v1_1.html
+    - title: Forum
+      url: /tag_forum.html
       output: web
-    - title: simaster v1.2
-      url: /simaster_v1_2.html
+    - title: Penanganan
+      url: /tag_penanganan.html
       output: web
 
 # Copyright 2021 Google LLC
