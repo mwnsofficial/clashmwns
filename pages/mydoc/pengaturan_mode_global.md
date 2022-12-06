@@ -19,7 +19,7 @@ Lakukan pilihan mode proksi pada bagian di bawah ini jika anda gunakan redir hos
 
 - Global
 
-Lakukan pilihan mode proksi pada bagian di bawah ini jika anda gunakan redir host:
+Lakukan pilihan mode proksi pada bagian di bawah ini jika anda gunakan fake ip:
 
 - Global
 
