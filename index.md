@@ -11,20 +11,29 @@ summary: Belajar clash dari awal hingga anda bisa mandiri.
 
 ## Pendahuluan
 
-Follow these instructions to build the clash.
+Perkenalkan nama saya *Muhammad Yusuf. Saya berasal dari Kecamatan *Gambut* Kabupaten *Banjar* di *Kalimantan Selatan* Kenegaraan *Indonesia*.
 
-### 1. Download the clash
+Ada pun materi-materi yang akan saya jelaskan secara rinci atau detail agar anda bisa lebih mudah memahami dan saya harap anda bisa langsung untuk praktikkan langsung setelahn membaca dari materi yang kasihkan secara gratis untuk anda.
 
-First, download or clone the theme from the [Github repo](https://github.com/tomjoht/documentation-theme-jekyll). Most likely you won't be pulling in updates once you start customizing the theme, so downloading the theme (instead of cloning it) probably makes the most sense. In Github, click the **Clone or download** button, and then click **Download ZIP**.
+### 1. Pengenalan Clash
 
-### 2. Install Jekyll
+Clash adalah operasional terbuka untuk siapa saja yang ingin menggunakan nya. Namun ada beberapa paket yang perlu anda lengkapi terlebih dahulu sebelum anda menginstall nya.
 
-If you've never installed or run a Jekyll site locally on your computer, follow these instructions to install Jekyll:
+### 2. Install Clash
 
-* [Install Jekyll on Mac][mydoc_install_jekyll_on_mac]
-* [Install Jekyll on Windows][mydoc_install_jekyll_on_windows]
+Untuk install clash ada beberapa type yang bisa anda dapatkan pada materi clashmwns:
 
-### 3. Install Bundler
+* [Clash For OpenWRT]
+
+* [Clash For Android]
+
+* [Clash For Termux]
+
+* [Clash For Magisk]
+
+* [Clash For Windows]
+
+### 3. Install Paket Repository
 
 In case you haven't installed Bundler, install it:
 
