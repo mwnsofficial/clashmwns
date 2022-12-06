@@ -1,106 +1,68 @@
 ---
-title: "Belajar clash dari awal hingga anda bisa mandiri"
+title: "Belajar dari clashmwns mulai awal hingga anda bisa mandiri"
 keywords: sample homepage
-tags: [getting_started]
+tags: [overview]
 sidebar: mydoc_sidebar
 permalink: index.html
-summary: Belajar clash dari awal hingga anda bisa mandiri.
+summary: Belajar dari clashmwns mulai awal hingga anda bisa mandiri.
 ---
 
 {% include note.html content="Sebelum memulai pada materi yang clashmwms berikan. Alangkah baiknya untuk membaca <a alt='disclaimer clashmwns' href='https://www.clashmwns.com/disclaimer'>Disclaimer</a> dan juga <a alt='disclaimer clashmwns' href='https://www.clashmwns.com/privacy-policy'>Privacy Policy</a>. Dukung clashmwns untuk ke depan nya selalu berikan informasi paling terupdate <a alt='subscribe' href='https://youtube.com/@mwnsofficial'>Subscribe</a>. Ikuti grup telegram clashmwms <a alt='telegram' href='https://t.me/+MV1v5tLmOSI2ODU1'>Disini</a> dan bagi anda yang ingin kopi ke clashmwns bisa melalui <a alt='donasi' href='https://www.clashmwns.com/donate.html'>Donasi</a>." %}
 
-## Pendahuluan
+### Sambutan
 
-Perkenalkan nama saya *Muhammad Yusuf. Saya berasal dari Kecamatan *Gambut* Kabupaten *Banjar* di *Kalimantan Selatan* Kenegaraan *Indonesia*.
+Selamat datang di <a alt='clashmwns' href='https://www.clashmwns.com'>clashmwns</a>, blog dokumentasi dari materi dan artikel yang akurat, independent,dan terpercaya.
 
-Ada pun materi-materi yang akan saya jelaskan secara rinci atau detail agar anda bisa lebih mudah memahami dan saya harap anda bisa langsung untuk praktikkan langsung setelahn membaca dari materi yang kasihkan secara gratis untuk anda.
+Anda akan saya suguhkan dengan materi-materi yang berkualitas.
 
-### 1. Pengenalan Clash
+Jadi anda tidak perlu ragu kepada saya di karenakan pengalaman saya di jam terbang yang sangat panjang.
 
-Clash adalah operasional terbuka untuk siapa saja yang ingin menggunakan nya. Namun ada beberapa paket yang perlu anda lengkapi terlebih dahulu sebelum anda menginstall nya.
+### Materi
 
-### 2. Install Clash
+Materi yang akan saya bahas dalam blog dokumentasi ini berupa:
 
-Untuk install clash ada beberapa type yang bisa anda dapatkan pada materi clashmwns:
+- [Clash](https://www.clashmwns.com/pengenalan_clash.html)
 
-* [Clash For OpenWRT]
+- [Passwall](https://www.clashmwns.com/passwall)
 
-* [Clash For Android]
+- [Openwrt](https://www.clashmwns.com/openwrt)
 
-* [Clash For Termux]
+- [Mikrotik](https://www.clashmwns.com/mikrotik)
 
-* [Clash For Magisk]
+- [Router](https://www.clashmwns.com/router)
 
-* [Clash For Windows]
+- [Modem](https://www.clashmwns.com/modem)
 
-### 3. Install Paket Repository
+- [Script](https://www.clashmwns.com/script)
 
-Untuk install paket repository ini seperti yang di rangkum oleh situs vernesong.
+- Dan masih banyak lagi yang lain nya
 
-<pre>
----
-Silahkan anda masuk ke bagian tabel menu cara install clash
----
-</pre>
+### Jasa
 
-Atau anda bisa melalui situs resmi dari vernesong [Vernesong](https://github.com/vernesong/OpenClash) dan semua artikel ini sudah saya rangkum dari sumber terpercaya dan ahli pakar.
+Anda juga bisa menggunakan layanan jasa saya untuk:
 
-### 4. Pengaturan Global Setting
+- [Remote Openwrt](https://wa.me/6287764241047?text=saya%20ingin%20berlangganan%20jasa%remote%20openwrt)
 
-Dalam materi ini juga saya jelaskan cara mengatur global setting agar lebih untuk anda mengatur untuk koneksi yang aman dan lancar.
+- [Remote Mikrotik](https://wa.me/6287764241047?text=saya%20ingin%20berlangganan%20jasa%remote%20mikrotik)
 
-<pre>
----
-Silahkan anda masuk ke bagian tabel menu pengaturan global setting
----
-</pre>
+- [Pasang Wifi di wilayah terpencil](https://wa.me/6287764241047?text=saya%20ingin%20berlangganan%20jasa%20pasang%20wifi)
 
-Semua yang saya dokumentasikan disini sesuai dengan pengalaman yang saya lakukan selama kurun waktu 2 tahun ini.
+- [Perbaikan Radio di tower](https://wa.me/6287764241047?text=saya%20ingin%20berlangganan%20jasa%perbaikan%20radio%20tower)
 
-### 5. Pengaturan Server dan Grup
+- Dan lain nya berkaitan soal koneksi internet
 
-Tidak asing lagi bagi anda untuk hal yang satu ini meskipun anda yang awam pun saya yakim anda sudah memahami dan menguasai mya.
+### Situs
 
-Namun ada beberapa dari anda yang masih belum memahami dan bingung harus lakukan apa agar bisa setting server dan grup ini.
+Untuk soal situs, saya menyiapkan beberapa metode dalam pembelajaran materi:
 
-Akan tetapi anda tidak perlu khawatir, karena saya juga sudah siapkan pada materi ini.
+- [Youtube](https://www.youtube.com/@mwnsofficial)
 
-<pre>
----
-Silahkan anda masuk saja ke tabel menu server dan grup
----
-</pre>
+- [Facebook]
 
-Disana ada beberapa materi mulai dari:
+- [Instagram]
 
-```
-1. Proksi
-2. Proksi Provider
-3. Proksi Grup
-```
+- [Github](https://github.com/mwnsofficial)
 
-Itu semua sangat membantu kemudian hari jika anda merasa kebingungan untuk lakukan sesuatu.
-
-### 6. Pengaturan Rule
-
-Pada bagian ini adalah pavorite saya selain pengaturan script yang sering anda lihat pada channel youtube saya di <a alt='mwnsofficial' href='https://www.youtube.com/@mwnsofficial'>Master Wifi Network Solution</a>
-
-Untuk pengaturan rule terbilang sangat mudah sekali namun ada juga yang sangat rumit sekali.
-
-Semua tergantung anda untuk mencapai nya pada materi ini.
-
-<pre>
----
-Silahkan anda masuk ke tabel menu pengatura rule
----
-</pre>
-
-### 7. Pengaturan Script
-
-Pada kategori ini di khususkan untuk yang sudah berlevel hard atau expert.
-
-Namun bagi anda yang masih pemula tidak ada salah nya untuk mencoba juga mempelajari nya pada materi ini.
-
-Dan saya akan support anda sepenuhnya dengan berbagai materi yang sudah saya siapkan jauh hari sebelumnya.
+- [Tiktok](https://tiktok.com/@mwns92)
 
 {% include links.html %}
