@@ -32,7 +32,7 @@ entries:
       url: /pembukaan.html
       output: web
 
-  - title: Clash OpenWRT
+  - title: Clash openwrt
     output: web
     folderitems:
 
@@ -45,91 +45,65 @@ entries:
       output: web
 
       subfolders:
-      - title: Global Settings - Overview
+      - title: Global settings
         output: web
         subfolderitems:
 
-      - title: pengaturan redir host
-        url: /pengaturan_redir_host.html
-        output: web
+        - title: pengaturan redir host
+          url: /tag_redir_host.html
+          output: web
 
-      - title: pengaturan fake ip
-        url: /pengaturan_fake_ip.html
-        output: web
+        - title: pengaturan fake ip
+          url: /tag_fake_ip.html
+          output: web
 
-      - title: pengaturan Tun
-        url: /pengaturan_tun.html
-        output: web
+        - title: pengaturan dns
+          url: /tag_dns.html
+          output: web
 
-      - title: pengaturan mode global
-        url: /pengaturan_mode_global.html
-        output: web
+        - title: pengaturan meta
+          url: /tag_meta.html
+          output: web
 
-      - title: pengaturan mode rule
-        url: /pengaturan_mode_rule.html
-        output: web
+        - title: pengaturan streaming enchance
+          url: /tag_streaming_enchance.html
+          output: web
 
-      - title: pengaturan mode direct
-        url: /pengaturan_mode_direct.html
-        output: web
+        - title: pengaturan control panel
+          url: /tag_dns.html
+          output: web
 
-      - title: pengaturan mode script
-        url: /pengaturan_mode_script.html
-        output: web
+        - title: pengaturan rules setting
+          url: /tag_rules_setting.html
+          output: web
 
-      subfolders:
-      - title: Global Settings - DNS
-        output: web
-        subfolderitems:
+        - title: pengaturan dashboard
+          url: /tag_dashboard.html
+          output: web
 
-      - title: pengaturan dns google
-        url: /pengaturan_dns_google.html
-        output: web
+        - title: pengaturan update rule
+          url: /tag_update_rule.html
+          output: web
 
-      - title: pengaturan dns cloudflare
-        url: /pengaturan_dns_cloudflare.html
-        output: web
+        - title: pengaturan update geoip
+          url: /tag_update_geoip.html
+          output: web
 
-      - title: pengaturan dns adguardhome
-        url: /pengaturan_dns_adguardhome.html
-        output: web
+        - title: pengaturan update chnroute
+          url: /tag_update_chnroute.html
+          output: web
 
-      subfolders:
-      - title: Global Settings - Advanced
-        output: web
-        subfolderitems:
+        - title: pengaturan dellay start
+          url: /tag_dellay_start.html
+          output: web
 
-      - title: pengaturan dellay start
-        url: /pengaturan_dellay_start.html
-        output: web
+        - title: pengaturan update versi
+          url: /tag_update_versi.html
+          output: web
 
-      - title: pengaturan log level
-        url: /pengaturan_log_level.html
-        output: web
-
-      - title: pengaturan port
-        url: /pengaturan_port.html
-        output: web
-
-  - title: Navigation
-    output: web, pdf
-
-    folderitems:
-    - title: Sidebar navigation
-      url: /mydoc_sidebar_navigation.html
-      output: web, pdf
-
-    - title: YAML tutorial in the context of Jekyll
-      url: /mydoc_yaml_tutorial.html
-      output: web, pdf
-
-    - title: Tags
-      url: /mydoc_tags.html
-      output: web, pdf
-
-    - title: Series
-      url: /mydoc_series.html
-      output: web, pdf
+        - title: pengaturan log debug
+          url: /tag_log_debug.html
+          output: web
 
   - title: Formatting
     output: web, pdf
