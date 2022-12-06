@@ -1,8 +1,8 @@
 ---
-title: "News"
-tagName: news
+title: "openwrt"
+tagName: openwrt
 search: exclude
-permalink: tag_news.html
+permalink: tag_openwrt.html
 sidebar: mydoc_sidebar
 folder: tags
 ---
