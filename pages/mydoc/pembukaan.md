@@ -1,5 +1,5 @@
 ---
-title: Pemukaan
+title: Pembukaan
 sidebar: mydoc_sidebar
 permalink: pembukaan.html
 folder: mydoc
@@ -30,8 +30,8 @@ Saya saat ini mendalami pekerjaan pada bidang di bawah ini:
 * Developer Script di [Github](http://github.com/mwnsofficial)
 * Youtube [Master Wifi Network Solution](https://www.youtube.com/@mwnsofficial)
 * Creator [Tiktok](https://tiktok.com/@mwns92)
-* Jasa remote [OpenWRT](https://wa.me/6287764241047)
-* Jasa remote [Mikrotik](https://wa.me/6287764241047)
+* Jasa remote [OpenWRT](https://wa.me/6287764241047?text=saya%20ingin%20berlangganan%20jasa%remote%20openwrt)
+* Jasa remote [Mikrotik](https://wa.me/6287764241047?text=saya%20ingin%20berlangganan%20jasa%remote%20mikrotik)
 * Jasa pemasangan wifi pedesaan.
 * Dan masih banyak lagi yang lain nya.
 
