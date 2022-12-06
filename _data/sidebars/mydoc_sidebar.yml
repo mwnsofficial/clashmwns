@@ -37,7 +37,7 @@ entries:
       output: web, pdf
 
     - title: cara install clash
-      url: /mydoc_about.html
+      url: /install_clash.html
       output: web, pdf
 
   - title: Global Settings - Overview
