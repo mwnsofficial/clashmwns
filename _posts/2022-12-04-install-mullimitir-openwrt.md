@@ -1,6 +1,6 @@
 ---
 title:  "cara install mullimitir"
-categories: install
+categories: openwrt
 permalink: install-mullimitir-openwrt.html
 tags: [install]
 ---
