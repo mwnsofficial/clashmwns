@@ -13,6 +13,10 @@ allowed-tags:
   - openwrt
   - install
   - forum
+  - redir_host
+  - fake_ip
+  - dns
+  - meta
   - troubleshooting
   - mobile
 
