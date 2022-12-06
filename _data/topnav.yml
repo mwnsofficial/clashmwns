@@ -31,15 +31,15 @@ topnav_dropdowns:
     - title: Product clash
       folderitems:
         - title: Clash openwrt
-          url: /p2_landing_page.html
+          url: /produk_clash_openwrt.html
         - title: Clash android
-          url: /p1_landing_page.html
+          url: /produk_clash_android.html
         - title: Clash magisk
-          url: /p2_landing_page.html
+          url: /produk_clash_magisk.html
         - title: Clash termux
-          url: /p1_landing_page.html
+          url: /produk_clash_termux.html
         - title: Clash windows
-          url: /p1_landing_page.html
+          url: /produk_clash_windows.html
     - title: Product firmware openwrt
       folderitems:
         - title: original
