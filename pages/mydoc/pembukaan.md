@@ -1,11 +1,11 @@
 ---
-title: Pembukaan
+title: About Us
 sidebar: mydoc_sidebar
-permalink: pembukaan.html
+permalink: about_us.html
 folder: mydoc
 ---
 
-## Perkenalan
+## About Us
 
 Selamat datang di [clashmwns](https://www.clashmwns.com), saya berterima kasih kepada anda yang sudah membaca materi di situs ini.
 
