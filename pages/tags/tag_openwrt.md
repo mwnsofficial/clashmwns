@@ -1,8 +1,8 @@
 ---
-title: "openwrt"
-tagName: openwrt
+title: "install"
+tagName: install
 search: exclude
-permalink: tag_openwrt.html
+permalink: tag_install.html
 sidebar: mydoc_sidebar
 folder: tags
 ---
