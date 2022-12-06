@@ -1,8 +1,8 @@
 ---
-title: "Daftar Isi"
-tagName: getting_started
+title: "Overview"
+tagName: overview
 search: exclude
-permalink: tag_getting_started.html
+permalink: tag_overview.html
 sidebar: mydoc_sidebar
 folder: tags
 ---
