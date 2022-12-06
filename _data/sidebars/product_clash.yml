@@ -1,0 +1,47 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Sidebar
+  product: Product Clash
+  version:
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Clash File
+    output: web, pdf
+    folderitems:
+
+    - title: Clash openwrt
+      url: /produk_clash_openwrt.html
+      output: web
+
+    - title: Clash android
+      url: /produk_clash_android.html
+      output: web
+
+    - title: Clash magisk
+      url: /produk_clash_magisk.html
+      output: web
+
+    - title: Clash termux
+      url: /produk_clash_openwrt.html
+      output: web
+
+    - title: Clash windows
+      url: /produk_clash_windows.html
+      output: web
+
+# Copyright 2021 Google LLC
