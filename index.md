@@ -43,4 +43,41 @@ Silahkan anda untuk mengetuk menu tabel cara install clash
 
 Atau anda bisa melalui situs resmi dari vernesong [Vernesong](https://github.com/vernesong/OpenClash) dan semua artikel ini sudah saya rangkum dari sumber terpercaya dan ahli pakar.
 
+### 4. Pengaturan Global Setting
+
+Dalam materi ini juga saya jelaskan cara mengatur global setting agar lebih untuk anda mengatur untuk koneksi yang aman dan lancar.
+
+<pre>
+---
+Silahkan anda masuk ke bagian tabel menu pengaturan global setting
+---
+</pre>
+
+Semua yang saya dokumentasikan disini sesuai dengan pengalaman yang saya lakukan selama kurun waktu 2 tahun ini.
+
+### 5. Pengaturan Server dan Grup
+
+Tidak asing lagi bagi anda untuk hal yang satu ini meskipun anda yang awam pun saya yakim anda sudah memahami dan menguasai mya.
+
+Namun ada beberapa dari anda yang masih belum memahami dan bingung harus lakukan apa agar bisa setting server dan grup ini.
+
+Akan tetapi anda tidak perlu khawatir, karena saya juga sudah siapkan pada materi ini.
+
+<pre>
+---
+Silahkan anda masuk saja ke tabel menu server dan grup
+---
+</pre>
+
+Disana ada beberapa materi mulai dari:
+
+```
+1. Proksi
+2. Proksi Provider
+3. Proksi Grup
+```
+
+Itu semua sangat membantu kemudian hari jika anda merasa kebingungan untuk lakukan sesuatu.
+
+
 {% include links.html %}
