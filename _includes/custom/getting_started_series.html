@@ -1,10 +1,10 @@
 <div class="seriesContext">
     <div class="btn-group">
-        <button type="button" data-toggle="dropdown" class="btn btn-primary dropdown-toggle">Daftar Isi <span class="caret"></span></button>
+        <button type="button" data-toggle="dropdown" class="btn btn-primary dropdown-toggle">Daftar_Isi <span class="caret"></span></button>
         <ol class="dropdown-menu">
             {% assign pages = site.pages | sort:"weight"  %}
             {% for p in pages %}
-            {% if p.series == "Daftar Isi" %}
+            {% if p.series == "Daftar_Isi" %}
             {% if p.url == page.url %}
             <li class="active"> → {{p.title}}</li>
             {% else %}
