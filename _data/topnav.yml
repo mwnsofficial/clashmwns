@@ -7,6 +7,12 @@ topnav:
       external_url: https://github.com/mwnsofficial
     - title: OpenWRT
       url: /openwrt
+    - title: Donasi
+      url: /donate
+    - title: Disclaimer
+      url: /disclaimer
+    - title: Privacy policy
+      url: /privacy-policy
 
 #Topnav dropdowns
 topnav_dropdowns:
