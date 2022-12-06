@@ -1,11 +1,11 @@
 ---
-title: cara mengatur tun
+title: cara mengatur tun redir host
 keywords: documentation, technical writers, help authoring tools, hat replacements
 last_updated: Desember 06, 2020
-tags: [getting_started]
+tags: [redir_host]
 summary: "Sebelum anda melakukan pengaturan, pastikan anda sudah memiliki sebuah konfigurasi."
 sidebar: mydoc_sidebar
-permalink: pengaturan_tun.html
+permalink: pengaturan_tun_redir_host.html
 folder: mydoc
 ---
 
@@ -20,12 +20,6 @@ Lakukan pilihan pada bagian di bawah ini jika anda gunakan redir host:
 - Redir-Host Tun
 
 - Redir-Host Tun Mix
-
-Lakukan pilihan pada bagian di bawah ini jika anda gunakan fake ip:
-
-- Fake-IP Tun
-
-- Fake-IP Tun Mix
 
 Jika sudah, anda bisa menekan *Commit Setting* kemudian tekan kembali *Apply Setting*
 
