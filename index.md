@@ -35,13 +35,13 @@ Untuk install clash ada beberapa type yang bisa anda dapatkan pada materi clashm
 
 ### 3. Install Paket Repository
 
-In case you haven't installed Bundler, install it:
+Untuk install paket repository ini seperti yang di rangkum oleh situs vernesong.
 
 ```
-gem install bundler
+Silahkan anda untuk mengetuk menu tabel cara install clash
 ```
 
-You'll want [Bundler](http://bundler.io/) to make sure all the Ruby gems needed work well with your project. Bundler sorts out dependencies and installs missing gems or matches up gems with the right versions based on gem dependencies.
+Atau anda bisa melalui situs resmi dari vernesong [Vernesong](https://github.com/vernesong/OpenClash) dan semua artikel ini sudah saya rangkum dari sumber terpercaya dan ahli pakar.
 
 ### 4. Option 1: Build the Theme (*without* the github-pages gem) {#option1}
 
