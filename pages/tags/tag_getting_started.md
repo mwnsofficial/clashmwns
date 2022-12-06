@@ -1,6 +1,6 @@
 ---
 title: "Daftar Isi"
-tagName: getting_started
+tagName: Datar Isi
 search: exclude
 permalink: tag_getting_started.html
 sidebar: mydoc_sidebar
