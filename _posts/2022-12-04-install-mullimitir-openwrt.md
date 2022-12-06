@@ -1,8 +1,8 @@
 ---
 title:  "cara install mullimitir"
-categories: openwrt
+categories: install
 permalink: install-mullimitir-openwrt.html
-tags: [mullimitir, openwrt]
+tags: [install]
 ---
 
 Pada artikel ini akan membantu anda dalam memudahkan cara install mullimitir di openwrt anda.
