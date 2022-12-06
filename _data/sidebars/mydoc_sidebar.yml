@@ -33,7 +33,7 @@ entries:
       output: web, pdf
 
     - title: pengenalan clash
-      url: /mydoc_supported_features.html
+      url: /pengenalan_clash.html
       output: web, pdf
 
     - title: cara install clash
