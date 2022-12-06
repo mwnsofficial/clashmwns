@@ -5,14 +5,14 @@ topnav:
   items:
     - title: GitHub
       external_url: https://github.com/mwnsofficial
-    - title: OpenWRT
-      url: /openwrt
+    - title: About Us
+      url: /about_us
     - title: Donasi
       url: /donate
     - title: Disclaimer
       url: /disclaimer
     - title: Privacy policy
-      url: /privacy-policy
+      url: /privacy_policy
 
 #Topnav dropdowns
 topnav_dropdowns:
@@ -28,275 +28,79 @@ topnav_dropdowns:
           external_url: https://wa.me/6287764241047
         - title: Pisah Trafik Mikrotik
           external_url: https://wa.me/6287764241047
-    - title: Product clash OpenWRT 1
+    - title: Product clash
       folderitems:
-        - title: Final
-          url: /mydoc_introduction.html
-        - title: Bronze
-          url: /p1_landing_page.html
-        - title: Silver
+        - title: Clash openwrt
           url: /p2_landing_page.html
-        - title: Gold
-          url: /mydoc_introduction.html
-        - title: Platinum
+        - title: Clash android
           url: /p1_landing_page.html
-        - title: Limited Edition
+        - title: Clash magisk
           url: /p2_landing_page.html
-        - title: Spesial Edition
-          url: /mydoc_introduction.html
-        - title: Simaster Ext Reyre
+        - title: Clash termux
           url: /p1_landing_page.html
-        - title: Desember
-          url: /p2_landing_page.html
-        - title: April
-          url: /mydoc_introduction.html
-        - title: Juni
+        - title: Clash windows
           url: /p1_landing_page.html
-    - title: Product clash OpenWRT 2
+    - title: Product firmware openwrt
       folderitems:
-        - title: Simaster
-          url: /mydoc_introduction.html
-        - title: Simaster V1
+        - title: original
           url: /p1_landing_page.html
-        - title: Simaster v1.2
+        - title: oc only
+          url: /p1_landing_page.html
+        - title: passwall only
           url: /p2_landing_page.html
-        - title: Simaster V1.3
+        - title: libernet only
           url: /mydoc_introduction.html
-        - title: Simaster V1.4
+        - title: xderm only
           url: /p1_landing_page.html
-        - title: Simaster v1.5
-          url: /p2_landing_page.html
-        - title: Simaster V1.6
-          url: /mydoc_introduction.html
-        - title: Simaster V1.7
+        - title: evo
           url: /p1_landing_page.html
-        - title: Simaster v1.8
-          url: /p2_landing_page.html
-        - title: Simaster V1.9
-          url: /mydoc_introduction.html
-        - title: Simaster V2
-          url: /p1_landing_page.html
-        - title: Simaster Evo 1
-          url: /p2_landing_page.html
-        - title: Simaster Evo 1.1
-          url: /mydoc_introduction.html
-        - title: Simaster Evo 1.2
-          url: /p1_landing_page.html
-    - title: Product clash Android 1
+    - title: Product firmware router
       folderitems:
-        - title: Final
-          url: /mydoc_introduction.html
-        - title: Bronze
+        - title: tplink
           url: /p1_landing_page.html
-        - title: Silver
+        - title: tenda
+          url: /p1_landing_page.html
+        - title: totolink
           url: /p2_landing_page.html
-        - title: Gold
-          url: /mydoc_introduction.html
-        - title: Platinum
+        - title: ubnt
           url: /p1_landing_page.html
-        - title: Limited Edition
-          url: /p2_landing_page.html
-        - title: Spesial Edition
-          url: /mydoc_introduction.html
-        - title: Simaster Ext Reyre
+        - title: mikrotik
           url: /p1_landing_page.html
-        - title: Desember
-          url: /p2_landing_page.html
-        - title: April
-          url: /mydoc_introduction.html
-        - title: Juni
-          url: /p1_landing_page.html
-    - title: Product clash Android 2
+    - title: Product firmware modem
       folderitems:
-        - title: Simaster
-          url: /mydoc_introduction.html
-        - title: Simaster V1
+        - title: huawei
           url: /p1_landing_page.html
-        - title: Simaster v1.2
-          url: /p2_landing_page.html
-        - title: Simaster V1.3
-          url: /mydoc_introduction.html
-        - title: Simaster V1.4
+        - title: zte
           url: /p1_landing_page.html
-        - title: Simaster v1.5
-          url: /p2_landing_page.html
-        - title: Simaster V1.6
-          url: /mydoc_introduction.html
-        - title: Simaster V1.7
-          url: /p1_landing_page.html
-        - title: Simaster v1.8
-          url: /p2_landing_page.html
-        - title: Simaster V1.9
-          url: /mydoc_introduction.html
-        - title: Simaster V2
-          url: /p1_landing_page.html
-        - title: Simaster Evo 1
-          url: /p2_landing_page.html
-        - title: Simaster Evo 1.1
-          url: /mydoc_introduction.html
-        - title: Simaster Evo 1.2
-          url: /p1_landing_page.html
-    - title: Product clash Magisk 1
+    - title: Product akun
       folderitems:
-        - title: Final
-          url: /mydoc_introduction.html
-        - title: Bronze
+        - title: free
           url: /p1_landing_page.html
-        - title: Silver
-          url: /p2_landing_page.html
-        - title: Gold
-          url: /mydoc_introduction.html
-        - title: Platinum
+        - title: premium
           url: /p1_landing_page.html
-        - title: Limited Edition
-          url: /p2_landing_page.html
-        - title: Spesial Edition
-          url: /mydoc_introduction.html
-        - title: Simaster Ext Reyre
-          url: /p1_landing_page.html
-        - title: Desember
-          url: /p2_landing_page.html
-        - title: April
-          url: /mydoc_introduction.html
-        - title: Juni
-          url: /p1_landing_page.html
-    - title: Product clash Magisk 2
+    - title: Product rule
       folderitems:
-        - title: Simaster
-          url: /mydoc_introduction.html
-        - title: Simaster V1
+        - title: browser
           url: /p1_landing_page.html
-        - title: Simaster v1.2
+        - title: sosmed
+          url: /p1_landing_page.html
+        - title: stream
           url: /p2_landing_page.html
-        - title: Simaster V1.3
-          url: /mydoc_introduction.html
-        - title: Simaster V1.4
+        - title: game
           url: /p1_landing_page.html
-        - title: Simaster v1.5
-          url: /p2_landing_page.html
-        - title: Simaster V1.6
-          url: /mydoc_introduction.html
-        - title: Simaster V1.7
+        - title: adblock
           url: /p1_landing_page.html
-        - title: Simaster v1.8
-          url: /p2_landing_page.html
-        - title: Simaster V1.9
-          url: /mydoc_introduction.html
-        - title: Simaster V2
-          url: /p1_landing_page.html
-        - title: Simaster Evo 1
-          url: /p2_landing_page.html
-        - title: Simaster Evo 1.1
-          url: /mydoc_introduction.html
-        - title: Simaster Evo 1.2
-          url: /p1_landing_page.html
-    - title: Product clash Termux 1
+    - title: Product scritpt
       folderitems:
-        - title: Final
-          url: /mydoc_introduction.html
-        - title: Bronze
+        - title: browser
           url: /p1_landing_page.html
-        - title: Silver
+        - title: sosmed
+          url: /p1_landing_page.html
+        - title: stream
           url: /p2_landing_page.html
-        - title: Gold
-          url: /mydoc_introduction.html
-        - title: Platinum
+        - title: game
           url: /p1_landing_page.html
-        - title: Limited Edition
-          url: /p2_landing_page.html
-        - title: Spesial Edition
-          url: /mydoc_introduction.html
-        - title: Simaster Ext Reyre
-          url: /p1_landing_page.html
-        - title: Desember
-          url: /p2_landing_page.html
-        - title: April
-          url: /mydoc_introduction.html
-        - title: Juni
-          url: /p1_landing_page.html
-    - title: Product clash Termux 2
-      folderitems:
-        - title: Simaster
-          url: /mydoc_introduction.html
-        - title: Simaster V1
-          url: /p1_landing_page.html
-        - title: Simaster v1.2
-          url: /p2_landing_page.html
-        - title: Simaster V1.3
-          url: /mydoc_introduction.html
-        - title: Simaster V1.4
-          url: /p1_landing_page.html
-        - title: Simaster v1.5
-          url: /p2_landing_page.html
-        - title: Simaster V1.6
-          url: /mydoc_introduction.html
-        - title: Simaster V1.7
-          url: /p1_landing_page.html
-        - title: Simaster v1.8
-          url: /p2_landing_page.html
-        - title: Simaster V1.9
-          url: /mydoc_introduction.html
-        - title: Simaster V2
-          url: /p1_landing_page.html
-        - title: Simaster Evo 1
-          url: /p2_landing_page.html
-        - title: Simaster Evo 1.1
-          url: /mydoc_introduction.html
-        - title: Simaster Evo 1.2
-          url: /p1_landing_page.html
-    - title: Product clash Windows 1
-      folderitems:
-        - title: Final
-          url: /mydoc_introduction.html
-        - title: Bronze
-          url: /p1_landing_page.html
-        - title: Silver
-          url: /p2_landing_page.html
-        - title: Gold
-          url: /mydoc_introduction.html
-        - title: Platinum
-          url: /p1_landing_page.html
-        - title: Limited Edition
-          url: /p2_landing_page.html
-        - title: Spesial Edition
-          url: /mydoc_introduction.html
-        - title: Simaster Ext Reyre
-          url: /p1_landing_page.html
-        - title: Desember
-          url: /p2_landing_page.html
-        - title: April
-          url: /mydoc_introduction.html
-        - title: Juni
-          url: /p1_landing_page.html
-    - title: Product clash Windows 2
-      folderitems:
-        - title: Simaster
-          url: /mydoc_introduction.html
-        - title: Simaster V1
-          url: /p1_landing_page.html
-        - title: Simaster v1.2
-          url: /p2_landing_page.html
-        - title: Simaster V1.3
-          url: /mydoc_introduction.html
-        - title: Simaster V1.4
-          url: /p1_landing_page.html
-        - title: Simaster v1.5
-          url: /p2_landing_page.html
-        - title: Simaster V1.6
-          url: /mydoc_introduction.html
-        - title: Simaster V1.7
-          url: /p1_landing_page.html
-        - title: Simaster v1.8
-          url: /p2_landing_page.html
-        - title: Simaster V1.9
-          url: /mydoc_introduction.html
-        - title: Simaster V2
-          url: /p1_landing_page.html
-        - title: Simaster Evo 1
-          url: /p2_landing_page.html
-        - title: Simaster Evo 1.1
-          url: /mydoc_introduction.html
-        - title: Simaster Evo 1.2
+        - title: adblock
           url: /p1_landing_page.html
 
 # Copyright 2021 Google LLC
