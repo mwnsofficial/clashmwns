@@ -1,9 +1,9 @@
 ---
 title: cara mengatur mode direct
-keywords: documentation, technical writers, help authoring tools, hat replacements
+keywords: mode direct
 last_updated: Desember 06, 2020
-tags: [getting_started]
-summary: "Sebelum anda melakukan pengaturan, pastikan anda sudah memiliki sebuah konfigurasi."
+tags: [global_setting]
+summary: "Artikel mengatur ke mode direct."
 sidebar: mydoc_sidebar
 permalink: pengaturan_mode_direct.html
 folder: mydoc
