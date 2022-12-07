@@ -3,7 +3,7 @@ title: clash windows
 keywords: clash wimdows
 sidebar: dokument
 toc: false
-permalink: produk_clash_windows.html
+permalink: clash_windows.html
 folder: clash
 ---
 <div class="row">
