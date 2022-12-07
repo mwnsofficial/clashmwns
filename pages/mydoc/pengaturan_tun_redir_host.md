@@ -24,3 +24,4 @@ Lakukan pilihan pada bagian di bawah ini jika anda gunakan redir host:
 Jika sudah, anda bisa menekan *Commit Setting* kemudian tekan kembali *Apply Setting*
 
 {% include links.html %}
+
