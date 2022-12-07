@@ -1,10 +1,10 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
 entries:
-- title: sidebar
+- title: dokument
   product: Selamat datang di clashmwns
   version: 
-  folders:
+  folders: dokument
 
   - title:
     output: pdf
