@@ -6,7 +6,7 @@ tags: [clash]
 summary: "Sebelum anda melakukan install, pastikan paket data internet anda sudah ada dan stabil."
 sidebar: dokument
 permalink: install_clash.html
-folder: global_setting
+folder: mwns
 ---
 
 Hal yang perlu anda lakukan adalah:
