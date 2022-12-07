@@ -13,6 +13,8 @@ topnav:
       url: /disclaimer
     - title: Privacy policy
       url: /privacy_policy
+    - title: Artikel
+      url: /artikel
 
 #Topnav dropdowns
 topnav_dropdowns:
@@ -31,15 +33,15 @@ topnav_dropdowns:
     - title: Konfigurasi Clash
       folderitems:
         - title: Clash Openwrt
-          url: /produk_clash_openwrt.html
+          url: /clash_openwrt.html
         - title: Clash Android
-          url: /produk_clash_android.html
+          url: /clash_android.html
         - title: Clash Magisk
-          url: /produk_clash_magisk.html
+          url: /clash_magisk.html
         - title: Clash Termux
-          url: /produk_clash_termux.html
+          url: /clash_termux.html
         - title: Clash Windows
-          url: /produk_clash_windows.html
+          url: /clash_windows.html
     - title: Firmware Openwrt
       folderitems:
         - title: Original
