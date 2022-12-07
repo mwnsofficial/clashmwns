@@ -3,9 +3,9 @@ title: cara mengatur mode rule
 keywords: mode rule
 last_updated: Desember 06, 2020
 tags: [global_setting]
-summary: "Sebelum anda melakukan pengaturan, pastikan anda sudah memiliki sebuah konfigurasi."
+summary: "Artikel mengatur ke mode rule."
 sidebar: mydoc_sidebar
-permalink: pengaturan_mode_rule.html
+permalink: mode_rule.html
 folder: mydoc
 ---
 
