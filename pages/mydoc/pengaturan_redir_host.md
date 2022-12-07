@@ -2,7 +2,7 @@
 title: cara mengatur redir host
 keywords: documentation, technical writers, help authoring tools, hat replacements
 last_updated: Desember 06, 2020
-tags: [getting_started]
+tags: [global_setting]
 summary: "Sebelum anda melakukan pengaturan, pastikan anda sudah memiliki sebuah konfigurasi."
 sidebar: mydoc_sidebar
 permalink: pengaturan_redir_host.html
