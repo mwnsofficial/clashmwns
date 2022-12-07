@@ -28,79 +28,83 @@ topnav_dropdowns:
           external_url: https://wa.me/6287764241047
         - title: Pisah Trafik Mikrotik
           external_url: https://wa.me/6287764241047
-    - title: Product clash
+    - title: Konfigurasi Clash
       folderitems:
-        - title: Clash openwrt
+        - title: Clash Openwrt
           url: /produk_clash_openwrt.html
-        - title: Clash android
+        - title: Clash Android
           url: /produk_clash_android.html
-        - title: Clash magisk
+        - title: Clash Magisk
           url: /produk_clash_magisk.html
-        - title: Clash termux
+        - title: Clash Termux
           url: /produk_clash_termux.html
-        - title: Clash windows
+        - title: Clash Windows
           url: /produk_clash_windows.html
-    - title: Product firmware openwrt
+    - title: Firmware Openwrt
       folderitems:
-        - title: original
-          url: /p1_landing_page.html
-        - title: oc only
-          url: /p1_landing_page.html
-        - title: passwall only
-          url: /p2_landing_page.html
-        - title: libernet only
-          url: /mydoc_introduction.html
-        - title: xderm only
-          url: /p1_landing_page.html
-        - title: evo
-          url: /p1_landing_page.html
-    - title: Product firmware router
+        - title: Original
+          url: /firmware_original.html
+        - title: Oc Only
+          url: /firmware_oc_only.html
+        - title: Passwall Only
+          url: /firmware_passwall_only.html
+        - title: Simaster
+          url: /firmware_simaster.html
+    - title: Firmware Router
       folderitems:
-        - title: tplink
-          url: /p1_landing_page.html
-        - title: tenda
-          url: /p1_landing_page.html
-        - title: totolink
-          url: /p2_landing_page.html
-        - title: ubnt
-          url: /p1_landing_page.html
-        - title: mikrotik
-          url: /p1_landing_page.html
-    - title: Product firmware modem
+        - title: Tplink
+          url: /firmware_tplink.html
+        - title: Tenda
+          url: /firmware_tenda.html
+        - title: Totolink
+          url: /firmware_totolink.html
+        - title: Ubnt
+          url: /firmware_ubnt.html
+        - title: Mikrotik
+          url: /firmware_mikrotik.html
+    - title: Firmware Modem
       folderitems:
-        - title: huawei
-          url: /p1_landing_page.html
-        - title: zte
-          url: /p1_landing_page.html
-    - title: Product akun
+        - title: Huawei
+          url: /firmware_huawei.html
+        - title: Zte
+          url: /firmware_zte.html
+    - title: Buat Akun
       folderitems:
-        - title: free
-          url: /p1_landing_page.html
-        - title: premium
-          url: /p1_landing_page.html
-    - title: Product rule
+        - title: Free
+          url: /akun_free.html
+        - title: Premium
+          url: /akun_premium.html
+    - title: Mode Rule
       folderitems:
-        - title: browser
-          url: /p1_landing_page.html
-        - title: sosmed
-          url: /p1_landing_page.html
-        - title: stream
-          url: /p2_landing_page.html
-        - title: game
-          url: /p1_landing_page.html
-        - title: adblock
-          url: /p1_landing_page.html
-    - title: Product scritpt
+        - title: Browser
+          url: /rule_browser.html
+        - title: Sosmed
+          url: /rule_sosmed.html
+        - title: Stream
+          url: /rule_stream.html
+        - title: Game
+          url: /rule_game.html
+        - title: Adblock
+          url: /rule_adblock.html
+    - title: Mode Scritpt
       folderitems:
-        - title: browser
-          url: /p1_landing_page.html
-        - title: sosmed
-          url: /p1_landing_page.html
-        - title: stream
-          url: /p2_landing_page.html
-        - title: game
-          url: /p1_landing_page.html
-        - title: adblock
-          url: /p1_landing_page.html
+        - title: Browser
+          url: /script_browser.html
+        - title: Sosmed
+          url: /script_sosmed.html
+        - title: Stream
+          url: /script_stream.html
+        - title: Game
+          url: /script_game.html
+        - title: Adblock
+          url: /script_adblock.html
+    - title: Port
+      folderitems:
+        - title: Game
+          url: /port_game.html
+        - title: Zerotier
+          url: /port_zerotier.html
+        - title: Whatsapp
+          url: /port_whatsapp.html
 
 # Copyright 2021 Google LLC
