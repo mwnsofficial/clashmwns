@@ -4,7 +4,7 @@ keywords: fake ip
 last_updated: Desember 06, 2020
 tags: [global_setting]
 summary: "Artikel mengatur ke mode fake ip."
-sidebar: mydoc_sidebar
+sidebar: dokument
 permalink: pengaturan_fake_ip.html
 folder: global_setting
 ---
