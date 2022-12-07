@@ -117,8 +117,8 @@ folder: product_clash
         </div>
         <div class="panel-body">
         <h4>Final Ext Reyre</h4>
-        <a href="#" class="btn btn-primary">Lihat Video</a>
         <p>Konfig mode script dan rule.</p>
+        <a href="#" class="btn btn-primary">Lihat Video</a>
         <a href="/oc_final_ext_reyre.html" class="btn btn-primary">Download</a>
         </div>
         </div>
@@ -134,7 +134,7 @@ folder: product_clash
         <div class="panel-body">
         <h4>April Master</h4>
         <p>Konfig mode script dan rule.</p>
-        <a href=#"" class="btn btn-primary">Lihat Video</a>
+        <a href="#" class="btn btn-primary">Lihat Video</a>
         <a href="/oc_april.html" class="btn btn-primary">Download</a>
         </div>
         </div>
