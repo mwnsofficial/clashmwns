@@ -1,7 +1,7 @@
 ---
 title: clash magisk
 keywords: clash magisk
-sidebar: files
+sidebar: product2_sidebar
 toc: false
 permalink: clash_magisk.html
 folder: clash
