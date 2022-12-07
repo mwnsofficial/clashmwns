@@ -1,9 +1,9 @@
 ---
-title: "DNS"
-tagName: dns
+title: "clash"
+tagName: clash
 search: exclude
-permalink: tag_dns.html
-sidebar: mydoc_sidebar
+permalink: tag_clash.html
+sidebar: dokument
 folder: tags
 ---
 {% include taglogic.html %}
