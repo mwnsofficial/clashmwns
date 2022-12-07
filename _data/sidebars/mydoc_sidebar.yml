@@ -57,59 +57,59 @@ entries:
         output: web
         subfolderitems:
 
-        - title: pengaturan redir host
+        - title: redir host
           url: /tag_redir_host.html
           output: web
 
-        - title: pengaturan fake ip
+        - title: fake ip
           url: /tag_fake_ip.html
           output: web
 
-        - title: pengaturan dns
+        - title: dns
           url: /tag_dns.html
           output: web
 
-        - title: pengaturan meta
+        - title: meta
           url: /tag_meta.html
           output: web
 
-        - title: pengaturan streaming enchance
+        - title: streaming enchance
           url: /tag_streaming_enchance.html
           output: web
 
-        - title: pengaturan control panel
+        - title: control panel
           url: /tag_control_panel.html
           output: web
 
-        - title: pengaturan rules setting
+        - title: rules setting
           url: /tag_rules_setting.html
           output: web
 
-        - title: pengaturan dashboard
+        - title: dashboard
           url: /tag_dashboard.html
           output: web
 
-        - title: pengaturan update rule
+        - title: update rule
           url: /tag_update_rule.html
           output: web
 
-        - title: pengaturan update geoip
+        - title: update geoip
           url: /tag_update_geoip.html
           output: web
 
-        - title: pengaturan update chnroute
+        - title: update chnroute
           url: /tag_update_chnroute.html
           output: web
 
-        - title: pengaturan dellay start
+        - title: dellay start
           url: /tag_dellay_start.html
           output: web
 
-        - title: pengaturan update versi
+        - title: update versi
           url: /tag_update_versi.html
           output: web
 
-        - title: pengaturan log debug
+        - title: log debug
           url: /tag_log_debug.html
           output: web
 
@@ -118,15 +118,15 @@ entries:
         output: web
         subfolderitems:
 
-        - title: pengaturan proksi grup
+        - title: proksi grup
           url: /tag_redir_host.html
           output: web
 
-        - title: pengaturan provider
+        - title: proksi provider
           url: /tag_fake_ip.html
           output: web
 
-        - title: pengaturan proksi
+        - title: proksi
           url: /tag_dns.html
           output: web
 
@@ -135,15 +135,15 @@ entries:
         output: web
         subfolderitems:
 
-        - title: pengaturan rule game
+        - title: rule game
           url: /tag_game_rule.html
           output: web
 
-        - title: pengaturan other rule provider
+        - title: other rule provider
           url: /tag_other_rule.html
           output: web
 
-        - title: pengaturan custom rule provider
+        - title: custom rule provider
           url: /tag_custom_rule.html
           output: web
 
@@ -152,11 +152,11 @@ entries:
         output: web
         subfolderitems:
 
-        - title: pengaturan auto update
+        - title: auto update
           url: /tag_auto_update.html
           output: web
 
-        - title: pengaturan subscribe konfigurasi
+        - title: subscribe konfigurasi
           url: /tag_subscribe_konfigurasi.html
           output: web
 
