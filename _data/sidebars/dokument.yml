@@ -62,11 +62,11 @@ entries:
           output: web
 
         - title: Proksi dan Grup
-          url: /tag_proksi_dan_grup.html
+          url: /tag_proksi.html
           output: web
 
         - title: Rule dan Grup
-          url: /tag_rule_dan_grup.html
+          url: /tag_rule.html
           output: web
 
         - title: Update Konfig
