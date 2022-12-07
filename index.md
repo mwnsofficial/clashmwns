@@ -1,8 +1,8 @@
 ---
 title: "Belajar dari clashmwns mulai awal hingga anda bisa mandiri"
-keywords: sample homepage
+keywords: homepage
 tags: [overview]
-sidebar: mydoc_sidebar
+sidebar: dokument
 permalink: index.html
 summary: Belajar dari clashmwns mulai awal hingga anda bisa mandiri.
 ---
@@ -19,37 +19,7 @@ Jadi anda tidak perlu ragu kepada saya di karenakan pengalaman saya di jam terba
 
 ### Materi
 
-Materi yang akan saya bahas dalam blog dokumentasi ini berupa:
-
-- [Clash](https://www.clashmwns.com/pengenalan_clash.html)
-
-- [Passwall](https://www.clashmwns.com/passwall)
-
-- [Openwrt](https://www.clashmwns.com/openwrt)
-
-- [Mikrotik](https://www.clashmwns.com/mikrotik)
-
-- [Router](https://www.clashmwns.com/router)
-
-- [Modem](https://www.clashmwns.com/modem)
-
-- [Script](https://www.clashmwns.com/script)
-
-- Dan masih banyak lagi yang lain nya
-
-### Jasa
-
-Anda juga bisa menggunakan layanan jasa saya untuk:
-
-- [Remote Openwrt](https://wa.me/6287764241047?text=saya%20ingin%20berlangganan%20jasa%remote%20openwrt)
-
-- [Remote Mikrotik](https://wa.me/6287764241047?text=saya%20ingin%20berlangganan%20jasa%remote%20mikrotik)
-
-- [Pasang Wifi di wilayah terpencil](https://wa.me/6287764241047?text=saya%20ingin%20berlangganan%20jasa%20pasang%20wifi)
-
-- [Perbaikan Radio di tower](https://wa.me/6287764241047?text=saya%20ingin%20berlangganan%20jasa%perbaikan%20radio%20tower)
-
-- Dan lain nya berkaitan soal koneksi internet
+Materi yang akan saya bahas di dalam blog [dokumentasi](https://www.clashmwns.com/artikel.html) ini.
 
 ### Situs
 
