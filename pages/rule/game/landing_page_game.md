@@ -22,7 +22,7 @@ folder: game
         <div class="panel-body">
         <h4>Mobile Legends</h4>
         <p>Kumpulan rule Mobile Legends dari clashmwns.</p>
-        <a href="/rule_mobilelegends.html" class="btn btn-primary">Download</a>
+        <a href="/rule_mobilelegends.html" class="btn btn-primary">Lihat rule</a>
         </div>
         </div>
         </div>
@@ -37,7 +37,7 @@ folder: game
         <div class="panel-body">
         <h4>Garena</h4>
         <p>Kumpulan rule Garena dari clashmwns.</p>
-        <a href="/rule_garena.html" class="btn btn-primary">Download</a>
+        <a href="/rule_garena.html" class="btn btn-primary">Lihat rule</a>
         </div>
         </div>
         </div>
@@ -52,7 +52,7 @@ folder: game
         <div class="panel-body">
         <h4>Pubg</h4>
         <p>Kumpulan rule Pubg dari clashmwns.</p>
-        <a href="/rule_pubg.html" class="btn btn-primary">Download</a>
+        <a href="/rule_pubg.html" class="btn btn-primary">Lihat rule</a>
         </div>
         </div>
         </div>
@@ -67,7 +67,7 @@ folder: game
         <div class="panel-body">
         <h4>Roblox</h4>
         <p>Kumpulan rule Roblox dari clashmwns.</p>
-        <a href="/rule_roblox.html" class="btn btn-primary">Download</a>
+        <a href="/rule_roblox.html" class="btn btn-primary">Lihat rule</a>
         </div>
         </div>
         </div>
@@ -82,7 +82,7 @@ folder: game
         <div class="panel-body">
         <h4>Clash Of Clans</h4>
         <p>Kumpulan rule Clash Of Clans dari clashmwns.</p>
-        <a href="/rule_coc.html" class="btn btn-primary">Download</a>
+        <a href="/rule_coc.html" class="btn btn-primary">Lihat rule</a>
         </div>
         </div>
         </div>
@@ -97,7 +97,7 @@ folder: game
         <div class="panel-body">
         <h4>Domino</h4>
         <p>Kumpulan rule Domino dari clashmwns.</p>
-        <a href="/rule_domino.html" class="btn btn-primary">Download</a>
+        <a href="/rule_domino.html" class="btn btn-primary">Lihat rule</a>
         </div>
         </div>
         </div>
