@@ -1,9 +1,9 @@
 ---
 title: arsip clashmwns
-sidebar: home
+sidebar: navigasi
 keywords: arsip
 permalink: arsip_clashmwns.html
-toc: true
+toc: false
 folder: artikel
 ---
 
