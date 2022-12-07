@@ -40,3 +40,4 @@ Saya saat ini mendalami pekerjaan pada bidang di bawah ini:
 Untuk anda yang sudah tidak sabar lagi memulai pembelajaran materi ini silahkan masuk ke [Memulai dari awal][index].
 
 {% include links.html %}
+
