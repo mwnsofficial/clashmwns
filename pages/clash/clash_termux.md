@@ -1,10 +1,10 @@
 ---
-title: Product clash termux
-keywords: mydoc
-sidebar: product_clash
+title: clash termux
+keywords: clash termux
+sidebar: dokument
 toc: false
-permalink: produk_clash_termux.html
-folder: product_clash
+permalink: clash_termux.html
+folder: clash
 ---
 <div class="row">
         <div class="col-lg-12">
