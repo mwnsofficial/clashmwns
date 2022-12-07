@@ -22,7 +22,7 @@ folder: akun
         <div class="panel-body">
         <h4>Howdy</h4>
         <p>Kumpulan akun trojan dari Howdy.</p>
-        <a href="https://howdy.id/trojan-vpn/" class="btn btn-primary">Download</a>
+        <a href="https://howdy.id/trojan-vpn/" class="btn btn-primary">Get Akun</a>
         </div>
         </div>
         </div>
@@ -37,7 +37,7 @@ folder: akun
         <div class="panel-body">
         <h4>Ssh Ocean</h4>
         <p>Kumpulan akun vmess dari Ssh Ocean.</p>
-        <a href="https://sshocean.com/v2ray/vmess" class="btn btn-primary">Download</a>
+        <a href="https://sshocean.com/v2ray/vmess" class="btn btn-primary">Get Akun</a>
         </div>
         </div>
         </div>
