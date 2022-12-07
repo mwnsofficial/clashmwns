@@ -3,7 +3,7 @@ title: "Log Debug"
 tagName: log_debug
 search: exclude
 permalink: tag_log_debug.html
-sidebar: mydoc_sidebar
+sidebar: dokument
 folder: tags
 ---
 {% include taglogic.html %}
