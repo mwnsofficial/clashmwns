@@ -5,7 +5,7 @@ last_updated: Desember 06, 2020
 tags: [global_setting]
 summary: "Artikel mengatur ke mode direct."
 sidebar: mydoc_sidebar
-permalink: pengaturan_mode_direct.html
+permalink: mode_direct.html
 folder: mydoc
 ---
 
