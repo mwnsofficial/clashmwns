@@ -3,7 +3,7 @@ title: Product rule openwrt
 keywords: mydoc
 sidebar: product_rule
 toc: false
-permalink: produk_rule.html
+permalink: rule.html
 folder: product_rule
 ---
 <div class="row">
