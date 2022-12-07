@@ -1,8 +1,8 @@
 ---
-title: mikrotik
+title: artikel
 sidebar: home
-keywords: mikrotik, artikel
-permalink: mikrotik.html
+keywords: openwrt, mikrotik, router, modem, script
+permalink: artikel.html
 toc: false
 folder: artikel
 ---
@@ -26,7 +26,7 @@ folder: artikel
         <p><a href="feed.xml" class="btn btn-primary navbar-btn cursorNorm" role="button">RSS Subscribe{{tag}}</a></p>
 
 <hr />
-        <p>Lihat artikel lain nya disini <a href="arsip_clashmwns.html">Arsip clashmwns</a>. </p>
+        <p>Lihat artikel lain nya disini <a href="arsip_clashmwns.html">arsip clashmwns</a>. </p>
 
     </div>
 </div>
