@@ -1,10 +1,10 @@
 ---
-title: Product clash openwrt
-keywords: mydoc
+title: clash openwrt
+keywords: clash openwrt
 sidebar: product_clash
 toc: false
-permalink: produk_clash_openwrt.html
-folder: product_clash
+permalink: clash_openwrt.html
+folder: clash
 ---
 <div class="row">
         <div class="col-lg-12">
