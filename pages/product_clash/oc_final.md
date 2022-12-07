@@ -137,6 +137,6 @@ folder: produk_clash
 <p>Berkunjung ke Pulau Komodo belum lengkap jika berwisata dengan aktivitas panjat tebing lainnya.</p>
 <p>Resor ini jelas merupakan pilihan terbaik untuk menikmati keindahan hewan langka.</p>
 <p>Jadi, pastikan Anda aman saat berlibur ke sini.</p>
-</div></div></div>
+</div></div>
 
 {% include links.html %}
