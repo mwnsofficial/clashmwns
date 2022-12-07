@@ -6,7 +6,7 @@ tags: [global_setting]
 summary: "Artikel mengatur ke mode global."
 sidebar: mydoc_sidebar
 permalink: mode_global.html
-folder: mydoc
+folder: global_setting
 ---
 
 Pada artikel ini, saya akan memandu anda untuk mengatur global setting anda untuk menjadi mode global.
