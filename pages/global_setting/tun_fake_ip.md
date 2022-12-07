@@ -1,10 +1,10 @@
 ---
 title: cara mengatur tun fake ip
 keywords: fakeip, tun, tunmix
-last_updated: Desember 06, 2020
+last_updated: Desember 06, 2022
 tags: [global_setting]
 summary: "Artikel mengganti ke Tun Fake IP."
-sidebar: mydoc_sidebar
+sidebar: dokument
 permalink: tun_fake_ip.html
 folder: global_setting
 ---
