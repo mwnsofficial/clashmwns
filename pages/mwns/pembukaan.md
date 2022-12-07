@@ -1,6 +1,6 @@
 ---
 title: About Us
-sidebar: mydoc_sidebar
+sidebar: dokument
 permalink: about_us.html
 folder: mwns
 ---
