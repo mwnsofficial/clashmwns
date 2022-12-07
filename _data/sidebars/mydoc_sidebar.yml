@@ -44,11 +44,11 @@ entries:
     output: web
     folderitems:
 
-    - title: pengenalan clash
+    - title: pengenalan
       url: /pengenalan_clash.html
       output: web
 
-    - title: cara install clash
+    - title: Install
       url: /install_clash.html
       output: web
 
@@ -57,104 +57,32 @@ entries:
         output: web
         subfolderitems:
 
-        - title: redir host
-          url: /tag_redir_host.html
+        - title: Global Setting
+          url: /tag_global_setting.html
           output: web
 
-        - title: fake ip
-          url: /tag_fake_ip.html
+        - title: Proksi dan Grup
+          url: /tag_proksi_dan_grup.html
           output: web
 
-        - title: dns
-          url: /tag_dns.html
+        - title: Rule dan Grup
+          url: /tag_rule_dan_grup.html
           output: web
 
-        - title: meta
-          url: /tag_meta.html
+        - title: Update Konfig
+          url: /tag_update_konfig.html
           output: web
 
-        - title: streaming enchance
-          url: /tag_streaming_enchance.html
+        - title: Konfig Manage
+          url: /tag_konfig_manage.html
           output: web
 
-        - title: control panel
+        - title: Konfig Editor
           url: /tag_control_panel.html
           output: web
 
-        - title: rules setting
+        - title: Log Debug
           url: /tag_rules_setting.html
-          output: web
-
-        - title: dashboard
-          url: /tag_dashboard.html
-          output: web
-
-        - title: update rule
-          url: /tag_update_rule.html
-          output: web
-
-        - title: update geoip
-          url: /tag_update_geoip.html
-          output: web
-
-        - title: update chnroute
-          url: /tag_update_chnroute.html
-          output: web
-
-        - title: dellay start
-          url: /tag_dellay_start.html
-          output: web
-
-        - title: update versi
-          url: /tag_update_versi.html
-          output: web
-
-        - title: log debug
-          url: /tag_log_debug.html
-          output: web
-
-        - title: proksi grup
-          url: /tag_redir_host.html
-          output: web
-
-        - title: proksi provider
-          url: /tag_fake_ip.html
-          output: web
-
-        - title: proksi
-          url: /tag_dns.html
-          output: web
-
-        - title: rule game
-          url: /tag_game_rule.html
-          output: web
-
-        - title: other rule provider
-          url: /tag_other_rule.html
-          output: web
-
-        - title: custom rule provider
-          url: /tag_custom_rule.html
-          output: web
-
-        - title: auto update
-          url: /tag_auto_update.html
-          output: web
-
-        - title: subscribe konfigurasi
-          url: /tag_subscribe_konfigurasi.html
-          output: web
-
-        - title: unggah file
-          url: /tag_unggah_file.html
-          output: web
-
-        - title: backup file
-          url: /tag_backup_file.html
-          output: web
-
-        - title: edit file
-          url: /tag_edit_file.html
           output: web
 
   - title: Artikel
