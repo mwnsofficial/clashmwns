@@ -6,7 +6,7 @@ tags: [global_setting]
 summary: "Artikel mengatur ke mode direct."
 sidebar: mydoc_sidebar
 permalink: mode_direct.html
-folder: mydoc
+folder: global_setting
 ---
 
 Pada artikel ini, saya akan memandu anda untuk mengatur global setting anda untuk menjadi mode direct.
