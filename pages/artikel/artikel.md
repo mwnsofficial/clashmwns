@@ -1,6 +1,6 @@
 ---
 title: artikel
-sidebar: home
+sidebar: navigasi
 keywords: openwrt, mikrotik, router, modem, script
 permalink: artikel.html
 toc: false
