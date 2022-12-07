@@ -2,7 +2,7 @@
 title: cara mengatur tun redir host
 keywords: redirhost, tun, tunmix
 last_updated: Desember 06, 2020
-tags: [redir_host]
+tags: [global_setting]
 summary: "Sebelum anda melakukan pengaturan, pastikan anda sudah memiliki sebuah konfigurasi."
 sidebar: mydoc_sidebar
 permalink: pengaturan_tun_redir_host.html
