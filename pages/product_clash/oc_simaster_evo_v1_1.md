@@ -3,7 +3,7 @@ title: Simaster Evo V1.1 Konfigurasi
 keywords: simaster_evo_v1_1
 summary: "Terima kasih sudah download file clashmaster"
 sidebar: product_clash_openwrt
-permalink: oc_simaster_v1_1.html
+permalink: oc_simaster_evo_v1_1.html
 folder: produk_clash
 ---
 
