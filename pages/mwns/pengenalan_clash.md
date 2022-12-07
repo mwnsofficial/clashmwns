@@ -1,14 +1,13 @@
 ---
 title: Pengenalan Clash
-tags:
-  - getting_started
+tags: clash
 keywords: "features, capabilities, scalability, multichannel output, benefits"
-last_updated: "July 16, 2020"
+last_updated: "Desember 6, 2022"
 summary: "Semua Penjelasan tentang clash ada di halaman ini."
 published: true
-sidebar: mydoc_sidebar
+sidebar: dokument
 permalink: pengenalan_clash.html
-folder: mydoc
+folder: mwns
 ---
 
 Clash adalah system operasional berbasis linux dan bersifat terbuka.
