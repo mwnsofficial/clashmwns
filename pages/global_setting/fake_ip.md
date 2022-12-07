@@ -2,11 +2,11 @@
 title: cara mengatur fake ip
 keywords: fake ip
 last_updated: Desember 06, 2020
-tags: [getting_started]
+tags: [global_setting]
 summary: "Artikel mengatur ke mode fake ip."
 sidebar: mydoc_sidebar
 permalink: pengaturan_fake_ip.html
-folder: mydoc
+folder: global_setting
 ---
 
 Pada artikel ini, saya akan memandu anda untuk mengatur global setting anda untuk menjadi sistem fake ip.
