@@ -6,7 +6,7 @@ tags: [getting_started]
 summary: "Sebelum anda melakukan install, pastikan paket data internet anda sudah ada dan stabil."
 sidebar: mydoc_sidebar
 permalink: install_clash.html
-folder: mydoc
+folder: global_setting
 ---
 
 Hal yang perlu anda lakukan adalah:
