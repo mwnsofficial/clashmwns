@@ -1,10 +1,10 @@
 ---
-title: Product clash android
-keywords: mydoc
-sidebar: product_clash
+title: clash android
+keywords: clash android
+sidebar: dokument
 toc: false
-permalink: produk_clash_android.html
-folder: product_clash
+permalink: clash_android.html
+folder: clash
 ---
 <div class="row">
         <div class="col-lg-12">
