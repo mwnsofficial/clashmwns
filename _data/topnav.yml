@@ -84,8 +84,6 @@ topnav_dropdowns:
           url: /rule_stream.html
         - title: Game
           url: /rule_game.html
-        - title: Adblock
-          url: /rule_adblock.html
     - title: Mode Scritpt
       folderitems:
         - title: Browser
@@ -96,8 +94,6 @@ topnav_dropdowns:
           url: /script_stream.html
         - title: Game
           url: /script_game.html
-        - title: Adblock
-          url: /script_adblock.html
     - title: Port
       folderitems:
         - title: Game
