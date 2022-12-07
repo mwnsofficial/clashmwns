@@ -7,19 +7,67 @@ permalink: oc_final.html
 folder: produk_clash
 ---
 
-## Sample Content
+<div class="separator-text" style="text-align: center;"> 
+<div class="ads-top">
+<script async="" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1794381705838564"></script>
+<ins class="adsbygoogle" data-ad-client="ca-pub-1794381705838564" data-ad-format="fluid" data-ad-layout="in-article" data-ad-slot="9688449184" style="display: block; text-align: center;"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+  
+<a class="button1" href="#visitlink">Klik 2x untuk menuju link</a></div>
+<div class="separator-text">
+<p>Tren belanja online di era baru menyebabkan berkembangnya bisnis online di Indonesia.</p>
+<p>Di balik keterpurukan ekonomi, ada hikmahnya peluang baru yaitu e-commerce yang berkembang pesat karena perkembangan teknologi.</p>
+<p>Belanja online terus berkembang sejak pandemi sampai saat ini karena munculnya pelanggan baru yang meninggalkan belanja online kustom (offline) menjadi online.</p>
+<p>Bukti belanja online digemari konsumen mendorong pengusaha untuk mengubah bisnis online mereka yang sudah ada budaya produk.</p>
+<p>Pelaku ekonomi saat ini bukan hanya pihak yang dikendalikan, Tetapi individu telah menjalankan lebih banyak bisnis online, yang berarti lebih banyak persaingan e-commerce semakin kuat.</p>
+<p>Sejalan dengan itu, kata kunci untuk persaingan saat ini adalah strategi.</p>
+<p>Setiap pengusaha harus memiliki strategi bersaing yang tepat agar dapat bertahan dan lebih unggul dari pesaing yang lain.</p>
+<p>Salah satunya adalah digital signage.</p>
+<p>Merek digital adalah pemilihan fitur dari toko online dapat mempengaruhi persepsi pelanggan memisahkannya dari pesaing.</p>
+<p>Oleh karena itu, harus dibuat cantik dan unik agar konsumen ingat dan menempatkan mereka dalam pikiran.</p>
+<p>Fitur seperti logo, slogan, nama, warna, desain web, konten dan lainnya dalam industri yang diatur harus dibuat untuk memenuhi persyaratan khusus dan bagus.</p>
+<p>Kemampuan digital sekarang mempengaruhi kemampuan pemasaran secara signifikan setiap pengusaha harus dibangun.</p>
+<p>Gunakan kekuatan digital untuk membuat model</p><div>
 
-"Lorem Ipsum" is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+<div class="separator" id="visitlink" style="text-align: center;">
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+<div class="ads-left" id="ads-left">
+<script async="" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1794381705838564"></script>
+<ins class="adsbygoogle" data-ad-client="ca-pub-1794381705838564" data-ad-format="fluid" data-ad-layout="in-article" data-ad-slot="9688449184" style="display: block; text-align: center;"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  </div>
+  
+<div class="safelink" dir="ltr" trbidi="on">
+<div>
+<span class="button1" id="daplong">clashmwns muatkan link...</span></div>
+<button id="download" class="visit-link button1"><a href="https://firebasestorage.googleapis.com/v0/b/ratingblogger-deada.appspot.com/o/BEST%20CONFIG%20OPENCLASH.rar?alt=media&token=c5db0f6f-696f-4b03-92d0-46cd80ed2adb">Silahkan Masuk</a></button></div>
+<div class="ads-right" id="ads-right">
+<script async="" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1794381705838564"></script>
+<ins class="adsbygoogle" data-ad-client="ca-pub-1794381705838564" data-ad-format="fluid" data-ad-layout="in-article" data-ad-slot="9688449184" style="display: block; text-align: center;"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  </div>
+</div>
+<div class="clear">
+<p>Bagaimana gambar digital signage dikembangkan? Mulailah dengan kesadaran pelanggan 
+Brand yang tercipta (brand awareness) kemudian menciptakan brand image 
+(citra merek) terbatas pada iklan merek di jejaring sosial sebanyak mungkin 
+tersedia hari ini untuk publik untuk melihat dan tahu.</p>
+<p>Jadi, media sosial adalah salah satu wadah, tempat pengusaha mengekspresikan identitas (simbol) mereka.</p>
+<p>jika dilakukan dengan benar, itu akan menghasilkan hubungan pelanggan yang berharga.</p>
+<p>Era digital memaksa pengusaha untuk mengadopsi strategi bisnis digital juga menang dalam pemasaran digital.</p>
+<p>Nilai produk dikirim secara online sehingga menunjukkan banyak orang dan bisnis di dunia digital.</p>
+<p>Oleh karena itu, penting bagi pengusaha untuk memahami dan benar-benar menerapkannya</p>
+<p>Signage digital menggunakan teknologi internet untuk menciptakan hubungan interaktif.</p>
+<p>bermanfaat bagi masyarakat pada umumnya dan konsumen pada khususnya karena adanya hubungan tersebut 
+yang didorong oleh bisnis secara efektif akan membangun kepercayaan dan loyalitas 
+digunakan.</p>
+<p></p></div></div></div>
 
-
-## More sample content
-
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
-
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
-
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
 
 {% include links.html %}
