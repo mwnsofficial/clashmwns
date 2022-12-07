@@ -2,7 +2,7 @@
 title: About Us
 sidebar: mydoc_sidebar
 permalink: about_us.html
-folder: mydoc
+folder: mwns
 ---
 
 ## About Us
