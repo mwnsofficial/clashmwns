@@ -1,11 +1,11 @@
 ---
 title: cara mengatur redir host
 keywords: redir host
-last_updated: Desember 06, 2020
+last_updated: Desember 06, 2022
 tags: [global_setting]
 summary: "Artikel mengatur ke mode Redir Host."
-sidebar: mydoc_sidebar
-permalink: pengaturan_redir_host.html
+sidebar: dokument
+permalink: redir_host.html
 folder: global_setting
 ---
 
