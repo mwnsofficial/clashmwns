@@ -1,9 +1,9 @@
 ---
-title: "Update Versi"
-tagName: update_versi
+title: "Global Setting"
+tagName: global_setting
 search: exclude
-permalink: tag_update_versi.html
-sidebar: mydoc_sidebar
+permalink: tag_global_setting.html
+sidebar: dokument
 folder: tags
 ---
 {% include taglogic.html %}
