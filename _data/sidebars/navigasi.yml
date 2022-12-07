@@ -8,17 +8,20 @@ entries:
   - title: Daftar Isi
     output: web
     folderitems:
-    - title: OpenWRT
+    - title: openwrt
       url: /tag_openwrt.html
       output: web
-    - title: Install
-      url: /tag_install.html
+    - title: mikrotik
+      url: /tag_mikrotik.html
+      output: web
+    - title: router
+      url: /tag_router.html
+      output: web
+    - title: modem
+      url: /tag_modem.html
       output: web
     - title: Forum
       url: /tag_forum.html
-      output: web
-    - title: Penanganan
-      url: /tag_penanganan.html
       output: web
 
 # Copyright 2021 Google LLC
