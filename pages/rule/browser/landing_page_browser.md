@@ -1,10 +1,10 @@
 ---
-title: Product rule openwrt
+title: Rule Browser
 keywords: mydoc
-sidebar: product_rule
+sidebar: rule
 toc: false
-permalink: rule.html
-folder: product_rule
+permalink: /rule_browser.html
+folder: browser
 ---
 <div class="row">
         <div class="col-lg-12">
