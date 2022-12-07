@@ -6,7 +6,7 @@ tags: [global_setting]
 summary: "Artikel mengganti ke Tun Redir Host."
 sidebar: mydoc_sidebar
 permalink: tun_redir_host.html
-folder: mydoc
+folder: global_setting
 ---
 
 Pada artikel ini, saya akan memandu anda untuk mengatur global setting anda untuk menjadi sistem Tun.
