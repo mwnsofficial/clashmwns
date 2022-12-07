@@ -53,7 +53,7 @@ entries:
       output: web
 
       subfolders:
-      - title: Global settings
+      - title: Settings
         output: web
         subfolderitems:
 
@@ -113,11 +113,6 @@ entries:
           url: /tag_log_debug.html
           output: web
 
-      subfolders:
-      - title: Proksi dan grup
-        output: web
-        subfolderitems:
-
         - title: proksi grup
           url: /tag_redir_host.html
           output: web
@@ -129,11 +124,6 @@ entries:
         - title: proksi
           url: /tag_dns.html
           output: web
-
-      subfolders:
-      - title: Rule dan grup
-        output: web
-        subfolderitems:
 
         - title: rule game
           url: /tag_game_rule.html
@@ -147,11 +137,6 @@ entries:
           url: /tag_custom_rule.html
           output: web
 
-      subfolders:
-      - title: Update konfigurasi
-        output: web
-        subfolderitems:
-
         - title: auto update
           url: /tag_auto_update.html
           output: web
@@ -159,11 +144,6 @@ entries:
         - title: subscribe konfigurasi
           url: /tag_subscribe_konfigurasi.html
           output: web
-
-      subfolders:
-      - title: Konfig manager
-        output: web
-        subfolderitems:
 
         - title: unggah file
           url: /tag_unggah_file.html
