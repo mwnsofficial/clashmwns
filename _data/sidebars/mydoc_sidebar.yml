@@ -78,11 +78,11 @@ entries:
           output: web
 
         - title: Konfig Editor
-          url: /tag_control_panel.html
+          url: /tag_konfig_editor.html
           output: web
 
         - title: Log Debug
-          url: /tag_rules_setting.html
+          url: /tag_log_debug.html
           output: web
 
   - title: Artikel
