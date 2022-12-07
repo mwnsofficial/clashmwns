@@ -1,7 +1,7 @@
 ---
 title: Akun Free
-keywords: mydoc
-sidebar: akun
+keywords: akun free
+sidebar: dokument
 toc: false
 permalink: /akun_free.html
 folder: akun
