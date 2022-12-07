@@ -1,9 +1,9 @@
 ---
-title: "install"
-tagName: install
+title: "openwrt"
+tagName: openwrt
 search: exclude
-permalink: tag_install.html
-sidebar: mydoc_sidebar
+permalink: tag_openwrt.html
+sidebar: dokument
 folder: tags
 ---
 {% include taglogic.html %}
