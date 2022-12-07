@@ -1,8 +1,8 @@
 ---
-title: "Rules Setting"
-tagName: rules_setting
+title: "Global Setting"
+tagName: global_setting
 search: exclude
-permalink: tag_rules_setting.html
+permalink: tag_global_setting.html
 sidebar: mydoc_sidebar
 folder: tags
 ---
