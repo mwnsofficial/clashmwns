@@ -3,169 +3,155 @@
 
 entries:
 - title: files
-  product: file clashmwns
-  version:
+  levels: one
   folders:
 
-  - title: page
-    output: pdf
-    type: frontmatter
-    folderitems:
-    - title:
-      url: /titlepage.html
-      output: pdf
-      type: frontmatter
-    - title:
-      url: /tocpage.html
-      output: pdf
-      type: frontmatter
+- title: Konfigurasi Clash
+  output: web
+  folderitems:
 
-    - title: Konfigurasi Clash
-      output: web
-      folderitems:
+  - title: Clash Openwrt
+    url: /clash_openwrt.html
+    output: web
 
-        - title: Clash Openwrt
-          url: /clash_openwrt.html
-          output: web
+  - title: Clash Android
+    url: /clash_android.html
+    output: web
 
-        - title: Clash Android
-          url: /clash_android.html
-          output: web
+  - title: Clash Magisk
+    url: /clash_magisk.html
+    output: web
 
-        - title: Clash Magisk
-          url: /clash_magisk.html
-          output: web
+  - title: Clash Termux
+    url: /clash_termux.html
+    output: web
 
-        - title: Clash Termux
-          url: /clash_termux.html
-          output: web
+  - title: Clash Windows
+    url: /clash_windows.html
+    output: web
 
-        - title: Clash Windows
-          url: /clash_windows.html
-          output: web
+- title: Firmware Openwrt
+  output: web
+  folderitems:
 
-    - title: Firmware Openwrt
-      output: web
-      folderitems:
+  - title: Original
+    url: /firmware_original.html
+    output: web
 
-        - title: Original
-          url: /firmware_original.html
-          output: web
+  - title: Oc Only
+    url: /firmware_oc_only.html
+    output: web
 
-        - title: Oc Only
-          url: /firmware_oc_only.html
-          output: web
+  - title: Passwall Only
+    url: /firmware_passwall_only.html
+    output: web
 
-        - title: Passwall Only
-          url: /firmware_passwall_only.html
-          output: web
+  - title: Simaster
+    url: /firmware_simaster.html
+    output: web
 
-        - title: Simaster
-          url: /firmware_simaster.html
-          output: web
+- title: Firmware Router
+  output: web
+  folderitems:
 
-    - title: Firmware Router
-      output: web
-      folderitems:
+  - title: Tplink
+    url: /firmware_tplink.html
+    output: web
 
-        - title: Tplink
-          url: /firmware_tplink.html
-          output: web
+  - title: Tenda
+    url: /firmware_tenda.html
+    output: web
 
-        - title: Tenda
-          url: /firmware_tenda.html
-          output: web
+  - title: Totolink
+    url: /firmware_totolink.html
+    output: web
 
-        - title: Totolink
-          url: /firmware_totolink.html
-          output: web
+  - title: Ubnt
+    url: /firmware_ubnt.html
+    output: web
 
-        - title: Ubnt
-          url: /firmware_ubnt.html
-          output: web
+  - title: Mikrotik
+    url: /firmware_mikrotik.html
+    output: web
 
-        - title: Mikrotik
-          url: /firmware_mikrotik.html
-          output: web
+- title: Firmware Modem
+  output: web
+  folderitems:
 
-    - title: Firmware Modem
-      output: web
-      folderitems:
+  - title: Huawei
+    url: /firmware_huawei.html
+    output: web
 
-        - title: Huawei
-          url: /firmware_huawei.html
-          output: web
+  - title: Zte
+    url: /firmware_zte.html
+    output: web
 
-        - title: Zte
-          url: /firmware_zte.html
-          output: web
+- title: Buat Akun
+  output: web
+  folderitems:
 
-    - title: Buat Akun
-      output: web
-      folderitems:
+  - title: Free
+    url: /akun_free.html
+    output: web
 
-        - title: Free
-          url: /akun_free.html
-          output: web
+  - title: Premium
+    url: /akun_premium.html
+    output: web
 
-        - title: Premium
-          url: /akun_premium.html
-          output: web
+- title: Mode Rule
+  output: web
+  folderitems:
 
-    - title: Mode Rule
-      output: web
-      folderitems:
+  - title: Browser
+    url: /rule_browser.html
+    output: web
 
-        - title: Browser
-          url: /rule_browser.html
-          output: web
+  - title: Sosmed
+    url: /rule_sosmed.html
+    output: web
 
-        - title: Sosmed
-          url: /rule_sosmed.html
-          output: web
+  - title: Stream
+    url: /rule_stream.html
+    output: web
 
-        - title: Stream
-          url: /rule_stream.html
-          output: web
+  - title: Game
+    url: /rule_game.html
+    output: web
 
-        - title: Game
-          url: /rule_game.html
-          output: web
+- title: Mode Scritpt
+  output: web
+  folderitems:
 
-    - title: Mode Scritpt
-      output: web
-      folderitems:
+  - title: Browser
+    url: /script_browser.html
+    output: web
 
-        - title: Browser
-          url: /script_browser.html
-          output: web
+  - title: Sosmed
+    url: /script_sosmed.html
+    output: web
 
-        - title: Sosmed
-          url: /script_sosmed.html
-          output: web
+  - title: Stream
+    url: /script_stream.html
+    output: web
 
-        - title: Stream
-          url: /script_stream.html
-          output: web
+  - title: Game
+    url: /script_game.html
+    output: web
 
-        - title: Game
-          url: /script_game.html
-          output: web
+- title: Port
+  output: web
+  folderitems:
 
-    - title: Port
-      output: web
-      folderitems:
+  - title: Game
+    url: /port_game.html
+    output: web
 
-        - title: Game
-          url: /port_game.html
-          output: web
+  - title: Zerotier
+    url: /port_zerotier.html
+    output: web
 
-        - title: Zerotier
-          url: /port_zerotier.html
-          output: web
-
-        - title: Whatsapp
-          url: /port_whatsapp.html
-          output: web
+  - title: Whatsapp
+    url: /port_whatsapp.html
+    output: web
 
 # Copyright 2021 Google LLC
