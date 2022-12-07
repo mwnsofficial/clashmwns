@@ -1,8 +1,8 @@
 ---
 title: cara mengatur mode rule
-keywords: documentation, technical writers, help authoring tools, hat replacements
+keywords: mode rule
 last_updated: Desember 06, 2020
-tags: [getting_started]
+tags: [global_setting]
 summary: "Sebelum anda melakukan pengaturan, pastikan anda sudah memiliki sebuah konfigurasi."
 sidebar: mydoc_sidebar
 permalink: pengaturan_mode_rule.html
