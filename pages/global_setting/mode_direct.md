@@ -1,10 +1,10 @@
 ---
 title: cara mengatur mode direct
 keywords: mode direct
-last_updated: Desember 06, 2020
+last_updated: Desember 06, 2022
 tags: [global_setting]
 summary: "Artikel mengatur ke mode direct."
-sidebar: mydoc_sidebar
+sidebar: dokument
 permalink: mode_direct.html
 folder: global_setting
 ---
