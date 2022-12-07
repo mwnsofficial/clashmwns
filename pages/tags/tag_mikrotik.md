@@ -1,9 +1,9 @@
 ---
-title: "Meta"
-tagName: meta
+title: "Mikrotik"
+tagName: mikrotik
 search: exclude
-permalink: tag_meta.html
-sidebar: mydoc_sidebar
+permalink: tag_mikrotik.html
+sidebar: dokument
 folder: tags
 ---
 {% include taglogic.html %}
