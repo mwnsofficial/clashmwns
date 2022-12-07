@@ -4,7 +4,7 @@ entries:
 - title: dokument
   product: Selamat datang di clashmwns
   version: 
-  folders: dokument
+  folders:
 
   - title:
     output: pdf
