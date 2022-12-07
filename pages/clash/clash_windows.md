@@ -1,10 +1,10 @@
 ---
-title: Product clash windows
-keywords: mydoc
-sidebar: product_clash
+title: clash windows
+keywords: clash wimdows
+sidebar: dokument
 toc: false
 permalink: produk_clash_windows.html
-folder: product_clash
+folder: clash
 ---
 <div class="row">
         <div class="col-lg-12">
