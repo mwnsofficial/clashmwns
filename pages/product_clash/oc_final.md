@@ -43,7 +43,7 @@ folder: produk_clash
   
 <div class="safelink" dir="ltr" trbidi="on">
 <div>
-<span class="button1" id="daplong">clashmwns muatkan link...</span></div>
+<span class="button1" id="daplong">Terima kasih selalu setia bersama clashmwns</span></div>
 <button id="download" class="visit-link button1"><a href="https://firebasestorage.googleapis.com/v0/b/ratingblogger-deada.appspot.com/o/BEST%20CONFIG%20OPENCLASH.rar?alt=media&token=c5db0f6f-696f-4b03-92d0-46cd80ed2adb">Silahkan Masuk</a></button></div>
 <div class="ads-right" id="ads-right">
 <script async="" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1794381705838564"></script>
