@@ -6,7 +6,7 @@ tags: [global_setting]
 summary: "Artikel mengatur ke mode script."
 sidebar: mydoc_sidebar
 permalink: pengaturan_mode_script.html
-folder: mydoc
+folder: global_setting
 ---
 
 Pada artikel ini, saya akan memandu anda untuk mengatur global setting anda untuk menjadi mode script.
