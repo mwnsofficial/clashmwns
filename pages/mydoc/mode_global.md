@@ -3,9 +3,9 @@ title: cara mengatur mode global
 keywords: mode global, global setting
 last_updated: Desember 06, 2020
 tags: [global_setting]
-summary: "Sebelum anda melakukan pengaturan, pastikan anda sudah memiliki sebuah konfigurasi."
+summary: "Artikel mengatur ke mode global."
 sidebar: mydoc_sidebar
-permalink: pengaturan_mode_global.html
+permalink: mode_global.html
 folder: mydoc
 ---
 
