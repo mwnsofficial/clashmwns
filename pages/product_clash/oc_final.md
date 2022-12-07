@@ -17,19 +17,59 @@ folder: produk_clash
   
 <a class="button1" href="#visitlink">Klik 2x untuk menuju link</a></div>
 <div class="separator-text">
-<p>Tren belanja online di era baru menyebabkan berkembangnya bisnis online di Indonesia.</p>
-<p>Di balik keterpurukan ekonomi, ada hikmahnya peluang baru yaitu e-commerce yang berkembang pesat karena perkembangan teknologi.</p>
-<p>Belanja online terus berkembang sejak pandemi sampai saat ini karena munculnya pelanggan baru yang meninggalkan belanja online kustom (offline) menjadi online.</p>
-<p>Bukti belanja online digemari konsumen mendorong pengusaha untuk mengubah bisnis online mereka yang sudah ada budaya produk.</p>
-<p>Pelaku ekonomi saat ini bukan hanya pihak yang dikendalikan, Tetapi individu telah menjalankan lebih banyak bisnis online, yang berarti lebih banyak persaingan e-commerce semakin kuat.</p>
-<p>Sejalan dengan itu, kata kunci untuk persaingan saat ini adalah strategi.</p>
-<p>Setiap pengusaha harus memiliki strategi bersaing yang tepat agar dapat bertahan dan lebih unggul dari pesaing yang lain.</p>
-<p>Salah satunya adalah digital signage.</p>
-<p>Merek digital adalah pemilihan fitur dari toko online dapat mempengaruhi persepsi pelanggan memisahkannya dari pesaing.</p>
-<p>Oleh karena itu, harus dibuat cantik dan unik agar konsumen ingat dan menempatkan mereka dalam pikiran.</p>
-<p>Fitur seperti logo, slogan, nama, warna, desain web, konten dan lainnya dalam industri yang diatur harus dibuat untuk memenuhi persyaratan khusus dan bagus.</p>
-<p>Kemampuan digital sekarang mempengaruhi kemampuan pemasaran secara signifikan setiap pengusaha harus dibangun.</p>
-<p>Gunakan kekuatan digital untuk membuat model</p><div>
+
+<p>Jika Anda hobi travelling, destinasi wisata populer di Indonesia di bawah ini pasti akan membuat Anda senang.</p>
+<p>Banyak orang telah mengunjungi berbagai tempat terkenal di negara ini, namun nyatanya ada tempat lain - yang sangat populer - namun asyik untuk dikunjungi.</p>
+<p>Nah, pada artikel kali ini kami akan memberikan daftar rekomendasi destinasi wisata Indonesia yang mungkin baru pertama kali Anda dengar.</p>
+<p>Namun beberapa di antaranya populer bahkan di mata dunia, jadi sayang jika Anda melewatkan tempat-tempat tersebut.</p>
+<p>Tempat wisata dunia di Indonesia</p>
+<p>Ini adalah tujuan wisata dari berbagai negara dan sayang sekali jika tidak dikunjungi.</p>
+<p>Minatnya terkenal di negara lain lho.</p>
+
+<p>Danau Toba - Sumatera Utara</p>
+
+<p>Kamu pasti tahu yang namanya Danau Toba kan? Tempat ini merupakan salah satu destinasi wisata dunia Indonesia yang sayang untuk dilewatkan.</p>
+<p>Selain cerita asal usul danau ini, para ilmuwan mengatakan bahwa Danau Toba adalah danau kawah terbesar di dunia - sebuah letusan hebat yang terjadi sekitar 74.000 tahun yang lalu menjadi alasannya.</p>
+<p>Bahkan 60% dari mereka yang hidup saat itu musnah.</p>
+<p>Pusat wisata kota Medan menawarkan pemandangan alam yang indah.</p>
+<p>Berlayar melintasi Pulau Samosir dan mengunjungi desa-desa tradisional sambil mengagumi catatan zaman batu bisa menjadi perjalanan Anda untuk dikenang.</p>
+
+<p>Gunung Rinjani &ndash; Nusa Tenggara Barat</p>
+
+<p>Jika Anda pendaki biasa, menaklukkan Gunung Rinjani akan menjadi tantangan tersendiri.</p>
+<p>Sebagai salah satu destinasi wisata di Indonesia yang sangat terkenal di mata dunia, gunung ini memang melegenda.</p>
+<p>Sekarang, ada dua jalan setapak untuk mencapai puncak.</p>
+<p>Setiap metode menawarkan perspektif yang berbeda, yang kurang menarik dari yang lain.</p>
+<p>Dari hutan hujan, danau, dan pemandangan indah di bawah, Anda bisa melihat semuanya dari Gunung Rinjani.</p>
+<p>Selain dinikmati dari atas, banyak wisatawan yang menikmati keindahan Gunung Rinjani dari bawah gunung.</p>
+
+<p>Nusa Dua - Kuta Bali Selatan</p>
+
+<p>Bali adalah liburan impian bagi banyak orang.</p>
+<p>Salah satu destinasi yang wajib dikunjungi adalah Nusa Dua.</p>
+<p>Sebagai tempat wisata di Indonesia dan gambarannya, Bali merupakan tempat yang sering dikunjungi wisatawan.</p>
+<p>Selain menawarkan keindahan alam Bali, Anda juga bisa menikmati hiburan seperti Water Blow, The Pirates Bay dan aktivitas air seru lainnya yang akan memacu adrenalin Anda.</p>
+<p>Oleh karena itu, Nusa Dua merupakan destinasi yang cocok bagi para backpacker dan pelancong keluarga.</p>
+
+<p>Pantai Parai Tenggiri - Bangka Belitung</p>
+
+<p>Berbicara tentang tempat wisata Indonesia yang indah, Pantai Parai Tenggiri pasti salah satunya.</p>
+<p>Berada di Kabupaten Bangka, pantai ini mulai populer setelah kesuksesan film Laskar Pelangi.</p>
+<p>Air sungai ini berwarna biru kehijauan dan dipenuhi granit di sana-sini.</p>
+<p>Tentunya anda bisa menikmati keindahan pantai ini sambil berenang, snorkling, dll.</p>
+<p>Untuk mengunjungi pantai ini, Anda harus membayar tiket masuk sebesar Rp25.000.</p>
+<p>Tidak perlu khawatir karena didalamnya terdapat fasilitas seperti kamar mandi, tempat ibadah, dan berbagai wahana menarik.</p>
+
+<p>Raja Ampat - Papua Barat</p>
+
+<p>Raja Ampat adalah tujuan wisata terkenal di Indonesia.</p>
+<p>Beberapa traveler menyebutnya sebagai surga bagi traveler dari ujung timur Indonesia.</p>
+<p>Tempatnya sendiri merupakan gugusan dari banyak pulau kecil dengan dataran tinggi.</p>
+<p>Di bawah ini adalah hamparan pantai biru yang indah.</p>
+<p>Oleh karena itu, wisatawan mengapresiasi pemandangan alam yang sempurna dari atas ini.</p>
+<p>Jika Anda memiliki sertifikat menyelam, jangan lupa untuk melihat keindahan alam bawah laut yang tidak akan Anda temukan di tempat lain.</p>
+<p>Padahal, budget yang Anda siapkan untuk liburan di sini sangat mahal dibandingkan tempat lain.</p>
+<p>Namun harga tersebut sebanding dengan keindahan Raja Ampat.</p>
 
 <div class="separator" id="visitlink" style="text-align: center;">
 
@@ -54,20 +94,49 @@ folder: produk_clash
   </div>
 </div>
 <div class="clear">
-<p>Bagaimana gambar digital signage dikembangkan? Mulailah dengan kesadaran pelanggan 
-Brand yang tercipta (brand awareness) kemudian menciptakan brand image 
-(citra merek) terbatas pada iklan merek di jejaring sosial sebanyak mungkin 
-tersedia hari ini untuk publik untuk melihat dan tahu.</p>
-<p>Jadi, media sosial adalah salah satu wadah, tempat pengusaha mengekspresikan identitas (simbol) mereka.</p>
-<p>jika dilakukan dengan benar, itu akan menghasilkan hubungan pelanggan yang berharga.</p>
-<p>Era digital memaksa pengusaha untuk mengadopsi strategi bisnis digital juga menang dalam pemasaran digital.</p>
-<p>Nilai produk dikirim secara online sehingga menunjukkan banyak orang dan bisnis di dunia digital.</p>
-<p>Oleh karena itu, penting bagi pengusaha untuk memahami dan benar-benar menerapkannya</p>
-<p>Signage digital menggunakan teknologi internet untuk menciptakan hubungan interaktif.</p>
-<p>bermanfaat bagi masyarakat pada umumnya dan konsumen pada khususnya karena adanya hubungan tersebut 
-yang didorong oleh bisnis secara efektif akan membangun kepercayaan dan loyalitas 
-digunakan.</p>
-<p></p></div></div></div>
+<p>Wakatobi - Sulawesi Tenggara</p>
 
+<p>Objek wisata terkenal lainnya di Indonesia adalah Wakatobi.</p>
+<p>Tahukah Anda bahwa Wakatobi mewakili empat pulau di tenggara Sulawesi? Artinya Wangi-wangi, Kaledupa, Tomia dan Binongko.</p>
+<p>Taman Nasional Wakatobi sendiri merupakan kumpulan harta karun Indonesia yang tidak akan Anda temukan di tempat lain.</p>
+<p>Oleh karena itu, jika Anda pergi ke sini, menyelam adalah kegiatan yang tidak boleh dilewatkan, karena kekayaan berbagai makhluk hidup sangat kaya.</p>
+<p>Selain itu, Wakatobi menawarkan wisata kuliner yang unik dan lezat.</p>
+<p>Namun, baik di laut maupun di darat, destinasi wisata tersebut akan memanjakan para wisatawan.</p>
+<p>Pastikan memilih bulan yang tepat untuk berkunjung, karena musim liburan Wakatobi akan ramai dikunjungi wisatawan.</p>
+
+<p>Nusa Penida-Bali</p>
+
+<p>Salah satu destinasi terindah di Indonesia yang ada di Bali adalah Nusa Penida.</p>
+<p>Citra wisata tempat ini adalah sebuah pulau kecil di depan pulau dewata yang masuk dalam administrasi Klungkung.</p>
+<p>Jika Anda suka berenang dan snorkeling, ini adalah pulau yang harus dikunjungi.</p>
+<p>Dibandingkan dengan pulau Nusa-Nusa lainnya, Nusa Penida berkembang sangat lambat.</p>
+<p>Meski negara pulau ini juga lebih damai.</p>
+<p>Dan tentunya ini menjadi keuntungan bagi wisatawan yang melihat keindahan dan kedamaian.</p>
+
+<p>Tana Toraja - Sulawesi Selatan</p>
+
+<p>Untuk Sulawesi Selatan ada Tana Toraja yang sangat populer, magis dan memiliki surga yang tersembunyi.</p>
+<p>Selain sebagai tujuan wisata alam yang menakjubkan di Indonesia, tempat ini memiliki budaya yang unik.</p>
+<p>Bahkan hingga saat ini, masyarakat Toraja masih merayakan berbagai upacara keagamaan yang khas nenek moyang mereka, meskipun banyak dari mereka yang telah memeluk agama Kristen.</p>
+<p>Namun masyarakat yang tinggal di daerah tersebut masih percaya bahwa semua upacara yang mereka lakukan menunjukkan penghargaan mereka terhadap alam. Namun, jika Anda memang tertarik dengan wisata alam dan budaya, maka Tana Toraja harus masuk dalam daftar tempat yang harus Anda kunjungi.</p>
+
+<p>Candi Borobudur - Jawa Tengah</p>
+
+<p>Banyak tempat wisata Indonesia yang kini diakui oleh UNESCO.</p>
+<p>Destinasi wisata Borobudur adalah salah satunya.</p>
+<p>Candi cantik ini dipercaya dibangun pada masa dinasti Syailendra yang merupakan candi Budha di Jawa Tengah.</p>
+<p>Meski sudah berabad-abad berlalu, candi ini tetap kokoh meski telah banyak dilakukan pemugaran.</p>
+<p>Apalagi meninggalkan candi Borobudur untuk berlibur di Jawa Tengah merupakan hal yang memalukan. Toh candi ini juga dikenal sebagai candi terbesar di dunia dengan relief Buddha yang lengkap.</p>
+
+<p>Pulau Komodo - Nusa Tenggara Timur</p>
+
+<p>Tempat lain yang mendapat pengakuan dari UNESCO adalah Pulau Komodo.</p>
+<p>Seperti namanya, Anda bisa melihat komodo berlarian di sekitar Taman Nasional Komodo.</p>
+<p>Taman nasional itu sendiri terdiri dari banyak pulau kecil.</p>
+<p>Tak hanya komodo, pulau ini juga menawarkan beragam biota laut, seperti terumbu karang, lumba-lumba, penyu hijau, paus, hiu, dan ikan pari.</p>
+<p>Berkunjung ke Pulau Komodo belum lengkap jika berwisata dengan aktivitas panjat tebing lainnya.</p>
+<p>Resor ini jelas merupakan pilihan terbaik untuk menikmati keindahan hewan langka.</p>
+<p>Jadi, pastikan Anda aman saat berlibur ke sini.</p>
+</div></div></div>
 
 {% include links.html %}
