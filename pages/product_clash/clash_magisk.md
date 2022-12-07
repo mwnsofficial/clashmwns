@@ -1,10 +1,10 @@
 ---
-title: Product clash magisk
-keywords: mydoc
-sidebar: product_clash
+title: clash magisk
+keywords: clash magisk
+sidebar: files
 toc: false
-permalink: produk_clash_magisk.html
-folder: product_clash
+permalink: clash_magisk.html
+folder: clash
 ---
 <div class="row">
         <div class="col-lg-12">
