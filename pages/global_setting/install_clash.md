@@ -1,10 +1,10 @@
 ---
 title: cara install clash
-keywords: documentation, technical writers, help authoring tools, hat replacements
-last_updated: July 3, 2020
-tags: [getting_started]
+keywords: install, clash
+last_updated: Desember 6, 2022
+tags: [clash]
 summary: "Sebelum anda melakukan install, pastikan paket data internet anda sudah ada dan stabil."
-sidebar: mydoc_sidebar
+sidebar: dokument
 permalink: install_clash.html
 folder: global_setting
 ---
