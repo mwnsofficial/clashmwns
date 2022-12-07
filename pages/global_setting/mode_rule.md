@@ -1,10 +1,10 @@
 ---
 title: cara mengatur mode rule
 keywords: mode rule
-last_updated: Desember 06, 2020
+last_updated: Desember 06, 2020l2
 tags: [global_setting]
 summary: "Artikel mengatur ke mode rule."
-sidebar: mydoc_sidebar
+sidebar: dokument
 permalink: mode_rule.html
 folder: global_setting
 ---
