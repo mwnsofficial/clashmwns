@@ -1,7 +1,7 @@
 ---
-title: artikel
-sidebar: navigasi
-keywords: openwrt, mikrotik, router, modem, script
+title: Artikel
+sidebar: dokument
+keywords: openwrt, mikrotik, router, modem, script, adsense, blog, seo, youtube
 permalink: artikel.html
 toc: false
 folder: artikel
