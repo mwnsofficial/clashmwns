@@ -144,7 +144,7 @@ folder: layanan_clashmwns
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Bank</h4>
-                    <p>Untuk pembayaran atau donasi via bank.</p>
+                    <p>Untuk pembayaran atau donasi via <a href="/images/bank_bri.jpg>BRI</a>.</p>
                     <p></p>
                </div>
             </div>
@@ -157,7 +157,7 @@ folder: layanan_clashmwns
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Dana</h4>
-                    <p>Untuk pembayaran atau donasi via dana.</p>
+                    <p>Untuk pembayaran atau donasi via <a href="https://link.dana.id/qr/4r3ahl1">Dana</a>.</p>
                     <p></p>
                 </div>
             </div>
@@ -170,7 +170,7 @@ folder: layanan_clashmwns
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Shopee Pay</h4>
-                    <p>Untuk pembayaran atau donasi via shopeepay.</p>
+                    <p>Untuk pembayaran atau donasi <a href="https://wsa.wallet.airpay.co.id/qr/004f42927bfe976b9d3c?smtt=0.0.9">Shopeepay</a>.</p>
                     <p></p>
                 </div>
             </div>
@@ -185,7 +185,7 @@ folder: layanan_clashmwns
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Saweria</h4>
-                    <p>Untuk pembayaran atau donasi via saweria.</p>
+                    <p>Untuk pembayaran atau donasi via <a href="https://saweria.co/masterwifi99">Saweria</a>.</p>
                     <p></p>
                 </div>
             </div>
@@ -198,7 +198,7 @@ folder: layanan_clashmwns
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Sociabuzz</h4>
-                    <p>Untuk pembayaran atau donasi via bank.</p>
+                    <p>Untuk pembayaran atau donasi via <a href="https://sociabuzz.com/master_wifi_network_solution/tribe">Sociabuzz</a>.</p>
                     <p></p>
                 </div>
             </div>
@@ -211,7 +211,7 @@ folder: layanan_clashmwns
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Ko-Fi</h4>
-                    <p>Untuk pembayaran atau donasi via ko-fi.</p>
+                    <p>Untuk pembayaran atau donasi via <a href="https://ko-fi.com/masterwifinetworksolution">Ko-Fi</a>.</p>
                     <p></p>
                 </div>
             </div>
@@ -226,7 +226,7 @@ folder: layanan_clashmwns
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Paypall</h4>
-                    <p>Untuk pembayaran atau donasi via paypall.</p>
+                    <p>Untuk pembayaran atau donasi via <a href="https://paypal.me/myarachma92">Paypal</a>.</p>
                     <p></p>
                 </div>
             </div>
@@ -239,7 +239,7 @@ folder: layanan_clashmwns
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Bitcoin</h4>
-                    <p>Untuk pembayaran atau donasi via bitcoin.</p>
+                    <p>Untuk pembayaran atau donasi via <a href="/images/bitcoin_master.jpg">Paypal</a>.</p>
                     <p></p>
                 </div>
             </div>
@@ -252,7 +252,7 @@ folder: layanan_clashmwns
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Verifikasi Whatsapp</h4>
-                    <p>Setelah anda membayar di awal sebelum pelayanan, harap untuk kasih resi pembayaran via whatsapp.</p>
+                    <p>Setelah anda membayar di awal sebelum pelayanan, harap untuk kasih resi pembayaran via <a href="https://wa.me/6287764241047">Whatsapp</a>.</p>
                     <p>Mohon maaf, tidak melayani bon dan DP di awal.</p>
                 </div>
             </div>
@@ -265,7 +265,7 @@ folder: layanan_clashmwns
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Verifikasi Telegram</h4>
-                    <p>Setelah anda membayar di awal sebelum pelayanan, harap untuk kasih resi pembayaran via telegram.</p>
+                    <p>Setelah anda membayar di awal sebelum pelayanan, harap untuk kasih resi pembayaran via <a href="https://t.me/@mwnsofficial">Telegram</a>.</p>
                     <p>Mohon maaf, tidak melayani bon dan DP di awal.</p>
                 </div>
             </div>
