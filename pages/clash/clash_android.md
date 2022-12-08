@@ -33,7 +33,6 @@ folder: clash
         <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" /></a>
         </span>
         </div>
-        </div>
         <div class="panel-body">
         <h4>Bronze</h4>
         <p>Konfig mode script dan rule.</p>
