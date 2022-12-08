@@ -2,7 +2,7 @@
 title: "Donasi"
 keywords: donate
 tags: [overview]
-sidebar: mydoc_sidebar
+sidebar: dokument
 permalink: donate.html
 summary: Donasi untuk clashmwns.
 ---
