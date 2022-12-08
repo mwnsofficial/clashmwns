@@ -6,137 +6,6 @@ toc: false
 permalink: layanan_clashmwns.html
 folder: layanan_clashmwns
 ---
-<div class="row">
-        <div class="col-lg-12">
-            <h2 class="page-header">Layanan clashmwns</h2>
-        </div>
-        <div class="col-md-3 col-sm-6">
-            <div class="panel panel-default text-center">
-                <div class="panel-heading">
-                   <span>
-                       <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="100%" />
-                   </span>
-                </div>
-                <div class="panel-body">
-                    <h4>Remote Openwrt</h4>
-                    <p>Sejak 2020, saya sudah melayani ratusan client openwrt yang sudah saya settingkan.</p>
-                    <a href="/remote_openwrt.html" class="btn btn-primary">Selengkapnya</a>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-3 col-sm-6">
-            <div class="panel panel-default text-center">
-                <div class="panel-heading">
-                   <span>
-                       <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="100%" />
-                   </span>
-                </div>
-                <div class="panel-body">
-                    <h4>Remote Mikrotik</h4>
-                    <p>Sejak 2016, saya sudah melayani ratusan client mikrotik yang sudah saya settingkan untuk usaha.</p>
-                    <a href="remote_mikrotik.html" class="btn btn-primary">Selengkapnya</a>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-3 col-sm-6">
-            <div class="panel panel-default text-center">
-                <div class="panel-heading">
-                   <span>
-                       <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="100%" />
-                   </span>
-                </div>
-                <div class="panel-body">
-                    <h4>Remote clash openwrt</h4>
-                    <p>Untuk yang satu ini anda janganlah ragu pada saya, karena sudah banyak terbukti dan teruji kualitasnya.</p>
-                    <a href="remote_clash_openwrt.html" class="btn btn-primary">Selengkapnya</a>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-3 col-sm-6">
-            <div class="panel panel-default text-center">
-                <div class="panel-heading">
-                   <span>
-                       <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="100%" />
-                   </span>
-                </div>
-                <div class="panel-body">
-                    <h4>Pasang wifi pedesaan</h4>
-                    <p>Saya menyediakan layanan jasa pasang wifi di desa terpencil yang sulit signal.</p>
-                    <a href="/pasang_wifi_pedesaan.html" class="btn btn-primary">Selengkapnya</a>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-3 col-sm-6">
-            <div class="panel panel-default text-center">
-                <div class="panel-heading">
-                   <span>
-                       <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="100%" />
-                   </span>
-                </div>
-                <div class="panel-body">
-                    <h4>Akun Free</h4>
-                    <p>Di halaman ini saya sudah merangkum semua situs penyedia layanan pembuat akun gratis.</p>
-                    <a href="akun_free.html" class="btn btn-primary">Selengkapnya</a>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-3 col-sm-6">
-            <div class="panel panel-default text-center">
-                <div class="panel-heading">
-                   <span>
-                       <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="100%" />
-                   </span>
-                </div>
-                <div class="panel-body">
-                    <h4>Akun Premium</h4>
-                    <p>Di halaman ini saya sudah merangkum semua situs penyedia langganan akun premium.</p>
-                    <a href="/akun_premium.html" class="btn btn-primary">Selengkapnya</a>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-3 col-sm-6">
-            <div class="panel panel-default text-center">
-                <div class="panel-heading">
-                   <span>
-                       <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="100%" />
-                   </span>
-                </div>
-                <div class="panel-body">
-                    <h4>rule clashmwns</h4>
-                    <p>Halaman ini berisikan semua rule clash yang anda butuhkan.</p>
-                    <a href="/rule_clashmwns.html" class="btn btn-primary">Selengkapnya</a>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-3 col-sm-6">
-            <div class="panel panel-default text-center">
-                <div class="panel-heading">
-                   <span>
-                       <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="100%" />
-                   </span>
-                </div>
-                <div class="panel-body">
-                    <h4>Script clashmwns</h4>
-                    <p>Halaman ini berisikan seluruh script yang anda butuhkan.</p>
-                    <a href="/script_clashmwns.html" class="btn btn-primary">Selengkapnya</a>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-3 col-sm-6">
-            <div class="panel panel-default text-center">
-                <div class="panel-heading">
-                   <span>
-                       <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="100%" />
-                   </span>
-                </div>
-                <div class="panel-body">
-                    <h4>Port clashmwns</h4>
-                    <p>Halaman ini berisikan seluruh script yang anda butuhkan.</p>
-                    <a href="/akun_premium.html" class="btn btn-primary">Selengkapnya</a>
-                </div>
-            </div>
-        </div>
-    </div>
 
     <!-- Service Tabs -->
     <div class="row">
@@ -174,7 +43,98 @@ folder: layanan_clashmwns
                     <p>Telah banyak yang sudah bekerja sama dengan saya dan akan selalu support para pelanggan setia saya.</p>
                 </div>
             </div>
+        </div>
+    </div>
 
+<div class="row">
+        <div class="col-lg-12">
+            <h2 class="page-header">Layanan clashmwns</h2>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="panel panel-default text-center">
+                <div class="panel-body">
+                    <h4>Remote Openwrt</h4>
+                    <p>Sejak 2020, saya sudah melayani ratusan client openwrt yang sudah saya settingkan.</p>
+                    <a href="/remote_openwrt.html" class="btn btn-primary">Selengkapnya</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="panel panel-default text-center">
+                <div class="panel-body">
+                    <h4>Remote Mikrotik</h4>
+                    <p>Sejak 2016, saya sudah melayani ratusan client mikrotik yang sudah saya settingkan untuk usaha.</p>
+                    <a href="remote_mikrotik.html" class="btn btn-primary">Selengkapnya</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="panel panel-default text-center">
+                <div class="panel-body">
+                    <h4>Remote clash openwrt</h4>
+                    <p>Untuk yang satu ini anda janganlah ragu pada saya, karena sudah banyak terbukti dan teruji kualitasnya.</p>
+                    <a href="remote_clash_openwrt.html" class="btn btn-primary">Selengkapnya</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="panel panel-default text-center">
+                <div class="panel-body">
+                    <h4>Pasang wifi pedesaan</h4>
+                    <p>Saya menyediakan layanan jasa pasang wifi di desa terpencil yang sulit signal.</p>
+                    <a href="/pasang_wifi_pedesaan.html" class="btn btn-primary">Selengkapnya</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="panel panel-default text-center">
+                <div class="panel-heading">
+                   <span>
+                       <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="100%" />
+                   </span>
+                </div>
+                <div class="panel-body">
+                    <h4>Akun Free</h4>
+                    <p>Di halaman ini saya sudah merangkum semua situs penyedia layanan pembuat akun gratis.</p>
+                    <a href="akun_free.html" class="btn btn-primary">Selengkapnya</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="panel panel-default text-center">
+                <div class="panel-body">
+                    <h4>Akun Premium</h4>
+                    <p>Di halaman ini saya sudah merangkum semua situs penyedia langganan akun premium.</p>
+                    <a href="/akun_premium.html" class="btn btn-primary">Selengkapnya</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="panel panel-default text-center">
+                <div class="panel-body">
+                    <h4>rule clashmwns</h4>
+                    <p>Halaman ini berisikan semua rule clash yang anda butuhkan.</p>
+                    <a href="/rule_clashmwns.html" class="btn btn-primary">Selengkapnya</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="panel panel-default text-center">
+                <div class="panel-body">
+                    <h4>Script clashmwns</h4>
+                    <p>Halaman ini berisikan seluruh script yang anda butuhkan.</p>
+                    <a href="/script_clashmwns.html" class="btn btn-primary">Selengkapnya</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="panel panel-default text-center">
+                <div class="panel-body">
+                    <h4>Port clashmwns</h4>
+                    <p>Halaman ini berisikan seluruh script yang anda butuhkan.</p>
+                    <a href="/akun_premium.html" class="btn btn-primary">Selengkapnya</a>
+                </div>
+            </div>
         </div>
     </div>
 
