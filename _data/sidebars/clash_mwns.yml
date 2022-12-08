@@ -2,7 +2,7 @@
 
 entries:
 - title: clashmwns
-  product: clash_mwns
+  product: Daftar Isi
   version: 
   folders:
 
@@ -18,14 +18,6 @@ entries:
       url: /tocpage.html
       output: pdf
       type: frontmatter
-
-  - title: Layanan clashmwns
-    output: web, pdf
-    folderitems:
-
-    - title: Artikel
-      url: /artikel.html
-      output: web
 
   - title: clashmwns
     output: web, pdf
@@ -50,6 +42,112 @@ entries:
     - title: Privacy Policy
       url: /privacy_policy
       output: web, pdf
+
+  - title: Overview
+    output: web, pdf
+    folderitems:
+
+    - title: mulai dari awal
+      url: /index.html
+      output: web
+      type: homepage
+
+    - title: About us
+      url: /about_us.html
+      output: web
+
+    - title: Disclaimer
+      url: /disclaimer.html
+      output: web
+
+    - title: Privacy policy
+      url: /privacy_policy.html
+      output: web
+
+  - title: Baca Materi
+    output: web, pdf
+    folderitems:
+
+    - title: Artikel
+      url: /artikel.html
+      output: web
+
+    - title: openwrt
+      url: /tag_openwrt.html
+      output: web
+
+    - title: mikrotik
+      url: /tag_mikrotik.html
+      output: web
+
+    - title: router
+      url: /tag_router.html
+      output: web
+
+    - title: modem
+      url: /tag_modem.html
+      output: web
+
+    - title: adsense
+      url: /tag_adsense.html
+      output: web
+
+    - title: seo
+      url: /tag_seo.html
+      output: web
+
+    - title: youtube
+      url: /tag_youtube.html
+      output: web
+
+    - title: blog
+      url: /tag_blog.html
+      output: web
+
+  - title: Clash openwrt
+    output: web
+    folderitems:
+
+    - title: pengenalan
+      url: /pengenalan_clash.html
+      output: web
+
+    - title: Install
+      url: /install_clash.html
+      output: web
+
+      subfolders:
+      - title: Settings
+        output: web
+        subfolderitems:
+
+        - title: Global Setting
+          url: /tag_global_setting.html
+          output: web
+
+        - title: Proksi dan Grup
+          url: /tag_proksi.html
+          output: web
+
+        - title: Rule dan Grup
+          url: /tag_rule.html
+          output: web
+
+        - title: Update Konfig
+          url: /tag_update_konfig.html
+          output: web
+
+        - title: Konfig Manage
+          url: /tag_konfig_manage.html
+          output: web
+
+        - title: Konfig Editor
+          url: /tag_konfig_editor.html
+          output: web
+
+        - title: Log Debug
+          url: /tag_log_debug.html
+          output: web
 
   - title: Jasa clashmwns
     output: web, pdf
