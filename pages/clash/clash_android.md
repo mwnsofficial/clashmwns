@@ -14,9 +14,9 @@ folder: clash
         <div class="col-md-3 col-sm-6">
         <div class="panel panel-default text-center">
         <div class="panel-heading">
-        <center>
+        <span>
         <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" /></a>
-        </center>
+        </span>
         </div>
         <div class="panel-body">
         <h4>Final</h4>
@@ -29,9 +29,9 @@ folder: clash
         <div class="col-md-3 col-sm-6">
         <div class="panel panel-default text-center">
         <div class="panel-heading">
-        <center>
+        <span>
         <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" /></a>
-        </center>
+        </span>
         </div>
         </div>
         <div class="panel-body">
