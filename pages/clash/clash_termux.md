@@ -1,7 +1,7 @@
 ---
 title: clash termux
 keywords: clash termux
-sidebar: dokument
+sidebar: clashmwns
 toc: false
 permalink: clash_termux.html
 folder: clash
