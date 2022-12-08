@@ -14,6 +14,7 @@ folder: akun
         <div class="col-md-3 col-sm-6">
         <div class="panel panel-default text-center">
         <div class="panel-heading">
+        <span>
         <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="100%" />
         </span>
         </div>
