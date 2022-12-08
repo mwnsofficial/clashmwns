@@ -1,5 +1,5 @@
 ---
-title:  "optimasi blog dengan webmaster
+title: "optimasi blog dengan webmaster
 categories: seo
 permalink: optimasi_blog_dengan_webmaster.html
 tags: [seo]
