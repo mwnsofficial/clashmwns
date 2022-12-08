@@ -166,23 +166,23 @@ entries:
     folderitems:
 
     - title: Clash Openwrt
-      url: /p2_sample10.html
+      url: /clash_openwrt.html
       output: web, pdf
 
     - title: Clash Android
-      url: /p2_sample11.html
+      url: /clash_android.html
       output: web, pdf
 
     - title: Clash Magisk
-      url: /p2_sample12.html
+      url: /clash_magisk.html
       output: web, pdf
 
     - title: Clash Termux
-      url: /p2_sample13.html
+      url: /clash_termux.html
       output: web, pdf
 
     - title: Clash Wimdows
-      url: /p2_sample14.html
+      url: /clash_wimdows.html
       output: web, pdf
 
   - title: Firmware Openwrt
