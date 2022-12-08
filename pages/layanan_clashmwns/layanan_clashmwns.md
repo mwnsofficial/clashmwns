@@ -239,7 +239,7 @@ folder: layanan_clashmwns
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Bitcoin</h4>
-                    <p><p>Untuk pembayaran atau donasi via bitcoin.</p>
+                    <p>Untuk pembayaran atau donasi via bitcoin.</p>
                     <p></p>
                 </div>
             </div>
