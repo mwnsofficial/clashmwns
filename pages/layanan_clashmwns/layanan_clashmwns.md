@@ -139,7 +139,7 @@ folder: layanan_clashmwns
                 <div class="pull-left">
                     <span class="fa-stack fa-2x">
                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                          <i class="fa-thin fa-money-bill fa-stack-1x fa-inverse"></i>
+                          <i class="fa fa-money fa-stack-1x fa-inverse"></i>
                     </span>
                 </div>
                 <div class="media-body">
@@ -152,7 +152,7 @@ folder: layanan_clashmwns
                 <div class="pull-left">
                     <span class="fa-stack fa-2x">
                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                          <i class="fa-thin fa-money-bill fa-stack-1x fa-inverse"></i>
+                          <i class="fa fa-money fa-stack-1x fa-inverse"></i>
                     </span>
                 </div>
                 <div class="media-body">
@@ -165,7 +165,7 @@ folder: layanan_clashmwns
                 <div class="pull-left">
                     <span class="fa-stack fa-2x">
                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                          <i class="fa-thin fa-money-bill fa-stack-1x fa-inverse"></i>
+                          <i class="fa fa-money fa-stack-1x fa-inverse"></i>
                     </span>
                 </div>
                 <div class="media-body">
@@ -180,7 +180,7 @@ folder: layanan_clashmwns
                 <div class="pull-left">
                     <span class="fa-stack fa-2x">
                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                          <i class="fa-thin fa-money-bill fa-stack-1x fa-inverse"></i>
+                          <i class="fa fa-money fa-stack-1x fa-inverse"></i>
                     </span>
                 </div>
                 <div class="media-body">
@@ -193,7 +193,7 @@ folder: layanan_clashmwns
                 <div class="pull-left">
                     <span class="fa-stack fa-2x">
                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                          <i class="fa-thin fa-money-bill fa-stack-1x fa-inverse"></i>
+                          <i class="fa fa-money fa-stack-1x fa-inverse"></i>
                     </span>
                 </div>
                 <div class="media-body">
@@ -206,7 +206,7 @@ folder: layanan_clashmwns
                 <div class="pull-left">
                     <span class="fa-stack fa-2x">
                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                          <i class="fa-thin fa-money-bill fa-stack-1x fa-inverse"></i>
+                          <i class="fa fa-dollar fa-stack-1x fa-inverse"></i>
                     </span>
                 </div>
                 <div class="media-body">
@@ -221,7 +221,7 @@ folder: layanan_clashmwns
                 <div class="pull-left">
                     <span class="fa-stack fa-2x">
                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                          <i class="fa-thin fa-money-bill fa-stack-1x fa-inverse"></i>
+                          <i class="fa fa-dollar fa-stack-1x fa-inverse"></i>
                     </span>
                 </div>
                 <div class="media-body">
@@ -234,7 +234,7 @@ folder: layanan_clashmwns
                 <div class="pull-left">
                     <span class="fa-stack fa-2x">
                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                          <i class="fa-thin fa-money-bill fa-stack-1x fa-inverse"></i>
+                          <i class="fa fa-bitcoin fa-stack-1x fa-inverse"></i>
                     </span>
                 </div>
                 <div class="media-body">
