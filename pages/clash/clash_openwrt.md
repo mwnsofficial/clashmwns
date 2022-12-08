@@ -1,7 +1,7 @@
 ---
 title: clash openwrt
 keywords: clash openwrt
-sidebar: product_clash
+sidebar: clash_mwns
 toc: false
 permalink: clash_openwrt.html
 folder: clash
