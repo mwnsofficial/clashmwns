@@ -154,11 +154,7 @@ entries:
     folderitems:
 
     - title: Remote OpenWRT
-      url: https://wa.me/6287764241047?text=saya%20ingin%20berlangganan%20jasa%remote%20openwrt
-      output: web, pdf
-
-    - title: Remot Mikrotik
-      url: https://wa.me/6287764241047?text=saya%20ingin%20berlangganan%20jasa%remote%20mikrotik
+      url: /jasa_clashmwns.html
       output: web, pdf
 
   - title: Konfigurasi Clash
@@ -182,7 +178,7 @@ entries:
       output: web, pdf
 
     - title: Clash Wimdows
-      url: /clash_wimdows.html
+      url: /clash_windows.html
       output: web, pdf
 
   - title: Firmware Openwrt
