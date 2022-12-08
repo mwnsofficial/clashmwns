@@ -9,7 +9,7 @@ topnav_title: clashmwns
 site_title: clashmwns
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Copyright 2022 clashmwns
+company_name: dokukemntasi clashmwns
 # this appears in the footer
 
 github_editme_path: mwnsofficial/clashmwns/blob/main/
@@ -61,7 +61,7 @@ kramdown:
 
 collections:
   tooltips:
-    output: false
+    output: true
 # collections are declared here. this renders the content in _tooltips and processes it, but doesn't output it as actual files in the output unless you change output to true
 
 defaults:
@@ -100,13 +100,10 @@ defaults:
 # these are defaults used for the frontmatter for these file types
 
 sidebars:
-- home
+- clash_mwns
 - dokument
-- openwrt
-- mikrotik
-- router
-- modem
-- product_clash
+- jasa_clashmwns
+- navigasi
 - other
 
 description: "clashmwns akan selalu berikan tutorial yang terbaik untuk anda."
