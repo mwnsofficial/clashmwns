@@ -19,6 +19,31 @@ entries:
       output: pdf
       type: frontmatter
 
+  - title: clashmwns
+    output: web, pdf
+    folderitems:
+
+    - title: Github
+      external_url: https://github.com/mwnsofficial
+      output: web, pdf
+
+    - title: About Us
+      url: /about_us
+      output: web, pdf
+
+    - title: Donasi
+      url: /donate
+      output: web, pdf
+
+    - title: Disclaimer
+      url: /disclaimer
+      output: web, pdf
+
+    - title: Privacy Policy
+      url: /privacy_policy
+      output: web, pdf
+
+
   - title: Overview
     output: web, pdf
     folderitems:
@@ -38,6 +63,46 @@ entries:
 
     - title: Privacy policy
       url: /privacy_policy.html
+      output: web
+
+  - title: Baca Materi
+    output: web, pdf
+    folderitems:
+
+    - title: Artikel
+      url: /artikel.html
+      output: web
+
+    - title: openwrt
+      url: /tag_openwrt.html
+      output: web
+
+    - title: mikrotik
+      url: /tag_mikrotik.html
+      output: web
+
+    - title: router
+      url: /tag_router.html
+      output: web
+
+    - title: modem
+      url: /tag_modem.html
+      output: web
+
+    - title: adsense
+      url: /tag_adsense.html
+      output: web
+
+    - title: seo
+      url: /tag_seo.html
+      output: web
+
+    - title: youtube
+      url: /tag_youtube.html
+      output: web
+
+    - title: blog
+      url: /tag_blog.html
       output: web
 
   - title: Clash openwrt
@@ -85,40 +150,164 @@ entries:
           url: /tag_log_debug.html
           output: web
 
-  - title: Artikel
+  - title: Jasa clashmwns
     output: web, pdf
     folderitems:
 
-    - title: openwrt
-      url: /tag_openwrt.html
-      output: web
+    - title: Remote OpenWRT
+      url: https://wa.me/6287764241047?text=saya%20ingin%20berlangganan%20jasa%remote%20openwrt
+      output: web, pdf
 
-    - title: mikrotik
-      url: /tag_mikrotik.html
-      output: web
+    - title: Remot Mikrotik
+      url: https://wa.me/6287764241047?text=saya%20ingin%20berlangganan%20jasa%remote%20mikrotik
+      output: web, pdf
 
-    - title: router
-      url: /tag_router.html
-      output: web
+  - title: Konfigurasi Clash
+    output: web, pdf
+    folderitems:
 
-    - title: modem
-      url: /tag_modem.html
-      output: web
+    - title: Clash Openwrt
+      url: /p2_sample10.html
+      output: web, pdf
 
-    - title: adsense
-      url: /tag_adsense.html
-      output: web
+    - title: Clash Android
+      url: /p2_sample11.html
+      output: web, pdf
 
-    - title: seo
-      url: /tag_seo.html
-      output: web
+    - title: Clash Magisk
+      url: /p2_sample12.html
+      output: web, pdf
 
-    - title: youtube
-      url: /tag_youtube.html
-      output: web
+    - title: Clash Termux
+      url: /p2_sample13.html
+      output: web, pdf
 
-    - title: blog
-      url: /tag_blog.html
-      output: web
+    - title: Clash Wimdows
+      url: /p2_sample14.html
+      output: web, pdf
+
+  - title: Firmware Openwrt
+    output: web, pdf
+    folderitems:
+
+    - title: Original
+      url: /firmware_original.html
+      output: web, pdf
+
+    - title: Oc Only
+      url: /firmware_oc_only.html
+      output: web, pdf
+
+    - title: Passwall Only
+      url: /firmware_passwall_only.html
+      output: web, pdf
+
+    - title: Simaster
+      url: /firmware_simaster.html
+      output: web, pdf
+
+  - title: Firmware Openwrt
+    output: web, pdf
+    folderitems:
+
+    - title: Tplink
+      url: /firmware_tplink.html
+      output: web, pdf
+
+    - title: Tenda
+      url: /firmware_tenda.html
+      output: web, pdf
+
+    - title: Totolink
+      url: /firmware_totolink.html
+      output: web, pdf
+
+    - title: Ubnt
+      url: /firmware_ubnt.html
+      output: web, pdf
+
+    - title: Mikrotik
+      url: /firmware_mikrotik.html
+      output: web, pdf
+
+  - title: Firmware Modem
+    output: web, pdf
+    folderitems:
+
+    - title: Huawei
+      url: /firmware_huawei.html
+      output: web, pdf
+
+    - title: Zte
+      url: /firmware_zte.html
+      output: web, pdf
+
+  - title: Buat Akum
+    output: web, pdf
+    folderitems:
+
+    - title: Free
+      url: /akun_free.html
+      output: web, pdf
+
+    - title: Premium
+      url: /akun_premium.html
+      output: web, pdf
+
+  - title: Mode Rule
+    output: web, pdf
+    folderitems:
+
+    - title: Browser
+      url: /rule_browser.html
+      output: web, pdf
+
+    - title: Sosmed
+      url: /rule_sosmed.html
+      output: web, pdf
+
+    - title: Stream
+      url: /rule_stream.html
+      output: web, pdf
+
+    - title: Game
+      url: /rule_game.html
+      output: web, pdf
+
+  - title: Mode Script
+    output: web, pdf
+    folderitems:
+
+    - title: Browser
+      url: /script_browser.html
+      output: web, pdf
+
+    - title: Sosmed
+      url: /script_sosmed.html
+      output: web, pdf
+
+    - title: Stream
+      url: /script_stream.html
+      output: web, pdf
+
+    - title: Game
+      url: /script_game.html
+      output: web, pdf
+
+  - title: Port
+    output: web, pdf
+    folderitems:
+
+    - title: Game
+      url: /port_game.html
+      output: web, pdf
+
+    - title: Zerotier
+      url: /port_zerotier.html
+      output: web, pdf
+
+    - title: Whatsapp
+      url: /port_whatsapp.html
+      output: web, pdf
 
 # Copyright 2021 Google LLC
