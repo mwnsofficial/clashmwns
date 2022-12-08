@@ -1,5 +1,5 @@
 ---
-title: "SEO"
+title: "Seo"
 tagName: seo
 search: exclude
 permalink: tag_seo.html
