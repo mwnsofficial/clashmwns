@@ -15,9 +15,8 @@ folder: clash
         <div class="col-md-3 col-sm-6">
         <div class="panel panel-default text-center">
         <div class="panel-heading">
-        <span class="fa-stack fa-5x">
-        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-        <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+        <span>
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -31,9 +30,8 @@ folder: clash
         <div class="col-md-3 col-sm-6">
         <div class="panel panel-default text-center">
         <div class="panel-heading">
-        <span class="fa-stack fa-5x">
-        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-        <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+        <span>
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -47,9 +45,8 @@ folder: clash
         <div class="col-md-3 col-sm-6">
         <div class="panel panel-default text-center">
         <div class="panel-heading">
-        <span class="fa-stack fa-5x">
-        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-        <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+        <span>
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -63,9 +60,8 @@ folder: clash
         <div class="col-md-3 col-sm-6">
         <div class="panel panel-default text-center">
         <div class="panel-heading">
-        <span class="fa-stack fa-5x">
-        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-        <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+        <span>
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -79,9 +75,8 @@ folder: clash
         <div class="col-md-3 col-sm-6">
         <div class="panel panel-default text-center">
         <div class="panel-heading">
-        <span class="fa-stack fa-5x">
-        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-        <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+        <span>
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -95,9 +90,8 @@ folder: clash
         <div class="col-md-3 col-sm-6">
         <div class="panel panel-default text-center">
         <div class="panel-heading">
-        <span class="fa-stack fa-5x">
-        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-        <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+        <span>
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -111,9 +105,8 @@ folder: clash
         <div class="col-md-3 col-sm-6">
         <div class="panel panel-default text-center">
         <div class="panel-heading">
-        <span class="fa-stack fa-5x">
-        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-        <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+        <span>
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -127,9 +120,8 @@ folder: clash
         <div class="col-md-3 col-sm-6">
         <div class="panel panel-default text-center">
         <div class="panel-heading">
-        <span class="fa-stack fa-5x">
-        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-        <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+        <span>
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -143,9 +135,8 @@ folder: clash
         <div class="col-md-3 col-sm-6">
         <div class="panel panel-default text-center">
         <div class="panel-heading">
-        <span class="fa-stack fa-5x">
-        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-        <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+        <span>
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -159,9 +150,8 @@ folder: clash
         <div class="col-md-3 col-sm-6">
         <div class="panel panel-default text-center">
         <div class="panel-heading">
-        <span class="fa-stack fa-5x">
-        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-        <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+        <span>
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -175,9 +165,8 @@ folder: clash
         <div class="col-md-3 col-sm-6">
         <div class="panel panel-default text-center">
         <div class="panel-heading">
-        <span class="fa-stack fa-5x">
-        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-        <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+        <span>
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -191,9 +180,8 @@ folder: clash
         <div class="col-md-3 col-sm-6">
         <div class="panel panel-default text-center">
         <div class="panel-heading">
-        <span class="fa-stack fa-5x">
-        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-        <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+        <span>
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -207,9 +195,8 @@ folder: clash
         <div class="col-md-3 col-sm-6">
         <div class="panel panel-default text-center">
         <div class="panel-heading">
-        <span class="fa-stack fa-5x">
-        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-        <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+        <span>
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -223,9 +210,8 @@ folder: clash
         <div class="col-md-3 col-sm-6">
         <div class="panel panel-default text-center">
         <div class="panel-heading">
-        <span class="fa-stack fa-5x">
-        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-        <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+        <span>
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -239,9 +225,8 @@ folder: clash
         <div class="col-md-3 col-sm-6">
         <div class="panel panel-default text-center">
         <div class="panel-heading">
-        <span class="fa-stack fa-5x">
-        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-        <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+        <span>
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -255,9 +240,8 @@ folder: clash
         <div class="col-md-3 col-sm-6">
         <div class="panel panel-default text-center">
         <div class="panel-heading">
-        <span class="fa-stack fa-5x">
-        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-        <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+        <span>
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -271,9 +255,8 @@ folder: clash
         <div class="col-md-3 col-sm-6">
         <div class="panel panel-default text-center">
         <div class="panel-heading">
-        <span class="fa-stack fa-5x">
-        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-        <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+        <span>
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -287,9 +270,8 @@ folder: clash
         <div class="col-md-3 col-sm-6">
         <div class="panel panel-default text-center">
         <div class="panel-heading">
-        <span class="fa-stack fa-5x">
-        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-        <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+        <span>
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -303,9 +285,8 @@ folder: clash
         <div class="col-md-3 col-sm-6">
         <div class="panel panel-default text-center">
         <div class="panel-heading">
-        <span class="fa-stack fa-5x">
-        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-        <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+        <span>
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -319,9 +300,8 @@ folder: clash
         <div class="col-md-3 col-sm-6">
         <div class="panel panel-default text-center">
         <div class="panel-heading">
-        <span class="fa-stack fa-5x">
-        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-        <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+        <span>
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -335,9 +315,8 @@ folder: clash
         <div class="col-md-3 col-sm-6">
         <div class="panel panel-default text-center">
         <div class="panel-heading">
-        <span class="fa-stack fa-5x">
-        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-        <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+        <span>
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -351,9 +330,8 @@ folder: clash
         <div class="col-md-3 col-sm-6">
         <div class="panel panel-default text-center">
         <div class="panel-heading">
-        <span class="fa-stack fa-5x">
-        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-        <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+        <span>
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -367,9 +345,8 @@ folder: clash
         <div class="col-md-3 col-sm-6">
         <div class="panel panel-default text-center">
         <div class="panel-heading">
-        <span class="fa-stack fa-5x">
-        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-        <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+        <span>
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -383,9 +360,8 @@ folder: clash
         <div class="col-md-3 col-sm-6">
         <div class="panel panel-default text-center">
         <div class="panel-heading">
-        <span class="fa-stack fa-5x">
-        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-        <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+        <span>
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
