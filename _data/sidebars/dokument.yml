@@ -90,19 +90,35 @@ entries:
     folderitems:
 
     - title: openwrt
-      url: /openwrt.html
+      url: /tag_openwrt.html
       output: web
 
     - title: mikrotik
-      url: /mikrotik.html
+      url: /tag_mikrotik.html
       output: web
 
     - title: router
-      url: /router.html
+      url: /tag_router.html
       output: web
 
     - title: modem
-      url: /modem.html
+      url: /tag_modem.html
+      output: web
+
+    - title: adsense
+      url: /tag_adsense.html
+      output: web
+
+    - title: seo
+      url: /tag_seo.html
+      output: web
+
+    - title: youtube
+      url: /tag_youtube.html
+      output: web
+
+    - title: blog
+      url: /tag_blog.html
       output: web
 
 # Copyright 2021 Google LLC
