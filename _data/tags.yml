@@ -3,21 +3,15 @@
 # In other words, the last line must be the last tag in the allowed-tags list.
 allowed-tags:
   - overview
-  - content_types
-  - navigation
-  - formatting
-  - publishing
-  - single_sourcing
-  - special_layouts
-  - collaboration
+  - adsense
+  - seo
+  - youtube
+  - blog
+  - modem
+  - router
+  - mikrotik
+  - global_setting
   - openwrt
-  - install
   - forum
-  - redir_host
-  - fake_ip
-  - dns
-  - meta
-  - troubleshooting
-  - mobile
 
 # Copyright 2022 Google LLC
