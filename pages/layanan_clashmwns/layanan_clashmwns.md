@@ -211,7 +211,7 @@ folder: layanan_clashmwns
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Ko-Fi</h4>
-                    <p><p>Untuk pembayaran atau donasi via ko-fi.</p>
+                    <p>Untuk pembayaran atau donasi via ko-fi.</p>
                     <p></p>
                 </div>
             </div>
