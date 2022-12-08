@@ -72,82 +72,41 @@ entries:
       url: /artikel.html
       output: web
 
-    - title: openwrt
+    - title: Openwrt
       url: /tag_openwrt.html
       output: web
 
-    - title: mikrotik
+    - title: Mikrotik
       url: /tag_mikrotik.html
       output: web
 
-    - title: router
+    - title: Router
       url: /tag_router.html
       output: web
 
-    - title: modem
+    - title: Modem
       url: /tag_modem.html
       output: web
 
-    - title: adsense
+    - title: Adsense
       url: /tag_adsense.html
       output: web
 
-    - title: seo
+    - title: Seo
       url: /tag_seo.html
       output: web
 
-    - title: youtube
+    - title: Youtube
       url: /tag_youtube.html
       output: web
 
-    - title: blog
+    - title: Blog
       url: /tag_blog.html
       output: web
 
-  - title: Clash openwrt
-    output: web
-    folderitems:
-
-    - title: pengenalan
-      url: /pengenalan_clash.html
+    - title: Clash
+      url: /tag_clash.html
       output: web
-
-    - title: Install
-      url: /install_clash.html
-      output: web
-
-      subfolders:
-      - title: Settings
-        output: web
-        subfolderitems:
-
-        - title: Global Setting
-          url: /tag_global_setting.html
-          output: web
-
-        - title: Proksi dan Grup
-          url: /tag_proksi.html
-          output: web
-
-        - title: Rule dan Grup
-          url: /tag_rule.html
-          output: web
-
-        - title: Update Konfig
-          url: /tag_update_konfig.html
-          output: web
-
-        - title: Konfig Manage
-          url: /tag_konfig_manage.html
-          output: web
-
-        - title: Konfig Editor
-          url: /tag_konfig_editor.html
-          output: web
-
-        - title: Log Debug
-          url: /tag_log_debug.html
-          output: web
 
   - title: Jasa clashmwns
     output: web, pdf
@@ -186,22 +145,30 @@ entries:
     folderitems:
 
     - title: Original
-      url: /firmware_original.html
-      output: web, pdf
-
-    - title: Oc Only
-      url: /firmware_oc_only.html
-      output: web, pdf
-
-    - title: Passwall Only
-      url: /firmware_passwall_only.html
+      external_url: https://openwrt.org/toh/views/toh_fwdownload
       output: web, pdf
 
     - title: Simaster
       url: /firmware_simaster.html
       output: web, pdf
 
-  - title: Firmware Openwrt
+    - title: Helmi OS
+      external_url: https://www.helmiau.com/blog/helmiwrt-os
+      output: web, pdf
+
+    - title: Pulpstone
+      external_url: https://pulpstone.pw/id/firmware-id/
+      output: web, pdf
+
+    - title: Ophub
+      external_url: https://github.com/ophub/amlogic-s9xxx-openwrt/releases/tag/OpenWrt_aarch64_12.06.2102
+      output: web, pdf
+
+    - title: Rooter
+      external_url: https://radenku.com/firmware-rooter-goldenorb-stb-amlogic/
+      output: web, pdf
+
+  - title: Firmware Router
     output: web, pdf
     folderitems:
 
@@ -249,7 +216,7 @@ entries:
       url: /akun_premium.html
       output: web, pdf
 
-  - title: Mode Rule
+  - title: File Rule
     output: web, pdf
     folderitems:
 
@@ -269,7 +236,7 @@ entries:
       url: /rule_game.html
       output: web, pdf
 
-  - title: Mode Script
+  - title: File Script
     output: web, pdf
     folderitems:
 
@@ -289,7 +256,7 @@ entries:
       url: /script_game.html
       output: web, pdf
 
-  - title: Port
+  - title: File Port
     output: web, pdf
     folderitems:
 
