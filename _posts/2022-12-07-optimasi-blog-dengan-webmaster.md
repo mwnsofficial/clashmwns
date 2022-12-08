@@ -5,20 +5,20 @@ permalink: optimasi_blog_dengan_webmaster.html
 tags: [seo]
 ---
 
-<h3>Apa itu Optimasi Mesin Pencari?</h3>
+<b>Apa itu Optimasi Mesin Pencari?</b>
 <p>Search Engine Optimization (SEO) adalah seni dan ilmu mengoptimalkan halaman di mesin pencari seperti Google.</p>
 <p>Karena pencarian adalah salah satu cara utama orang menemukan konten online, peringkat pencarian yang tinggi dapat menyebabkan peningkatan lalu lintas ke situs web.</p>
 <p>Di Google dan mesin telusur lainnya, laman hasil menampilkan iklan berbayar di bagian atas laman, di samping hasil biasa atau yang disebut pemasar penelusuran sebagai "hasil penelusuran organik".</p>
 <p>Lalu lintas dari SEO sering disebut sebagai "lalu lintas pencarian" untuk membedakan lalu lintas dari pencarian berbayar.</p>
 <p>Pencarian berbayar sering disebut sebagai pemasaran mesin pencari (SEM) atau bayar per klik (PPC).</p>
-<h3>Manfaat SEO</h3>
+<b>Manfaat SEO</b>
 <p>Search Engine Optimization adalah bagian penting dari pemasaran online karena mesin pencari adalah salah satu cara pengguna menavigasi web.</p>
 <p>Hasil pencarian disajikan dalam daftar yang terorganisir, dan semakin tinggi sebuah situs dalam daftar ini, semakin besar kemungkinan situs itu akan menerima.</p>
 <p>Misalnya, untuk kueri penelusuran biasa, hasil pertama akan menerima 40-60% dari total lalu lintas untuk kueri tersebut, dengan nomor dua dan tiga menerima lebih sedikit lalu lintas.</p>
 <p>Hanya 2-3% orang mengklik melewati halaman pertama hasil pencarian.<p>
 <p>Oleh karena itu, bahkan sedikit peningkatan peringkat mesin pencari dapat membuat situs web mendapatkan lebih banyak lalu lintas dan penjualan potensial.</p>
 <p>Untuk itu, banyak perusahaan dan pemilik website akan berusaha memanipulasi hasil pencarian agar situs mereka tampil lebih tinggi di halaman hasil mesin pencari (SERP) dibandingkan kompetitornya dan di sinilah SEO masuk.</p>
-<h3>Bagaimana SEO bekerja.</h3>
+<b>Bagaimana SEO bekerja.</b>
 <p>Mesin pencari seperti Google menggunakan algoritme atau aturan untuk menentukan halaman mana yang akan ditampilkan untuk kueri tertentu.</p>
 <p>Algoritma ini telah berkembang menjadi sangat kompleks dan memperhitungkan ratusan atau bahkan ribuan faktor lanjutan yang berbeda untuk menentukan peringkat SERP mereka.</p>
 <p>Namun, ada tiga metrik utama yang dievaluasi mesin telusur untuk menentukan kualitas dan peringkat situs:</p>
@@ -53,7 +53,7 @@ tags: [seo]
 <p>Tag semantik (seperti Schema.org) digunakan untuk mendeskripsikan arti konten di halaman, misalnya untuk membantu mengidentifikasi pembuat konten atau topik tertentu dan jenis konten di halaman.</p>
 <p>Menggunakan tag semantik dapat membantu menampilkan cuplikan kaya pada halaman hasil pencarian, seperti teks tersemat, bintang pencarian, dan bahkan gambar.</p>
 <p>Konten kaya di SERP tidak memengaruhi peringkat pencarian, tetapi dapat meningkatkan RKT pencarian, yang mengarah ke peningkatan lalu lintas organik.</p>
-<h3>Alat SEO terbaik</h3>
+<b>Alat SEO terbaik</b>
 <p>Sebagai peringatan teknis yang adil, ada banyak alat dan perangkat lunak SEO yang mengandalkannya untuk membantu meningkatkan situs web.</p>
 <p>Di bawah ini adalah beberapa alat gratis dan berbayar yang umum digunakan:</p>
 <p>Google Search Console - Google Search Console (sebelumnya dikenal sebagai "Alat Webmaster Google") adalah alat gratis yang disediakan oleh Google, dan merupakan alat standar dalam kotak alat SEO.<p>
@@ -67,7 +67,7 @@ tags: [seo]
 <p>Platform ini menganalisis peringkat kata kunci, membantu penelitian kata kunci, mengidentifikasi peluang SEO di halaman, dan banyak layanan terkait SEO lainnya.</p>
 <p>Media sosial - Banyak situs media sosial tidak memiliki dampak langsung pada SEO, tetapi mereka dapat menjadi alat yang baik untuk berjejaring dengan webmaster lain dan menciptakan hubungan yang dapat mengarah pada tautan dan peluang posting tamu.</p>
 <p>Meningkatkan Lalu Lintas Pencarian:</p>
-<h3>Dari Klik ke Konversi</h3>
+<b>Dari Klik ke Konversi</b>
 <p>Mesin pencari yang dijalankan dengan baik dapat meningkatkan jumlah lalu lintas yang diterima situs web secara dramatis, tetapi tidak semua lalu lintas pencarian akan membantu mengembangkan bisnis jika berubah menjadi pelanggan yang membayar.</p>
 <p>Di sinilah pengoptimalan tingkat konversi (CRO) masuk.</p>
 <p>Pengoptimalan tingkat konversi melibatkan penggunaan metode seperti pengujian A/B untuk membuat perubahan pada situs web dan mengukur pengaruhnya terhadap tingkat konversi situs.</p>
