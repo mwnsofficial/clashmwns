@@ -6,45 +6,38 @@ toc: false
 permalink: layanan_clashmwns.html
 folder: layanan_clashmwns
 ---
+<!-- Service Tabs -->
+<div class="row">
+   <div class="col-lg-12">
+      <h2 class="page-header">Service Tabs</h2>
+   </div>
+       <div class="col-lg-12">
+          <ul id="myTab" class="nav nav-tabs nav-justified">
+             <li class="active"><a href="#pelayanan-terbaik" data-toggle="tab"><i class="fa fa-tree"></i> Pelayanan Terbaik</a></li>
+               <li class=""><a href="#terpercaya" data-toggle="tab"><i class="fa fa-car"></i> Terpercaya</a></li>
+             <li class=""><a href="#garansi" data-toggle="tab"><i class="fa fa-support"></i> Garansi</a></li>
+           <li class=""><a href="#kerja-sama-team" data-toggle="tab"><i class="fa fa-database"></i> Kerja Sama Team</a></li>
+        </ul>
 
-    <!-- Service Tabs -->
-    <div class="row">
-        <div class="col-lg-12">
-            <h2 class="page-header">Service Tabs</h2>
-        </div>
-        <div class="col-lg-12">
-
-            <ul id="myTab" class="nav nav-tabs nav-justified">
-                <li class="active"><a href="#service-one" data-toggle="tab"><i class="fa fa-tree"></i> Pelayanan Terbaik</a>
-                </li>
-                <li class=""><a href="#service-two" data-toggle="tab"><i class="fa fa-car"></i> Terpercaya</a>
-                </li>
-                <li class=""><a href="#service-three" data-toggle="tab"><i class="fa fa-support"></i> Garansi</a>
-                </li>
-                <li class=""><a href="#service-four" data-toggle="tab"><i class="fa fa-database"></i> Kerja Sama Team</a>
-                </li>
-            </ul>
-
-            <div id="myTabContent" class="tab-content">
-                <div class="tab-pane fade active in" id="service-one">
-                    <h4>Pelayanan Terbaik</h4>
-                    <p>Saya selalu mengutamakan pelayanan dengan kualitas terbaik yang saya berikan ke anda yang sudah berlangganan jasa ke saya.</p>
-                </div>
-                <div class="tab-pane fade" id="service-two">
-                    <h4>Terpercaya</h4>
-                    <p>Kepercayaan dari semua yang berlangganan ke saya selalu setia dari dalam negeri hingga mancanegara.</p>
-                </div>
-                <div class="tab-pane fade" id="service-three">
-                    <h4>Garansi</h4>
-                    <p>Sesuai kesepakatan bersama antara pelanggan dengan saya akan menghasilkan sebuah garansi mulai dari 7 hari hingga 1 bulan bahkan bertahun-tahun tergantung layanan yang saya terima mulai dari pribadi hingga pebisnis.</p>
-                </div>
-                <div class="tab-pane fade" id="service-four">
-                    <h4>Kerja Sama Team</h4>
-                    <p>Telah banyak yang sudah bekerja sama dengan saya dan akan selalu support para pelanggan setia saya.</p>
-                </div>
+        <div id="myTabContent" class="tab-content">
+           <div class="tab-pane fade active in" id="pelayanan-terbaik">
+              <h4>Pelayanan Terbaik</h4>
+              <p>Saya selalu mengutamakan pelayanan dengan kualitas terbaik yang saya berikan ke anda yang sudah berlangganan jasa ke saya.</p>
             </div>
-        </div>
+            <div class="tab-pane fade" id="terpercaya">
+              <h4>Terpercaya</h4>
+              <p>Kepercayaan dari semua yang berlangganan ke saya selalu setia dari dalam negeri hingga mancanegara.</p>
+            </div>
+            <div class="tab-pane fade" id="garansi">
+              <h4>Garansi</h4>
+              <p>Sesuai kesepakatan bersama antara pelanggan dengan saya akan menghasilkan sebuah garansi mulai dari 7 hari hingga 1 bulan bahkan bertahun-tahun tergantung layanan yang saya terima mulai dari pribadi hingga pebisnis.</p>
+            </div>
+            <div class="tab-pane fade" id="kerja-sama-team">
+              <h4>Kerja Sama Team</h4>
+              <p>Telah banyak yang sudah bekerja sama dengan saya dan akan selalu support para pelanggan setia saya.</p>
+          </div>
     </div>
+</div>
 
 <div class="row">
         <div class="col-lg-12">
@@ -88,11 +81,6 @@ folder: layanan_clashmwns
         </div>
         <div class="col-md-3 col-sm-6">
             <div class="panel panel-default text-center">
-                <div class="panel-heading">
-                   <span>
-                       <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="100%" />
-                   </span>
-                </div>
                 <div class="panel-body">
                     <h4>Akun Free</h4>
                     <p>Di halaman ini saya sudah merangkum semua situs penyedia layanan pembuat akun gratis.</p>
