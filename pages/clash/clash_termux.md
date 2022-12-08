@@ -1,11 +1,12 @@
 ---
-title: clash termux
-keywords: clash termux
-sidebar: clashmwns
+title: Clash Termux
+keywords: clash
+sidebar: clash_mwns
 toc: false
 permalink: clash_termux.html
 folder: clash
 ---
+
 <div class="row">
         <div class="col-lg-12">
             <h2 class="page-header">Clash Termux</h2>
