@@ -67,7 +67,9 @@ Untuk alasan keamanan, kami berhenti dan mematikan cabai. Begini caranya jika An
 /etc/init.d/chilli disable
 ```
 
-	<table class="table-master responsive" >
+Aaaaaa
+
+	<table class="table-master" >
 		<thead>
 			<tr>
 				<th scope="col">Nama</th>
