@@ -11,7 +11,7 @@ Selamat datang di [clashmwns](https://www.clashmwns.com), saya berterima kasih k
 
 Untuk mengenalkan saya ke anda, saya akan memberikan sedikit informasi tentang saya ke anda agar anda bisa lebih percaya kepada saya.
 
-<pre>
+```
 Nama: Muhammad Yusuf
 Lahir: Gambut
 Alamat: Jl. A. Yani KM 14.500, Gg. Antasari No.80
@@ -20,7 +20,7 @@ Kelurahan: Gambut
 Kabupaten: Banjar
 Propinsi: Kalimantan Selatan
 Negara: Indonesia
-</pre>
+```
 
 ## Profesi
 
@@ -37,7 +37,7 @@ Saya saat ini mendalami pekerjaan pada bidang di bawah ini:
 
 ## Memulai Tutorial
 
-Untuk anda yang sudah tidak sabar lagi memulai pembelajaran materi ini silahkan masuk ke [Memulai dari awal][index].
+Untuk anda yang sudah tidak sabar lagi memulai pembelajaran materi ini silahkan masuk ke [Memulai dari awal](https://www.clashmwns.com/index.html).
 
 {% include links.html %}
 
