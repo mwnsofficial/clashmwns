@@ -67,4 +67,47 @@ Untuk alasan keamanan, kami berhenti dan mematikan cabai. Begini caranya jika An
 /etc/init.d/chilli disable
 ```
 
+
+
+
+	<div class="table-responsive">
+		<table class="table table-bordered table-striped table-hover">
+			<thead>
+				<tr>
+					<th>No</th>
+					<th>Makanan</th>
+					<th>Harga</th>				
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>1</td>
+					<td>Bakso</td>
+					<td>12.000</td>
+				</tr>
+				<tr>
+					<td>2</td>
+					<td>Mie Goreng</td>
+					<td>7.000</td>
+				</tr>
+				<tr>
+					<td>3</td>
+					<td>Nasi Goreng</td>
+					<td>15.000</td>
+				</tr>
+				<tr>
+					<td>4</td>
+					<td>Sate Padang</td>
+					<td>17.000</td>
+				</tr>
+				<tr>
+					<td>5</td>
+					<td>Nasi Soto</td>
+					<td>20.000</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+
 {% include links.html %}
