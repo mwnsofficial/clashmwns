@@ -3,6 +3,7 @@
 topnav:
 - title: Topnav
   items:
+
     - title: Beranda
       url: /index.html
     - title: Layanan simaster
@@ -12,6 +13,7 @@ topnav:
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
+
     - title: clashmwns
       folderitems:
 
@@ -26,10 +28,6 @@ topnav_dropdowns:
         - title: Privacy policy
           url: /privacy_policy
 
-#Topnav dropdowns
-topnav_dropdowns:
-- title: Topnav dropdowns
-  folders:
     - title: Baca Materi
       folderitems:
 
