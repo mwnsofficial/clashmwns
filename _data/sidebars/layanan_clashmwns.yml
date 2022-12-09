@@ -23,6 +23,30 @@ entries:
     output: web, pdf
     folderitems:
 
+    - title: Github
+      external_url: https://github.com/mwnsofficial
+      output: web, pdf
+
+    - title: Beranda
+      url: /index.html
+      output: web
+
+    - title: About us
+      url: /about_us.html
+      output: web
+
+    - title: Disclaimer
+      url: /disclaimer.html
+      output: web
+
+    - title: Privacy policy
+      url: /privacy_policy.html
+      output: web
+
+  - title: Layanan clashmwns
+    output: web, pdf
+    folderitems:
+
     - title: Layanan
       url: /layanan_clashmwns.html
       output: web
@@ -59,40 +83,148 @@ entries:
       url: /pasang_wifi.html
       output: web, pdf
 
-  - title: File
+  - title: File Rule
     output: web, pdf
     folderitems:
 
-    - title: Rule
-      url: /rule.html
+    - title: Browser
+      url: /rule_browser.html
       output: web, pdf
 
-    - title: Script
-      url: /script.html
+    - title: Sosmed
+      url: /rule_sosmed.html
       output: web, pdf
 
-    - title: Port
-      url: /port.html
+    - title: Stream
+      url: /rule_stream.html
       output: web, pdf
 
-    - title: Akun
-      url: /p2_sample8.html
+    - title: Game
+      url: /rule_game.html
       output: web, pdf
 
-    - title: Konfig
-      url: /p2_sample9.html
+  - title: File Script
+    output: web, pdf
+    folderitems:
+
+    - title: Browser
+      url: /script_browser.html
       output: web, pdf
 
-    - title: Firmware Router
-      url: /p2_sample10.html
+    - title: Sosmed
+      url: /script_sosmed.html
       output: web, pdf
 
-    - title: Firmware Openwrt
-      url: /p2_sample11.html
+    - title: Stream
+      url: /script_stream.html
       output: web, pdf
 
-    - title: Firmware Modem
-      url: /p2_sample12.html
+    - title: Game
+      url: /script_game.html
+      output: web, pdf
+
+  - title: File Port
+    output: web, pdf
+    folderitems:
+
+    - title: Game
+      url: /port_game.html
+      output: web, pdf
+
+    - title: Zerotier
+      url: /port_zerotier.html
+      output: web, pdf
+
+    - title: Whatsapp
+      url: /port_whatsapp.html
+      output: web, pdf
+
+  - title: Konfig Clash
+    output: web, pdf
+    folderitems:
+
+    - title: Clash Openwrt
+      url: /clash_openwrt.html
+      output: web, pdf
+
+    - title: Clash Android
+      url: /clash_android.html
+      output: web, pdf
+
+    - title: Clash Magisk
+      url: /clash_magisk.html
+      output: web, pdf
+
+    - title: Clash Termux
+      url: /clash_termux.html
+      output: web, pdf
+
+    - title: Clash Wimdows
+      url: /clash_windows.html
+      output: web, pdf
+
+  - title: Firmware Openwrt
+    output: web, pdf
+    folderitems:
+
+    - title: Original
+      external_url: https://openwrt.org/toh/views/toh_fwdownload
+      output: web, pdf
+
+    - title: Simaster
+      url: /firmware_simaster.html
+      output: web, pdf
+
+    - title: Helmi OS
+      external_url: https://www.helmiau.com/blog/helmiwrt-os
+      output: web, pdf
+
+    - title: Pulpstone
+      external_url: https://pulpstone.pw/id/firmware-id/
+      output: web, pdf
+
+    - title: Ophub
+      external_url: https://github.com/ophub/amlogic-s9xxx-openwrt/releases/tag/OpenWrt_aarch64_12.06.2102
+      output: web, pdf
+
+    - title: Rooter
+      external_url: https://radenku.com/firmware-rooter-goldenorb-stb-amlogic/
+      output: web, pdf
+
+  - title: Firmware Router
+    output: web, pdf
+    folderitems:
+
+    - title: Tplink
+      url: /firmware_tplink.html
+      output: web, pdf
+
+    - title: Tenda
+      url: /firmware_tenda.html
+      output: web, pdf
+
+    - title: Totolink
+      url: /firmware_totolink.html
+      output: web, pdf
+
+    - title: Ubnt
+      url: /firmware_ubnt.html
+      output: web, pdf
+
+    - title: Mikrotik
+      url: /firmware_mikrotik.html
+      output: web, pdf
+
+  - title: Firmware Modem
+    output: web, pdf
+    folderitems:
+
+    - title: Huawei
+      url: /firmware_huawei.html
+      output: web, pdf
+
+    - title: Zte
+      url: /firmware_zte.html
       output: web, pdf
 
 # Copyright 2021 Google LLC
