@@ -5,7 +5,7 @@ last_updated: Desember 9, 2022
 tags: [belajar_clash]
 summary: "Siapkan koneksi internet anda untuk kelancaran instalasi clash."
 sidebar: dokument_master
-permalink: dokumen_install_clash.md
+permalink: dokumen_install_clash.html
 folder: dokument
 ---
 
