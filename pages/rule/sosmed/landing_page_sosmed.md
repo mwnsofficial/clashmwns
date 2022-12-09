@@ -1,7 +1,7 @@
 ---
 title: Rule Sosmed
-keywords: mydoc
-sidebar: rule
+keywords: rule sosmed
+sidebar: layanan_clashmwns
 toc: false
 permalink: /rule_sosmed.html
 folder: sosmed
