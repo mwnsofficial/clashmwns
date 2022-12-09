@@ -15,6 +15,6 @@ Clash adalah system operasional berbasis linux dan bersifat terbuka.
 
 Di dirikan oleh [Vernesong](https://github.com/vernesong) bersama teman-teman nya di [Github](https://github.com)
 
-Dalam clash ada beberapa kelebih dan kekurangan nya. Mari kita simak di [Kekurangangan dan Kelebihan Clash](/dokument_kekurangan_dan_kelebihan.html
+Dalam clash ada beberapa kelebih dan kekurangan nya. Mari kita simak di <a alt='Kekurangangan dan Kelebihan Clash' href='https://www.clashmwns.com/dokument_kekurangan_dan_kelebihan.html'>Kekurangangan dan Kelebihan Clash</a>
 
 {% include links.html %}
