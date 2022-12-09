@@ -1,7 +1,7 @@
 ---
 title: Rule Browser
-keywords: mydoc
-sidebar: rule
+keywords: rule browser
+sidebar: layanan_clashmwns
 toc: false
 permalink: /rule_browser.html
 folder: browser
