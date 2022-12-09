@@ -19,7 +19,7 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: clashmwns
+  - title: Beranda
     output: web, pdf
     folderitems:
 
@@ -27,27 +27,7 @@ entries:
       external_url: https://github.com/mwnsofficial
       output: web, pdf
 
-    - title: About Us
-      url: /about_us
-      output: web, pdf
-
-    - title: Donasi
-      url: /donate
-      output: web, pdf
-
-    - title: Disclaimer
-      url: /disclaimer
-      output: web, pdf
-
-    - title: Privacy Policy
-      url: /privacy_policy
-      output: web, pdf
-
-  - title: Overview
-    output: web, pdf
-    folderitems:
-
-    - title: mulai dari awal
+    - title: Home
       url: /index.html
       output: web
       type: homepage
