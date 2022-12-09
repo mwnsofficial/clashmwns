@@ -67,44 +67,8 @@ Untuk alasan keamanan, kami berhenti dan mematikan cabai. Begini caranya jika An
 /etc/init.d/chilli disable
 ```
 
-Aaaaaa
-
-
-			<tr>
-				<th scope="col">Nama</th>
-				<th scope="col">Alamat</th>
-				<th scope="col">Telp</th>
-				<th scope="col">Email</th>
-			</tr>
-			<tr>
-				<td data-header="Nama" class="title">Anton</td>
-				<td data-header="Alamat" >Jakarta</td>
-				<td data-header="Telp" >08562136x</td>
-				<td data-header="Email" >anton@email.com</td>
-			</tr>
-			<tr>
-				<td data-header="Nama" class="title">Bryan</td>
-				<td data-header="Alamat" >Surabaya</td>
-				<td data-header="Telp" >08581234x</td>
-				<td data-header="Email" >bryan@email.com</td>
-			</tr>
-			<tr>
-				<td data-header="Nama" class="title">Cherly</td>
-				<td data-header="Alamat" >Semarang</td>
-				<td data-header="Telp" >08121234x</td>
-				<td data-header="Email" >cherly@email.com</td>
-			</tr>
-			<tr>
-				<td data-header="Nama" class="title">Dean</td>
-				<td data-header="Alamat" >Makassar</td>
-				<td data-header="Telp" >08111234x</td>
-				<td data-header="Email" >dean@email.com</td>
-			</tr>
-			<tr>
-				<td data-header="Nama" class="title">Esryl</td>
-				<td data-header="Alamat" >Medan</td>
-				<td data-header="Telp" >08131234x</td>
-				<td data-header="Email" >esryl@email.com</td>
-			</tr>
+|aku|kamu|dia|
+|---|----|---|
+|dia|kamu|aku|
 
 {% include links.html %}
