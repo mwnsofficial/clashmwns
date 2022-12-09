@@ -28,6 +28,7 @@ Opsi konfigurasi
 Secara umum, semua opsi yang memungkinkan dapat digunakan dalam chilli binary (man chilli.conf(5)) di file /etc/config/chilli. Setiap pilihan harus diawali dengan kata kunci 'pilihan'. Jadi misalnya: 
 
 |command line|chilli -c <file>|/etc/config/chilli|old-style|/etc/chilli/defaults|
+|-|-|-|
 |-radiusnasid <value>|radiusnasid=<value>|option radiusnasid “value”|HS_NASID=“value”|
 |-radiussecret <value>|radiussecret=<value>|option radiussecret “value”|HS_RADSECRET=“value”|
 |-uamsecret <value>|uamsecret=<value>option uamsecret “value”|HS_UAMSECRET=“value”|
@@ -65,8 +66,5 @@ Untuk alasan keamanan, kami berhenti dan mematikan cabai. Begini caranya jika An
 /etc/init.d/chilli disable
 ```
 
-|aku|kamu|dia|
-|---|----|---|
-|dia|kamu|aku|
 
 {% include links.html %}
