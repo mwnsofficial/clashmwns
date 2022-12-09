@@ -67,6 +67,7 @@ Untuk alasan keamanan, kami berhenti dan mematikan cabai. Begini caranya jika An
 /etc/init.d/chilli disable
 ```
 
+         <div class="table-responsive">
 		<table class="table table-bordered table-striped table-hover">
 			<thead>
 				<tr>
@@ -103,5 +104,6 @@ Untuk alasan keamanan, kami berhenti dan mematikan cabai. Begini caranya jika An
 				</tr>
 			</tbody>
 		</table>
+          </div>
 
 {% include links.html %}
