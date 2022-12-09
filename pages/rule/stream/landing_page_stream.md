@@ -1,7 +1,7 @@
 ---
 title: Rule Stream
-keywords: mydoc
-sidebar: rule
+keywords: rule stream
+sidebar: layanan_clashmwns
 toc: false
 permalink: /rule_stream.html
 folder: stream
