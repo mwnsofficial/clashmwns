@@ -27,7 +27,7 @@ Untuk solusi sederhana, nonkomersial, alat tunggal dengan laman landas hosting, 
 Opsi konfigurasi 
 Secara umum, semua opsi yang memungkinkan dapat digunakan dalam chilli binary (man chilli.conf(5)) di file /etc/config/chilli. Setiap pilihan harus diawali dengan kata kunci 'pilihan'. Jadi misalnya: 
 
-| command line|chilli -c <file> | /etc/config/chilli | old-style | /etc/chilli/defaults |
+| command line|chilli -c <file> | /etc/config/chilli | old-style /etc/chilli/defaults |
 | - | - | - | - |
 | -radiusnasid <value> | radiusnasid=<value> | option radiusnasid “value” | HS_NASID=“value” |
 |-radiussecret <value>|radiussecret=<value> | option radiussecret “value” | HS_RADSECRET=“value” |
@@ -36,12 +36,14 @@ Secara umum, semua opsi yang memungkinkan dapat digunakan dalam chilli binary (m
 Pengecualian adalah ketika ada opsi null atau boolean. Misalnya swapbyte. Cukup menyetel opsi ini ke nol berarti OpenWrt tidak menanganinya. Jadi untuk opsi ini Anda harus menetapkan 1.
 
 | command line | chilli -c <file> | /etc/config/chilli |
+| - | - | - | - |
 | -swapoctets | swapoctets | option swapoctets 1 |
 | -uamanydns | uamanydns | option uamanydns 1 |
 
 Pengecualian lain adalah opsi -uamallowed (dan mungkin uamdomain). Biner cabai menerima banyak contoh dari tema ini, sehingga Anda dapat memasukkan beberapa alamat host dengan benar. Namun, file konfigurasi OpenWrt hanya menerima satu tema. Oleh karena itu, Anda harus mengelompokkan semua host dalam satu baris, mungkin dengan tanda hubung di depan simbol "\".
 
 | chilli -c multiline | becomes 'single' line |
+| - | - | - | - |
 | uamallowed=“hosta,hostb” | option uamallowed “hosta,hostb,\ |
 | uamallowed=“hostc,hostd” | hostc,hostd” |
 
