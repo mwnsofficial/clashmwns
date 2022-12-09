@@ -3,10 +3,10 @@ repository: mwnsofficial/clashmwns
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: clashmwns
+topnav_title: clash mwns
 # this appears on the top navigation bar next to the home button
 
-site_title: clashmwns
+site_title: Belajar bersama clashmwns dari awal hingga menjadi profesional
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: dokument clashmwns
@@ -33,7 +33,7 @@ exclude:
   - vendor
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: clashmwns
+feedback_subject_line: clash mwns
 
 feedback_email: myarachma92@gmail.com
 # used as a contact email for the Feedback link in the top navigation bar
@@ -74,7 +74,7 @@ defaults:
       comments: true
       # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
       search: true
-      sidebar: dokument
+      sidebar: home_master
       topnav: topnav
   -
     scope:
@@ -94,15 +94,17 @@ defaults:
       comments: true
       # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
       search: true
-      sidebar: dokument
+      sidebar: home_master
       topnav: topnav
 
 # these are defaults used for the frontmatter for these file types
 
 sidebars:
-- clash_mwns
-- dokument
-- layanan_clashmwns
+- home_master
+- dokument_master
+- product1_master
+- product2_master
+- other
 
 description: "clashmwns akan selalu berikan tutorial yang terbaik untuk anda."
 # the description is used in the feed.xml file
@@ -115,4 +117,4 @@ description: "clashmwns akan selalu berikan tutorial yang terbaik untuk anda."
 github: [metadata]
 
 
-# Copyright 2022 clashmwns
+# Copyright 2021 Google LLC
