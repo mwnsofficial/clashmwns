@@ -19,76 +19,80 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Layanan clashmwns
+  - title: clashmwns
     output: web, pdf
     folderitems:
 
-    - title: Overview
+    - title: Layanan
       url: /layanan_clashmwns.html
       output: web
 
-  - title: Simple Workflow
+  - title: Buat Akun
     output: web, pdf
     folderitems:
 
-    - title: Sample 1
-      url: /p2_sample1.html
+    - title: Free
+      url: /akun_free.html
       output: web, pdf
 
-    - title: Sample 2
-      url: /p2_sample2.html
+    - title: Premium
+      url: /akun_premium.html
       output: web, pdf
 
-    - title: Sample 3
-      url: /p2_sample3.html
-      output: web, pdf
-
-    - title: Sample 4
-      url: /p2_sample4.html
-      output: web, pdf
-
-    - title: Sample 5
-      url: /p2_sample5.html
-      output: web, pdf
-
-  - title: Complex Workflow
+  - title: Buka jasa
     output: web, pdf
     folderitems:
 
-    - title: Sample 6
-      url: /p2_sample6.html
+    - title: Remote Openwrt
+      url: /remote_openwrt.html
       output: web, pdf
 
-    - title: Sample 7
-      url: /p2_sample7.html
+    - title: Remot Mikrotik
+      url: /remote_mikrotik.html
       output: web, pdf
 
-    - title: Sample 8
+    - title: Remote Clash
+      url: /remote_clash.html
+      output: web, pdf
+
+    - title: Pasang Wifi Pedesaan
+      url: /pasang_wifi.html
+      output: web, pdf
+
+  - title: File
+    output: web, pdf
+    folderitems:
+
+    - title: Rule
+      url: /rule.html
+      output: web, pdf
+
+    - title: Script
+      url: /script.html
+      output: web, pdf
+
+    - title: Port
+      url: /port.html
+      output: web, pdf
+
+    - title: Akun
       url: /p2_sample8.html
       output: web, pdf
 
-    - title: Sample 9
+    - title: Konfig
       url: /p2_sample9.html
       output: web, pdf
 
-    - title: Sample 10
+    - title: Firmware Router
       url: /p2_sample10.html
       output: web, pdf
 
-    - title: Sample 11
+    - title: Firmware Openwrt
       url: /p2_sample11.html
       output: web, pdf
 
-    - title: Sample 12
+    - title: Firmware Modem
       url: /p2_sample12.html
-      output: web, pdf
-
-    - title: Sample 13
-      url: /p2_sample13.html
-      output: web, pdf
-
-    - title: Sample 14
-      url: /p2_sample14.html
       output: web, pdf
 
 # Copyright 2021 Google LLC
