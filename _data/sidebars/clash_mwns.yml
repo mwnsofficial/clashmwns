@@ -19,7 +19,7 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Beranda
+  - title: clashmwns
     output: web, pdf
     folderitems:
 
@@ -27,7 +27,7 @@ entries:
       external_url: https://github.com/mwnsofficial
       output: web, pdf
 
-    - title: Home
+    - title: Beranda
       url: /index.html
       output: web
       type: homepage
@@ -88,168 +88,12 @@ entries:
       url: /tag_clash.html
       output: web
 
-  - title: Jasa clashmwns
+  - title: Layanan
     output: web, pdf
     folderitems:
 
-    - title: Remote OpenWRT
-      url: /jasa_clashmwns.html
-      output: web, pdf
-
-  - title: Konfigurasi Clash
-    output: web, pdf
-    folderitems:
-
-    - title: Clash Openwrt
-      url: /clash_openwrt.html
-      output: web, pdf
-
-    - title: Clash Android
-      url: /clash_android.html
-      output: web, pdf
-
-    - title: Clash Magisk
-      url: /clash_magisk.html
-      output: web, pdf
-
-    - title: Clash Termux
-      url: /clash_termux.html
-      output: web, pdf
-
-    - title: Clash Wimdows
-      url: /clash_windows.html
-      output: web, pdf
-
-  - title: Firmware Openwrt
-    output: web, pdf
-    folderitems:
-
-    - title: Original
-      external_url: https://openwrt.org/toh/views/toh_fwdownload
-      output: web, pdf
-
-    - title: Simaster
-      url: /firmware_simaster.html
-      output: web, pdf
-
-    - title: Helmi OS
-      external_url: https://www.helmiau.com/blog/helmiwrt-os
-      output: web, pdf
-
-    - title: Pulpstone
-      external_url: https://pulpstone.pw/id/firmware-id/
-      output: web, pdf
-
-    - title: Ophub
-      external_url: https://github.com/ophub/amlogic-s9xxx-openwrt/releases/tag/OpenWrt_aarch64_12.06.2102
-      output: web, pdf
-
-    - title: Rooter
-      external_url: https://radenku.com/firmware-rooter-goldenorb-stb-amlogic/
-      output: web, pdf
-
-  - title: Firmware Router
-    output: web, pdf
-    folderitems:
-
-    - title: Tplink
-      url: /firmware_tplink.html
-      output: web, pdf
-
-    - title: Tenda
-      url: /firmware_tenda.html
-      output: web, pdf
-
-    - title: Totolink
-      url: /firmware_totolink.html
-      output: web, pdf
-
-    - title: Ubnt
-      url: /firmware_ubnt.html
-      output: web, pdf
-
-    - title: Mikrotik
-      url: /firmware_mikrotik.html
-      output: web, pdf
-
-  - title: Firmware Modem
-    output: web, pdf
-    folderitems:
-
-    - title: Huawei
-      url: /firmware_huawei.html
-      output: web, pdf
-
-    - title: Zte
-      url: /firmware_zte.html
-      output: web, pdf
-
-  - title: Buat Akum
-    output: web, pdf
-    folderitems:
-
-    - title: Free
-      url: /akun_free.html
-      output: web, pdf
-
-    - title: Premium
-      url: /akun_premium.html
-      output: web, pdf
-
-  - title: File Rule
-    output: web, pdf
-    folderitems:
-
-    - title: Browser
-      url: /rule_browser.html
-      output: web, pdf
-
-    - title: Sosmed
-      url: /rule_sosmed.html
-      output: web, pdf
-
-    - title: Stream
-      url: /rule_stream.html
-      output: web, pdf
-
-    - title: Game
-      url: /rule_game.html
-      output: web, pdf
-
-  - title: File Script
-    output: web, pdf
-    folderitems:
-
-    - title: Browser
-      url: /script_browser.html
-      output: web, pdf
-
-    - title: Sosmed
-      url: /script_sosmed.html
-      output: web, pdf
-
-    - title: Stream
-      url: /script_stream.html
-      output: web, pdf
-
-    - title: Game
-      url: /script_game.html
-      output: web, pdf
-
-  - title: File Port
-    output: web, pdf
-    folderitems:
-
-    - title: Game
-      url: /port_game.html
-      output: web, pdf
-
-    - title: Zerotier
-      url: /port_zerotier.html
-      output: web, pdf
-
-    - title: Whatsapp
-      url: /port_whatsapp.html
+    - title: Layanan simaster
+      url: /layanan_clashmwns.html
       output: web, pdf
 
 # Copyright 2021 Google LLC
