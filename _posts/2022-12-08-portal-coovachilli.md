@@ -67,43 +67,47 @@ Untuk alasan keamanan, kami berhenti dan mematikan cabai. Begini caranya jika An
 /etc/init.d/chilli disable
 ```
 
-         <div class="table-responsive">
-		<table class="table table-bordered table-striped table-hover">
-			<thead>
-				<tr>
-					<th>No</th>
-					<th>Makanan</th>
-					<th>Harga</th>				
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<td>1</td>
-					<td>Bakso</td>
-					<td>12.000</td>
-				</tr>
-				<tr>
-					<td>2</td>
-					<td>Mie Goreng</td>
-					<td>7.000</td>
-				</tr>
-				<tr>
-					<td>3</td>
-					<td>Nasi Goreng</td>
-					<td>15.000</td>
-				</tr>
-				<tr>
-					<td>4</td>
-					<td>Sate Padang</td>
-					<td>17.000</td>
-				</tr>
-				<tr>
-					<td>5</td>
-					<td>Nasi Soto</td>
-					<td>20.000</td>
-				</tr>
-			</tbody>
-		</table>
-          </div>
+	<table class="table-master responsive" >
+		<thead>
+			<tr>
+				<th scope="col">Nama</th>
+				<th scope="col">Alamat</th>
+				<th scope="col">Telp</th>
+				<th scope="col">Email</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td data-header="Nama" class="title">Anton</td>
+				<td data-header="Alamat" >Jakarta</td>
+				<td data-header="Telp" >08562136x</td>
+				<td data-header="Email" >anton@email.com</td>
+			</tr>
+			<tr>
+				<td data-header="Nama" class="title">Bryan</td>
+				<td data-header="Alamat" >Surabaya</td>
+				<td data-header="Telp" >08581234x</td>
+				<td data-header="Email" >bryan@email.com</td>
+			</tr>
+			<tr>
+				<td data-header="Nama" class="title">Cherly</td>
+				<td data-header="Alamat" >Semarang</td>
+				<td data-header="Telp" >08121234x</td>
+				<td data-header="Email" >cherly@email.com</td>
+			</tr>
+			<tr>
+				<td data-header="Nama" class="title">Dean</td>
+				<td data-header="Alamat" >Makassar</td>
+				<td data-header="Telp" >08111234x</td>
+				<td data-header="Email" >dean@email.com</td>
+			</tr>
+			<tr>
+				<td data-header="Nama" class="title">Esryl</td>
+				<td data-header="Alamat" >Medan</td>
+				<td data-header="Telp" >08131234x</td>
+				<td data-header="Email" >esryl@email.com</td>
+			</tr>
+		</tbody>
+	</table>
 
 {% include links.html %}
