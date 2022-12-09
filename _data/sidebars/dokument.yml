@@ -6,15 +6,15 @@ entries:
   version: 
   folders:
 
-  - title:
+  - title: test
     output: pdf
     type: frontmatter
     folderitems:
-    - title:
+    - title: test1
       url: /titlepage.html
       output: pdf
       type: frontmatter
-    - title:
+    - title: test2
       url: /tocpage.html
       output: pdf
       type: frontmatter
@@ -91,7 +91,6 @@ entries:
   - title: Layanan
     output: web, pdf
     folderitems:
-
     - title: Layanan simaster
       url: /layanan_clashmwns.html
       output: web, pdf
