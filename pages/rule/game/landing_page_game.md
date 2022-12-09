@@ -1,7 +1,7 @@
 ---
 title: Rule Game
-keywords: mydoc
-sidebar: rule
+keywords: rule game
+sidebar: layanan_clashmwns
 toc: false
 permalink: /rule_game.html
 folder: game
