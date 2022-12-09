@@ -4,5 +4,7 @@
 allowed-tags:
   - overview
   - adsense
+  - openwrt
+  - clash
 
 # Copyright 2022 Google LLC
