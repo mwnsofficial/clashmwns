@@ -67,6 +67,7 @@ Untuk alasan keamanan, kami berhenti dan mematikan cabai. Begini caranya jika An
 /etc/init.d/chilli disable
 ```
 
+		<table class="table table-bordered table-striped table-hover">
 			<thead>
 				<tr>
 					<th>No</th>
@@ -101,6 +102,6 @@ Untuk alasan keamanan, kami berhenti dan mematikan cabai. Begini caranya jika An
 					<td>20.000</td>
 				</tr>
 			</tbody>
-
+		</table>
 
 {% include links.html %}
