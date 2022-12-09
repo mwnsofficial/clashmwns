@@ -35,4 +35,4 @@ Untuk soal situs, saya menyiapkan beberapa metode dalam pembelajaran materi:
 
 - [Tiktok](https://tiktok.com/@mwns92)
 
-{% include links.html %}
+
