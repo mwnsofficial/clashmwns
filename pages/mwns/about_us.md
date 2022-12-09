@@ -1,5 +1,10 @@
 ---
 title: About Us
+tags: [overview]
+keywords: about us
+last_updated: "Desember 9, 2022"
+summary: "Tentang clashmwns"
+published: true
 sidebar: dokument_master
 permalink: about_us.html
 folder: mwns
