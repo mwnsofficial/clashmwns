@@ -1,0 +1,135 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Selamat datang di clashmwns
+  version:
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Clash Master
+    output: web, pdf
+    folderitems:
+
+    - title: Beranda
+      url: /dokument_perkenalan.html
+      output: web, pdf
+      type: homepage
+    
+    - title: Github
+      external_url: https://github.com/mwnsofficial
+      output: web, pdf
+
+    - title: About us
+      url: /about_us.html
+      output: web, pdf
+    
+    - title: Disclaimer
+      url: /disclaimer.html
+      output: web, pdf
+    
+    - title: Privacy policy
+      url: /privacy_policy.html
+      output: web, pdf
+
+  - title: Tutorial Clash
+    output: web, pdf
+    folderitems:
+
+    - title: Belajar Clash
+      url: /index.html
+      output: web, pdf
+
+    - title: Kekurangan dan Kelebihan
+      url: /dokument_kekurangan_dan_kelebihan.html
+      output: web, pdf
+
+    - title: Install
+      url: /dokument_setting_dasar.html
+      output: web, pdf
+
+    - title: Setting Dasar
+      url: /dokument_setting_dasar.html
+      output: web, pdf
+
+    - title: Mengatur Proksi
+      url: /dokument_setting_proksi.html
+      output: web, pdf
+
+    - title: Mengatur Proksi Provider
+      url: /dokument_setting_proksi_provider.html
+      output: web, pdf
+
+    - title: Mengatur Proksi Grup
+      url: /dokument_setting_proksi_grup.html
+      output: web, pdf
+
+    - title: Mengatur Rule
+      url: /dokument_setting_rule.html
+      output: web, pdf
+
+    - title: Mengatur Rule Provider 
+      url: /dokument_setting_rule_provider.html
+      output: web, pdf
+
+    - title: Mengatur ruleset
+      url: /dokument_setting_ruleset.html
+      output: web, pdf
+
+    - title: Mengatur Backup
+      url: /dokument_setting_backup.html
+      output: web, pdf
+
+    - title: Mengatur Update Versi
+      url: /dokument_setting_update_versi.html
+      output: web, pdf
+
+    - title: Mengatur Dellay Start
+      url: /dokument_setting_dellay_start.html
+      output: web, pdf
+
+    - title: Mengatur Dns
+      url: /dokument_setting_dns.html
+      output: web, pdf
+
+    - title: Mengatur Dellay Start
+      url: /dokument_setting_dellay_start.html
+      output: web, pdf
+
+    - title: Mengatur Meta
+      url: /dokument_setting_meta.html
+      output: web, pdf
+
+    - title: Mengatur Update Chnroute
+      url: /dokument_setting_update_chnroute.html
+      output: web, pdf
+
+    - title: Mengatur Update Geoip
+      url: /dokument_setting_update_geoip.html
+      output: web, pdf
+
+    - title: Mengatur Upload File Backup
+      url: /dokument_setting_upload_file_backup.html
+      output: web, pdf
+
+    - title: Mengatur Config Editor
+      url: /dokument_setting_config_editor.html
+      output: web, pdf
+
+    - title: Mengatur Kontrol Panel
+      url: /dokument_setting_kontrol_panel.html
+      output: web, pdf
+
+# dokument clashmwns
