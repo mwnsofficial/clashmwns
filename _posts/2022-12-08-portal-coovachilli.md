@@ -69,16 +69,13 @@ Untuk alasan keamanan, kami berhenti dan mematikan cabai. Begini caranya jika An
 
 Aaaaaa
 
-	<table class="table-master" >
-		<thead>
+
 			<tr>
 				<th scope="col">Nama</th>
 				<th scope="col">Alamat</th>
 				<th scope="col">Telp</th>
 				<th scope="col">Email</th>
 			</tr>
-		</thead>
-		<tbody>
 			<tr>
 				<td data-header="Nama" class="title">Anton</td>
 				<td data-header="Alamat" >Jakarta</td>
@@ -109,7 +106,5 @@ Aaaaaa
 				<td data-header="Telp" >08131234x</td>
 				<td data-header="Email" >esryl@email.com</td>
 			</tr>
-		</tbody>
-	</table>
 
 {% include links.html %}
