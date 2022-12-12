@@ -1,4 +1,4 @@
 ---
-layout: null
+layout: none
 ---
 {% if site.google.adsense.publisher_id %}google.com, {{ site.google.adsense.publisher_id }}, DIRECT, f08c47fec0942fa0{% endif %}
