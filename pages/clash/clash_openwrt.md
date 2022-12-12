@@ -371,4 +371,19 @@ folder: clash
         </div>
         </div>
         </div>
+        <div class="col-md-3 col-sm-6">
+        <div class="panel panel-default text-center">
+        <div class="panel-heading">
+        <span>
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
+        </span>
+        </div>
+        <div class="panel-body">
+        <h4>clashmaster V1</h4>
+        <p>Konfig mode script dan rule.</p>
+        <a href="#" class="btn btn-primary">Lihat Video</a>
+        <a href="/oc_clashmaster_v1.html" class="btn btn-primary">Download</a>
+        </div>
+        </div>
+        </div>
     </div>
