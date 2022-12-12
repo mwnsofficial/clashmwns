@@ -1,1 +1,4 @@
-google.com, pub-1794381705838564, DIRECT, f08c47fec0942fa0
+---
+layout: null
+---
+{% if site.google.adsense.publisher_id %}google.com, {{ site.google.adsense.publisher_id }}, DIRECT, f08c47fec0942fa0{% endif %}
