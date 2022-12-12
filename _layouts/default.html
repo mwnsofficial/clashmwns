@@ -71,8 +71,10 @@
     </script>
     {% endif %}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1794381705838564"
-     crossorigin="anonymous"></script>
+    {% if site.google.adsense.publisher_id and jekyll.environment == "production" %}
+        <!-- Google AdSense -->
+        <script data-ad-client="ca-{{ site.google.adsense.publisher_id }}" async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    {% endif %}
 
 </head>
 <body onload='generate()'>
