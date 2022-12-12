@@ -19,7 +19,12 @@ github_editme_path: mwnsofficial/clashmwns/blob/main/
 # if you're using GitLab, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 google_analytics: UA-250912504-1
-# if you have google-analytics ID, put it in. if not, edit this value to blank.
+
+adsense:
+        # Google AdSense publisher ID
+        # Your publisher ID is the unique identifier for your AdSense account.
+        # Default: not set (Google AdSense is not used to show ads)
+        publisher_id: pub-1794381705838564
 
 host: 127.0.0.1
 # the preview server used. Leave as is.
