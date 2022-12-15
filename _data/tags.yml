@@ -1,8 +1,20 @@
-# Note:
-# If you are using the createtag script, don't leave a blank line at the end of this file.
-# In other words, the last line must be the last tag in the allowed-tags list.
 allowed-tags:
-  - overview
+  - dokument
+  - loker_banjarmasin
+  - loker_banjarbaru
+  - loker_banjar
+  - loker_rantau
+  - loker_kandangan
+  - loker_tanah_laut
+  - loker_tanah_bumbu
+  - loker_barabai
+  - loker_amuntai
+  - loker_tanjung
+  - loker_batola
+  - loker_kapuas
+  - loker_palangkaraya
+  - loker_balikpapan
+  - loker_samarinda
   - adsense
   - belajar_clash
 
