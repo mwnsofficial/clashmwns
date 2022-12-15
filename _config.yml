@@ -20,11 +20,7 @@ github_editme_path: mwnsofficial/clashmwns/blob/main/
 
 google_analytics: UA-250912504-1
 
-adsense:
-        # Google AdSense publisher ID
-        # Your publisher ID is the unique identifier for your AdSense account.
-        # Default: not set (Google AdSense is not used to show ads)
-        publisher_id: pub-1794381705838564
+publisher_id: pub-1794381705838564
 
 host: 127.0.0.1
 # the preview server used. Leave as is.
