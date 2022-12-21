@@ -1,4 +1,0 @@
----
-layout: none
----
-{% if site.publisher_id %}google.com, {{ site.publisher_id }}, DIRECT, f08c47fec0942fa0{% endif %}
