@@ -71,11 +71,6 @@
     </script>
     {% endif %}
 
-    {% if site.google.adsense.publisher_id and jekyll.environment == "production" %}
-        <!-- Google AdSense -->
-        <script data-ad-client="ca-{{ site.google.adsense.publisher_id }}" async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    {% endif %}
-
 </head>
 <body onload='generate()'>
 
@@ -97,33 +92,7 @@
         <!-- Content Column -->
         <div class="{{content_col_size}}" id="tg-sb-content">
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1794381705838564"
-     crossorigin="anonymous"></script>
-<!-- bannerku -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1794381705838564"
-     data-ad-slot="9279811452"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
             {{content}}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1794381705838564"
-     crossorigin="anonymous"></script>
-<!-- bannerku -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1794381705838564"
-     data-ad-slot="9279811452"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
         </div>
     <!-- /.row -->
